@@ -1,0 +1,67 @@
+<div class="face">
+	<div class="face-pic">
+		<ul class="fn-hide" id="traffic_list">
+		</ul>
+		<div class="face-none"><span t="com.None"></span></div>
+	</div>
+	<div class="face-scrollY">
+		<div class="face-dragY"></div>
+	</div>
+</div>
+<!--人脸属性信息-->
+<div class="u-dialog" id="traffic_dialog" style="width:600px;">
+    <div class="u-dialog-head">
+        <h1 t="itc.Detail"></h1>
+        <i class="i-close" data-action="close"></i>
+    </div>
+    <div class="u-dialog-content">
+    	<!--人脸报警信息 -->
+    	<div class="face_alarm ui-form-item">
+    		<label class="ui-label fn-mart0" t="per.AlarmInformation"></label>
+    		<div class="fn-hide"><span>ID: </span><span key="ID"></span></div>
+    		<div><span t="com.Time+:"></span><span key="Time"></span></div>
+    	</div>
+    	<!--物体分类 机动车属性信息 -->
+    	<div class ="face_attr">
+    		<fieldset>
+    			<legend t="sys.Attribute"></legend>
+    			<div>
+    				<div class="fn-left fn-width144">
+    					<img class="attrImg traffic_bigPic" src="" />
+    					<img src="" class="traffic_smallPic"/>
+    				</div>
+    				<ul data-for="MotorInfo" data-type="Vehicle">
+    					<li><span t="ivs_osd.TitleBit2+:"></span><span key="CarPlate" cap="Text"></span></li>
+    					<li><span t="ivs_osd.TitleBit9+:"></span><span key="PlateColor" cap="MainColor"></span></li>
+    					<li><span t="ivs_osd.TitleBit32+:"></span><span key="VehicleSign" cap="CarLogoIndex"></span></li>
+                        <li><span t="ivs_osd.TitleBit58+:"></span><span key="BrandYear" cap="BrandYear"></span></li>
+    					<li><span t="ivs_osd.TitleBit11+:"></span><span key="VehicleColor" cap="VehicleColor"></span></li>
+    					<li><span t="itc.CarType+:"></span><span key="VehicleType" cap="Category"></span></li>
+    					<li><span t="ivs.SunLouver+:"></span><span key="SunShadeStatus" cap="SunShade"></span></li>
+    					<li><span t="ivs.CarItems+:"></span><span key="AttachmentStatus" cap="Attachment"></span></li>
+    					<li><span t="ivs_osd.TitleBit60+:"></span><span key="CallStatus" cap="Call"></span></li>
+    					<li><span t="ivs.SafetyBelt+:"></span><span key="SafeBeltStatus" cap="SafeBelt"></span></li>
+    					<li><span t="ivs.InspectionSticker+:"></span><span key="AnnualInspectionStatus" cap="AnnualInspection"></span></li>
+    					<li><span t="ivs_osd.TitleBit59+:"></span><span key="SmokeStatus" cap="Smoking"></span></li>
+    				</ul>
+    				<ul data-for="NonMotorInfo" data-type="NonMotor">
+    					<li><span t="itc.CarType+:"></span><span key="NonMotorType" cap="Category"></span></li>
+    					<li><span t="ivs_osd.TitleBit11+:"></span><span key="NonMotorColor" cap="VehicleColor"></span></li>
+    					<li><span t="ivs.Rider+:"></span><span key="NumOfCycling" cap="NumOfCycling"></span></li>
+                        <li><span t="ivs.UpperBodyColor+:"></span><span key="UpperBodyColor" cap="UpperBodyColor"></span></li>
+                        <li><span t="ivs.UpClothesType+:"></span><span key="UpClothes" cap="UpClothes"></span></li>
+    				</ul>
+    				<ul data-for="HumanTrait" data-type="Human">
+    					<li><span t="Gender+:"></span><span key="Sex" cap="Sex"></span></li>
+    					<li><span t="ivs.UpperBodyColor+:"></span><span key="CoatColor" cap="CoatColor"></span></li>
+    					<li><span t="ivs.UpClothesType+:"></span><span key="CoatType" cap="CoatType"></span></li>
+    					<li><span t="ivs.LowerBodyColor+:"></span><span key="TrousersColor" cap="TrousersColor"></span></li>
+    					<li><span t="ivs.DownClothesType+:"></span><span key="TrousersType" cap="TrousersType"></span></li>
+    					<li><span t="ivs.Hat+:"></span><span key="HatStatus" cap="HasHat"></span></li>
+    					<li><span t="ivs.Bag+:"></span><span key="BagStatus" cap="HasBag"></span></li>
+					</ul>
+    			</div>
+    		</fieldset>
+    	</div>
+    </div>
+</div>

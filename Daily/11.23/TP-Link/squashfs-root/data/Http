@@ -1,0 +1,8 @@
+{
+	"DocumentRoot":"/mnt/web",              
+	"Alias":{
+		"custom_lang":"/mnt/custom",
+		"default_lang":"/usr/data/Strings",
+		"current_config":"/mnt/mtd/Config"
+	}
+}

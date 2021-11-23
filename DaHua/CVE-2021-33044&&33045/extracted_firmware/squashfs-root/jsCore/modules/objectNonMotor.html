@@ -1,0 +1,82 @@
+<div class="object">
+	<div class="object-pic">
+		<ul class="fn-hide" id="object_list">
+			
+		</ul>
+		<div class="object-none" t="com.None"></div>
+	</div>
+	<div class="object-scrollX">
+		<div class="object-dragX"></div>
+	</div>
+</div>
+<!--物体分类 非机动车详情-->
+<div class="u-dialog" id="object_dialog" style="width:600px;">
+    <div class="u-dialog-head">
+        <h1 t="itc.Detail"></h1>
+        <i class="i-close" data-action="close"></i>
+    </div>
+    <div class="u-dialog-content">
+    	<!--人脸报警信息 -->
+    	<div class="face_alarm ui-form-item">
+    		<label class="ui-label fn-mart0" t="per.AlarmInformation"></label>
+    		<ul class="fn-marl120 fn-lineh22">
+    			<li>
+    				<span t="com.Time+:"></span><span key="Time"></span>
+    			</li>
+    		</ul>
+    	</div>
+    	<!--人脸属性信息 -->
+    	<div class ="face_attr" show-for="FDPictureUrl">
+    		<fieldset>
+    			<legend t="sys.Attribute"></legend>
+    			<div>
+    				<img class="attrImg" src="" />
+    				<ul>
+                        <li><span t="Age+:"></span><span key="Age"></span></li>
+                        <li><span t="Sex+:"></span><span key="Sex"></span></li>
+                        <li><span t="Emotion+:"></span><span key="Emotion"></span></li>
+                        <li><span t="Glasses+:"></span><span key="Glasses"></span></li>
+                        <li><span t="Mask+:"></span><span key="Mask"></span></li>
+                        <li><span t="Race+:"></span><span key="Race"></span></li>
+                        <li><span t="Beard+:"></span><span key="Beard"></span></li>
+    				</ul>
+    			</div>
+    		</fieldset>
+    	</div>
+    	<!--人体 -->
+    	<div class ="face_attr" show-for="HumanTrait">
+    		<fieldset>
+    			<legend t="sys.Attribute"></legend>
+    			<div>
+    				<img class="attrImg" src="" />
+    				<ul>
+    					<li><span t="Gender+:"></span><span key="Sex"></span></li>
+    					<li><span t="ivs.UpperBodyColor+:"></span><span key="CoatColor"></span></li>
+    					<li><span t="ivs.UpClothesType+:"></span><span key="CoatType"></span></li>
+    					<li><span t="ivs.LowerBodyColor+:"></span><span key="TrousersColor"></span></li>
+    					<li><span t="ivs.DownClothesType+:"></span><span key="TrousersType"></span></li>
+    					<li><span t="ivs.Hat+:"></span><span key="HatStatus"></span></li>
+    					<li><span t="ivs.Bag+:"></span><span key="BagStatus"></span></li>
+    				</ul>
+    			</div>
+    		</fieldset>
+    	</div>
+    	<!--非机动车 -->
+    	<div class ="face_attr" show-for="NonMotorDetect">
+    		<fieldset>
+    			<legend t="sys.Attribute"></legend>
+    			<div>
+    				<img class="attrImg" src="" />
+    				<ul>
+                        <li><span t="itc.CarType+:"></span><span key="NonMotorType"></span></li>
+    					<li><span t="ivs_osd.TitleBit11+:"></span><span key="NonMotorColor"></span></li>
+    					<li><span t="ivs.Rider+:"></span><span key="NumOfCycling"></span></li>
+    					<!--<li><span t="ivs.Helmet+:"></span><span key="HelmetStatus"></span></li>-->
+                        <li><span t="ivs.UpperBodyColor+:"></span><span key="UpperBodyColor"></span></li>
+                        <li><span t="ivs.UpClothesType+:"></span><span key="UpClothes"></span></li>
+    				</ul>
+    			</div>
+    		</fieldset>
+    	</div>
+    </div>
+</div>

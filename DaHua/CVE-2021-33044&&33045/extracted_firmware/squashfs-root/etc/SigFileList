@@ -1,0 +1,13 @@
+/etc/services
+/etc/init.d/dnode
+/etc/init.d/test
+/etc/init.d/appauto
+/etc/init.d/rcS
+/etc/protocols
+/etc/fstab
+/etc/ppp/pppoe-start
+/etc/SigFilePartition
+/etc/group
+/etc/profile
+/etc/passwd
+/etc/inittab

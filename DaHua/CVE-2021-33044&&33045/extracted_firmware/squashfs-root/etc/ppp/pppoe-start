@@ -1,0 +1,2 @@
+#!/bin/sh
+pppoe -p /var/tmp/pppoe-start.pid.pppoe -I eth0 -T 80 -U  -m 1412

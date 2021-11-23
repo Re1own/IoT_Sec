@@ -1,0 +1,15 @@
+#! /bin/sh
+#special profile.txt
+
+sonia_para=""
+if [ -f /var/tmp/sonia_para ];then
+sonia_para=`cat /var/tmp/sonia_para`
+fi
+echo sonia_para=$sonia_para
+/usr/bin/sonia $sonia_para
+
+code=$?
+echo "application exit:${code}"
+/usr/bin/exittime ${code}
+/usr/etc/exit.sh
+

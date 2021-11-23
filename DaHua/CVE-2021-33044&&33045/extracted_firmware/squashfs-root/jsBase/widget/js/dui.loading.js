@@ -1,0 +1,1 @@
+!function(a){a.fn.loading=function(b,c){if(0===arguments.length&&(b=!0),"string"===a.type(b)&&(c=b,b=!!b),b){var d=a.mask(this).addClass("u-loading"),e=a("<span></span>");return d.append(e.css("line-height",d.height()+"px").toggleClass("imgLoading",!c).text(c||"")),d}return a.unmask(this),this}}(jQuery);

@@ -1,0 +1,23 @@
+{
+	"ShutDown" : "AuthMaintence",
+	"SysUpdate" : "AuthMaintence",  
+	"AutoMaintain" : "AuthMaintence", 
+	"DefaultConfig" : "AuthMaintence",
+	"GeneralConf" : "AuthSysCfg",
+	"Record" : "AuthStoreCfg", 
+	"RecordConf" : "AuthStoreCfg", 
+	"MHardisk" : "AuthStoreCfg",
+	"MPTZ" : "AuthManuCtr",
+	"PtzConfig" : "AuthPTZ",
+	"Backup" : "AuthBackup",
+	"Account" : "AuthUserMag", 
+	"Alarm" : "AuthEventCfg",
+	"AlarmConf" : "AuthEventCfg",
+	"VideoConfig" : "AuthEventCfg",
+	"IntelliConf" : "AuthEventCfg",
+	"QueryLog" : "AuthSysInfo",
+	"EncodeConf" : "AuthAVParam",
+	"VideoInputConfig" : "AuthAVParam",
+	"ComConf" : "AuthPeripheral",
+	"NetConf" : "AuthNetCfg"
+}

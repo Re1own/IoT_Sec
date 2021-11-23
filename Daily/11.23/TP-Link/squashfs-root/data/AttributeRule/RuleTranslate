@@ -1,0 +1,28 @@
+{
+    "TridimDenoise-3DType": {
+        "TridimDenoise": [
+            "Off",
+            "Auto"
+        ],
+        "3DType": {
+            "Auto": 1,
+            "Off": 0
+        }
+    },
+    "DayNightColor-Mode": {
+        "DayNightColor": [
+            "Color",
+            "Brightness",
+            "BlackWhite",
+            "Photoresistor",
+            "Gain"
+        ],
+        "Mode": {
+            "Color": 0,
+            "Brightness": 1,
+            "BlackWhite": 2,
+            "Photoresistor": 3,
+            "Gain": 4
+        }
+    }
+}

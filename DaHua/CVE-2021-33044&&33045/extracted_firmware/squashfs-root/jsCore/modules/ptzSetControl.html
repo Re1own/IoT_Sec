@@ -1,0 +1,61 @@
+<div class="fn-left fn-width150">
+    <div class="ui-boat fn-marl10">
+        <div class="ui-boat-current">
+            <div class="ui-boat-box-up boat ptzcontrol" data-hover="up" data-cmd="Up"></div>
+            <div class="ui-boat-box-left boat ptzcontrol" data-hover="left" data-cmd="Left"></div>
+            <div class="ui-boat-box-center" data-hoverex="img3" data-cmdex="Default"></div>
+            <div class="ui-boat-box-right boat ptzcontrol" data-hover="right" data-cmd="Right"></div>
+            <div class="ui-boat-box-down  boat ptzcontrol" data-hover="down" data-cmd="Down"></div>
+        </div>
+    </div>
+    <div class="ui-form-item fn-marl10" id="ptzSet_Step">
+        <label class="ui-label fn-width-auto fn-marr4" t="itc.Step"></label>
+        <select class="ui-select fn-width60" onmousewheel="javascript:return false">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5" selected="">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+        </select>
+    </div>
+</div>
+<div class="fn-left">
+    <div class="ui-ptz-adjust-item fn-clear">
+        <a class="ui-ptz-icon ptzcontrol" data-cmd="ZoomWide">
+            <i class="ui-ptz-icon-less"></i>
+        </a>
+        <label class="ui-ptz-adjust-text" t="itc.ChangeZoom"></label>
+        <a class="ui-ptz-icon ptzcontrol" data-cmd="ZoomTele">
+            <i class="ui-ptz-icon-more"></i>
+        </a>
+    </div>
+    <div class="ui-ptz-adjust-item fn-clear">
+        <a class="ui-ptz-icon ptzcontrol" data-cmd="FocusFar">
+            <i class="ui-ptz-icon-less"></i>
+        </a>
+        <label class="ui-ptz-adjust-text" t="med.Focus"></label>
+        <a class="ui-ptz-icon ptzcontrol" data-cmd="FocusNear">
+            <i class="ui-ptz-icon-more"></i>
+        </a>
+    </div>
+    <div class="ui-ptz-adjust-item fn-clear capIris">
+        <a class="ui-ptz-icon ptzcontrol" data-cmd="IrisSmall">
+            <i class="ui-ptz-icon-less"></i>
+        </a>
+        <label class="ui-ptz-adjust-text" t="pfm.Iris"></label>
+        <a class="ui-ptz-icon ptzcontrol" data-cmd="IrisLarge">
+            <i class="ui-ptz-icon-more"></i>
+        </a>
+    </div>
+</div>
+<div class="fn-left fn-padt10 fn-padl20">
+    <div class="ui-form-item fn-mart12">
+        <a data-cmd="markSceneMaxZoom" href="javascript:;" class="ui-button markSceneMaxZoom" t="ivs.SetTrackDynameter"></a>
+    </div>
+    <div class="ui-form-item fn-mart12">
+        <a data-cmd="setPreset" href="javascript:;" class="ui-button setPreset" t="ivs.SavePreset"></a>
+    </div>
+</div>

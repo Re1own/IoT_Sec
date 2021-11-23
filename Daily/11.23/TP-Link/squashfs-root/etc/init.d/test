@@ -1,0 +1,4 @@
+#! /bin/sh
+#sleep 10
+/sbin/getty -L ttyAS0 115200 vt100 -n root -l /bin/sh
+#/bin/sh

@@ -1,0 +1,26 @@
+#! /bin/sh
+APPAUTO=0
+CMDLINE="/proc/dahua/bootpara"
+APPAUTO=`cat $CMDLINE`
+APPAUTO=${APPAUTO##*appauto:}
+APPAUTO=${APPAUTO%%dh_keyboard*}
+USERFILE="/usr/etc/user.sh"
+if [ -f ${USERFILE} ];then
+	.${USERFILE}
+fi
+if [ $APPAUTO == '1' ];then
+	echo "appauto=1"
+    APPFILE="/usr/etc/app.sh"
+    if [ -f ${APPFILE} ];then
+    	 .${APPFILE}
+    else
+	echo "${APPFILE} not found!"
+	/sbin/getty -L ttyS0 115200 vt100 -n root
+    fi
+else
+    echo "appauto=0..."
+	/sbin/telnetd &
+    #/sbin/getty -L ttyS0 115200 vt100 -n root
+fi
+/usr/bin/dsh	
+

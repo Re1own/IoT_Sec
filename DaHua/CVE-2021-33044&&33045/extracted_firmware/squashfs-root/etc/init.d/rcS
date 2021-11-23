@@ -1,0 +1,41 @@
+#! /bin/sh
+
+mkdir -p /var/tmp
+
+if [ -f /proc/dahua/fsmountcmd ]; then
+	echo #! /bin/sh > /var/script
+	cat /proc/dahua/fsmountcmd >> /var/script
+	chmod 777 /var/script
+	/var/script
+	rm /var/script
+else
+	mount /dev/mtdblock6 /mnt/web/
+	mount /dev/mtdblock10 /mnt/pd/
+	mount /dev/mtdblock11 /mnt/custom/
+	mount /dev/mtdblock7 /usr/
+	mnt_jffs2 /dev/mtdblock9 /mnt/mtd jffs2
+	mount /dev/mtdblock14 /mnt/user/
+fi
+
+DH_KEYBOARD=0
+DH_KEYBOARD=`cat /proc/dahua/bootpara`
+DH_KEYBOARD=${DH_KEYBOARD##*dh_keyboard:}
+DH_KEYBOARD=${DH_KEYBOARD%%ethaddr*}
+echo "dh_keyboard:"$DH_KEYBOARD
+if [ $DH_KEYBOARD == '1' ];then
+	ln -s  /dev/console  /dev/myttyS0
+else
+	ln -s  /dev/ttyS0  /dev/myttyS0
+fi
+
+mkdir -p /mnt/mtd/Config /mnt/mtd/Log /mnt/mtd/Config/ppp /mnt/mtd/3A /var/tmp
+
+touch /mnt/mtd/Config/ppp/pppoe-enable
+touch /mnt/mtd/Config/ppp/pap-secrets
+touch /mnt/mtd/Config/ppp/pppoesessionctx
+touch /mnt/mtd/Config/ppp/pppoe-redial_time
+touch /mnt/mtd/Config/dial-ip
+
+/usr/etc/imod
+
+#/etc/init.d/appauto

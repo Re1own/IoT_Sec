@@ -1,0 +1,35 @@
+#!/bin/sh
+
+mkdir -p /dev/pts -m 666
+/bin/mount -a
+#mdev -s
+mkdir -p /dev/misc -m 666
+mkdir -p /dev/mtd -m 666
+mknod /dev/mtd/0 c 90 0
+mknod /dev/mtd/1 c 90 2
+mknod /dev/mtd/2 c 90 4
+mknod /dev/mtd/3 c 90 6
+mknod /dev/mtd/4 c 90 8
+mknod /dev/mtd/5 c 90 10
+mknod /dev/mtd/6 c 90 12
+mknod /dev/mtd/7 c 90 14
+mknod /dev/mtd/8 c 90 16
+mknod /dev/mtd/9 c 90 18
+mknod /dev/mtd/10 c 90 20
+mknod /dev/mtd/11 c 90 22
+mknod /dev/mtd/12 c 90 24
+mknod /dev/mtd/13 c 90 26
+mknod /dev/mtd/14 c 90 28
+mknod /dev/mtd/15 c 90 30
+mknod /dev/mtd/16 c 90 32
+mknod /dev/mtd/17 c 90 34
+mknod /dev/mtd/18 c 90 36
+mknod /dev/mtd/19 c 90 38
+mknod /dev/mtd/20 c 90 40
+mknod /dev/mtd/21 c 90 42
+mknod /dev/mtd/22 c 90 44
+mknod /dev/ucode c 100 1
+mknod /dev/iav c 100 0
+chmod -R 666 /dev/*
+chmod -R 666 /dev/*
+

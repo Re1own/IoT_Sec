@@ -1,0 +1,127 @@
+<!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title>Log Info</title> <script src="../jsBase/lib/jquery.js?version=@WebVersion@"></script> <script src="../jsBase/widget/js/jquery.ui.core.js?version=@WebVersion@"></script> <script src="../jsBase/widget/js/jquery.ui.widget.js?version=@WebVersion@"></script> <script src="../jsBase/lib/jquery.pubsub.js?version=@WebVersion@"></script> <script>jQuery.noConflict();</script>  <script src="../jsBase/lib/base64.js?version=@WebVersion@"></script> </head> <body style="background:#FFF">  <div id="log"> <div class="ui-form-item fn-pad0"> <div id="log_Tab"> <li>readying...</li> </div> </div> </div> <script>(function($){
+        var Common = {},
+            appName = 'appName',
+            level = 1;
+
+        Common.devNotify = {
+            comet: false,
+            topics: {},
+            initComet: function() {
+                if (this.comet == false) {
+                    var url = '/DHOP_API/'+appName+'/SubscribeLog?level=' + level;
+                    this.sessionID = level;
+                    if ($.browser.ie && $.browser.version < 9) {
+                        var comet = {};
+                        comet.connection = new ActiveXObject("htmlfile");
+                        comet.connection.open();
+                        comet.connection.write("<html>");
+                        comet.connection.write("<body>12345</body>");
+                        comet.connection.write("</html>");
+                        comet.connection.close();
+                        comet.iframediv = comet.connection.createElement("div");
+                        comet.connection.appendChild(comet.iframediv);
+                        comet.connection.parentWindow.comet = comet;
+                        comet.iframediv.innerHTML = "<iframe name='comet_iframe_platform' src='" + url + "'></iframe>";
+                        comet.connection.parentWindow.receiveMessage = this.publish.bind(this);
+                        this.iframe = comet.connection.getElementsByTagName('iframe')[0];
+                    } else {
+                        var iframe = document.createElement('iframe');
+                        iframe.setAttribute('id', 'comet_iframe_platform');
+                        iframe.setAttribute('src', url);
+                        iframe.style.display = 'none';
+                        document.body.appendChild(iframe);
+                        this.iframe = iframe;
+                        window.receiveMessage = this.publish.bind(this);
+                    }
+                    this.comet = true;
+                } else {
+                    if ($.browser.name != 'ie') {
+                        window.receiveMessage = this.publish.bind(this);
+                    }
+                }
+            },
+            subscribe: function(topic, listener) {
+                this.initComet();
+                if (this.sessionID != level) this.reconnect();
+                if (!this.topics[topic]) {
+                    this.topics[topic] = [];
+                }
+                this.topics[topic].push(listener);
+                // else this.reconnect();
+            },
+            publish: function(info) {
+                // console.log('info')
+                var topic = info.method;
+                if (!this.topics[topic]) return;
+                try {
+                    var callbacks = this.topics[topic];
+                    $.each(callbacks, function (index, func) {
+                        func(info.params, info);
+                    });
+                } catch (e) {}
+            },
+            detach: function(topic, listener) {
+                if (!listener) {
+                    delete this.topics[topic];
+                } else {
+                    var callbacks = this.topics[topic];
+                    $.each(callbacks, function (index, func) {
+                        if (func === listener) {
+                            callbacks.splice(index, 1);
+                            return false; 
+                        }
+                    });
+                }
+                
+            },
+            reconnect: function() {
+                // console.log('reconnect')
+                this.iframe.src = '/DHOP_API/'+appName+'/SubscribeLog?level=' + level;
+                this.sessionID = level;
+            }
+        };
+
+        domready();
+        
+        function parseParams(keyStr) {
+            var paramHash = {};
+            var parms = keyStr.split('&');
+            for (var i = 0; i < parms.length; i++) {
+                var start = parms[i].indexOf('=');
+                if (start < 0) {
+                    return -1;
+                } else {
+                    paramHash[parms[i].slice(0, start)] = parms[i].slice(start + 1);
+                }
+            }
+            return paramHash;
+        }
+
+        function domready(common, rpc) {
+            var url = window.location.href;
+            var sInd = url.indexOf('?');
+            if (sInd < 0) {
+                location.href = '../';
+            } else {
+                var keyStr = url.slice(sInd + 1);
+                var paramHash = parseParams(keyStr);
+                if (paramHash < 0) {} else {
+                    appName = paramHash.appName;
+                    level = paramHash.level;
+                }
+                document.title = appName + ' Log Info';
+                // console.log(appname, level);
+                var html = '';
+                    count = 0;
+                    
+                // setInterval(function(){
+                //     var info = {'data': "[thread_proc|278]: THIS IS DEMO TEST INFO LOG,10\n"};
+                //         // console.log(info);
+                //        $('#log_Tab li:first').before('<li>'+(++count) + '、' + info.data + '</li>');
+                // },1000);
+                Common.devNotify.subscribe('client.notifyEventStream', function (info) {
+                    $('#log_Tab li:first').before('<li>'+(++count) + '、' + info.data + '</li>');
+                });
+            }
+        }
+    })(jQuery);</script> </body> </html>

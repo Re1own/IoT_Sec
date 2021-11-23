@@ -1,0 +1,61 @@
+<div class="fn-left">
+    <div class="ui-boat" id="miniPtzBoat">
+        <div class="ui-boat-current">
+            <a class="ui-boat-box-up" boatCmd="Up"></a>
+            <a class="ui-boat-box-left" boatCmd="Left"></a>
+            <a class="ui-boat-box-center"></a>
+            <a class="ui-boat-box-right" boatCmd="Right"></a>
+            <a class="ui-boat-box-down" boatCmd="Down"></a>
+        </div>
+    </div>
+    <div class="ui-form-item fn-padl25" id="miniPtzStep">
+        <label class="ui-label fn-width45" t="itc.Step">
+            <!-- Speed -->
+        </label>
+        <select class="ui-select fn-width60" id="mptz_step">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5" selected="">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+        </select>
+    </div>
+</div>
+<div class="fn-left ain-ptz-adjust fn-marl20" id="miniPtzAdjust">
+    <div id="mptz_zoom_wrap" class="ui-ptz-adjust-item fn-clear">
+        <a class="ui-ptz-icon ptzControl" href="javascript:;" cmd="ZoomWide">
+            <i class="ui-ptz-icon-less"></i>
+        </a>
+        <label t="itc.ChangeZoom" class="ui-ptz-adjust-text">
+            <!-- Zoom -->
+        </label>
+        <a class="ui-ptz-icon ptzControl" href="javascript:;" cmd="ZoomTele">
+            <i class="ui-ptz-icon-more"></i>
+        </a>
+    </div>
+    <div id="mptz_focus_wrap" class="ui-ptz-adjust-item fn-clear">
+        <a class="ui-ptz-icon ptzControl" href="javascript:;" cmd="FocusFar">
+            <i class="ui-ptz-icon-less"></i>
+        </a>
+        <label t="med.Zoom" class="ui-ptz-adjust-text">
+            <!-- Focus -->
+        </label>
+        <a class="ui-ptz-icon ptzControl" href="javascript:;" cmd="FocusNear">
+            <i class="ui-ptz-icon-more"></i>
+        </a>
+    </div>
+    <div id="mptz_iris_wrap" class="ui-ptz-adjust-item fn-clear">
+        <a class="ui-ptz-icon ptzControl" href="javascript:;" cmd="IrisSmall">
+            <i class="ui-ptz-icon-less"></i>
+        </a>
+        <label t="pfm.Iris" class="ui-ptz-adjust-text">
+            <!-- Iris -->
+        </label>
+        <a class="ui-ptz-icon ptzControl" href="javascript:;" cmd="IrisLarge">
+            <i class="ui-ptz-icon-more"></i>
+        </a>
+    </div>
+</div>
