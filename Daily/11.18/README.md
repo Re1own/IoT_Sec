@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 麒麟银河
 
 ## 麒麟银河系统安全机制-KYSEC
@@ -81,7 +79,3 @@ KYSEC有三种安全模式：
 [银河麒麟系统安全机制-KYSEC - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/349663329)
 
 [虎符 2021 线下 PKS体系攻防实战 Kysec 机制绕过 | Clang裁缝店 (xuanxuanblingbling.github.io)](https://xuanxuanblingbling.github.io/ctf/pwn/2021/04/29/pk/)
-<<<<<<< HEAD
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc
-=======
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc

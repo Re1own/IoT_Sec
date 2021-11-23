@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 # Dahua固件模拟
 
 根据输出信息Main,logPtr invalid
@@ -52,13 +52,6 @@ jr $ra
 
 li $v0, 2
 
-
-
-
-
-=======
-=======
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc
 # Dahua固件模拟
 
 根据输出信息Main,logPtr invalid
@@ -105,18 +98,7 @@ uImage header（binwalk没法提取，需要手动提取）：用来保存固件
 
 ![image-20211122144634814](https://i.loli.net/2021/11/22/7uDHdLcEwTe9lOx.png)
 
-
-
 jr $ra
 
 li $v0, 2
-
-
-
-
-
-<<<<<<< HEAD
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc
-=======
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc
 参考：[揭秘VxWorks路由器破解之路_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1D3411b7XY)

@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## 大华固件Patch
 
 函数PDI_productTypeGet有问题，提示在libpdi.so
@@ -123,7 +121,3 @@ ida查看发现就是当前这个报错的函数
 ![image-20211121171355446](https://i.loli.net/2021/11/21/mTxikM8JwLSjZVn.png)
 
 接下里想如果能直接跳过这一大段检测就好了！
-<<<<<<< HEAD
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc
-=======
->>>>>>> 0505b64c38087f21190a92fc914cae0b88619cfc
