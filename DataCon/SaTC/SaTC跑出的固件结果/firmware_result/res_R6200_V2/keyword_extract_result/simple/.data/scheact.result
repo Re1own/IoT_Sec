@@ -1,0 +1,1 @@
+wan_proto Register wan_ipaddr pppoe_dod pptp_dod disconnect status auto_conn_24hr connect sche main Internet l2tp_dod 

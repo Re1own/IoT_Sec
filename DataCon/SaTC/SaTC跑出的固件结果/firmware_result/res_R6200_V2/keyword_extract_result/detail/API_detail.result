@@ -1,0 +1,1755 @@
+API name : 
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_top_hide.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_basictop.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_basictop1.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_bpa.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_update.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_reboot_guestNetwork.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_reboot_wireless.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/close_process.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_bpa2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_pptp2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/udevtrigger
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables-save
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/gpio
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wol
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wan_debug
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ntpclient
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/18
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/19
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/14
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/15
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/16
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/17
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/10
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/11
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/12
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/13
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/bzip2
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/cnid_dbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zipinfo
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wl
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/mld
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/ubdcmd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/ntpclient
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/bin/taskset
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/minidlna.exe
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/unzipsfx
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/et
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/acl_logd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/69
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/68
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wlanconfigd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/61
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/60
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/63
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/62
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/65
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/64
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/67
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/66
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/udhcpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/afpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/vconfig
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zeroconf
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wandetect
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ripd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/swresetd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ddnsd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/acsd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/acs_cli
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/mevent
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dlnad
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/scheact
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/avahi-daemon
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/acos_service
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/pot
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/autoipd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/lld2d
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/l2tpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zip
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/xtables-multi
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/email
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/avahi-dnsconfd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/87
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/86
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/85
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/84
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/83
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/82
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/81
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/80
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/upnpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/rc
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/89
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/88
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/nmbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dnsmasq
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/lib/udev/vol_id
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ses_cl
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/sbin/openvpn
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/cli
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/hotplug2
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/tfmeter
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/timesync
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/tc
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wpsd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/nas
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/94
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/95
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/96
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/97
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/90
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/92
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/93
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dhcp6s
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/afppasswd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/98
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/99
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/50
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/51
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/52
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/53
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/54
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/55
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/56
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/57
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/58
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/59
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/bd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/25
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/27
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/26
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/21
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/20
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/23
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/22
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/29
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/28
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/outputimage
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/pppd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/nvram
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/32
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/33
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/30
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/31
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/36
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/37
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/34
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/35
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/38
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/39
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/74
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/bin/vmstat
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/9
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/smb_pass
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/radvd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/pppoecd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/brctl
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/avahi-autoipd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/100
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/igs
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/bftpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/htmlget
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/76
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/77
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/8
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/75
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/72
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/73
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/70
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/71
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/2
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/3
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/1
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/6
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/7
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/78
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/79
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/smbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ses
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zipsplit
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dnsRedirectReplyd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ftpc
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/telnetenabled
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/4
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/parser
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/5
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dhcp6c
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/gproxy
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/IPv6-relay
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/check_fw
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zebra
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/43
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/42
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/41
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/40
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/47
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/46
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/45
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/44
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/49
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/48
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/pptp
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zipnote
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/emf
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/cnid_metad
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/rtsol
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/heartbeat
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wlconf
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables-restore
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zipcloak
+
+API name : /cgi-bin/RMT_invite.cgi?/cgi-bin/RMT_invite.htm
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/cgi-bin/RMT_invite_reg.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/cgi-bin/RMT_invite_unreg.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/76
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/53
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/72
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/71
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/58
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/59
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/1
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/6
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/7
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/79
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/22
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/29
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/28
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/87
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/86
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/84
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/80
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/69
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/42
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/40
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/61
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/63
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/62
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/67
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/66
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/43
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/36
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/94
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/96
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/97
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/92
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/18
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/99
+
+API name : POST
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/RST_interval.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/tc
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables-save
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/76
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/51
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/52
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/75
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/18
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/19
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/bftpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/14
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/59
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/1
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/10
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/12
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/25
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/27
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/21
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/22
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wl
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/85
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/minidlna.exe
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/upnpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables-restore
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/73
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/rc
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/43
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/68
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/41
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/40
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/47
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/46
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/60
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/48
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/65
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/32
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/33
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/30
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/36
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/34
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/77
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/39
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/8
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/xtables-multi
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/sbin/openvpn
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/92
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ddnsd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/54
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/55
+
+API name : access_control.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DEV_control.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+
+API name : action
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANIPConn.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANEtherLinkCfg.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANPPPConn.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WAND.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_LANHostCfgMag.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_Layer3F.xml
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/avahi-autoipd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/hotplug2
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables-save
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/cnid_metad
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dlnad
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/76
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/51
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/74
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/53
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/18
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/19
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/70
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/acos_service
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/14
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/59
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/radvd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/1
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/10
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/7
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/4
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/5
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/25
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/27
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/17
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/21
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/cnid_dbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zebra
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/22
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zip
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/IPv6-relay
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/wl
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/avahi-dnsconfd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/85
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/81
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/pppd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/afpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/upnpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dnsmasq
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/88
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/bzip2
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dhcp6c
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/minidlna.exe
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/smbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/unzipsfx
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/sbin/rc
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/dhcp6s
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/pptp
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/sbin/openvpn
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/43
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/40
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/47
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/46
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/60
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/48
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zipinfo
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/l2tpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/32
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/33
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/30
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/36
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/34
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/77
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/tc
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/9
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/8
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zeroconf
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/nas
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/xtables-multi
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ripd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zipnote
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/75
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/ip6tables-restore
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/smb_pass
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/54
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/afppasswd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/acsd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/zipcloak
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/55
+
+API name : adv_user.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_sel.htm
+	Bin File: 
+
+API name : ap_mode.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : autoblock.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/auto_block.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : backup.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAK_backup.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAK_cfm.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : bandwidth_check.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/QOS_check_uplink_band_width.htm
+	Bin File: 
+
+API name : basictop.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_basictop1.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_basictop.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_basictop2.htm
+	Bin File: 
+
+API name : bridge_wireless_main.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : brschagelang.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_brs_conflict.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : bsw_bpa.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+	Bin File: 
+
+API name : bsw_fix.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_fix.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : bsw_pppoe.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : bsw_pptp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : congratulations.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Congratulations2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ddns.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DNS_ddns.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : detwan.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_detwan.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : devices.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DEV_device.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DEV_device2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ether.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_ether.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fwRemote.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/FW_remote.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fwSchedule.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/FW_schedule.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fwSchedulePPP2.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fw_check.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/CheckNewFW.html
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fw_serv.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_service.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fw_serv_add.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_service_add.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fw_serv_edit.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fwcheck.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/FW_check.htm
+	Bin File: 
+
+API name : fwpt.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/FW_pt.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : fwpt_service.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/FW_pt_service.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genieDisableLanChanged.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_IP_SUBNET2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genie_bpa.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_bpa2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_bpa.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genie_dyn.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_dyn.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genie_fix2.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_fix.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genie_lang.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_check_brslang.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genie_pptp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_pptp2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_pptp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genieether.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_ether.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : geniemanual.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_result.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_basic.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genieping.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_ping.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genieping2.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_ping2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genieping3.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_ping3.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : geniepppoe.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : geniereset.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_otherissue.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : genierestore.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_restore.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : geniestart.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_start.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : geniewan.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/genie_detwan.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : important_update.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/important_update.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : info.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/77
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/34
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ipv6_auto.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_auto.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ipv6_autoconfig.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ipv6_dhcp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ipv6_disable.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_disable.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ipv6_fix.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ipv6_passthrough.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ipv6_pppoe.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ipv6_tunnel.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : keyword.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_keyword.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : l2tp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/22
+
+API name : lan.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LAN_lan.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_check.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_upgrade.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_check_top.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_check.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_check2.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_check_top2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_download.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_download.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_lang.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_lang.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_result.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/VER_fwlang_found.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_found.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_settop.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_check_redirect.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_settop2.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_check_redirect2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_top.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_top.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : lang_write.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_write.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : langbrscheck.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LANG_check_brslang.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : login.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_login.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/68
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/86
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/49
+
+API name : logout.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LGO_logout.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/32
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/30
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/34
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/85
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/8
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/14
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/49
+
+API name : major
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANIPConn.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANEtherLinkCfg.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANPPPConn.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WAND.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_LANHostCfgMag.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_Layer3F.xml
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/nmbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/21
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/34
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/smbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/77
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/75
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/minidlna.exe
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/59
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/smb_pass
+
+API name : menu.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_menu.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_menu_no_link.htm
+	Bin File: 
+
+API name : message.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/SRV_response.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_err.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_ErrorPIN.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_OK.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel_Change.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict_Change.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_OK_Change.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout_Change.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN_Change.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/82
+
+API name : minor
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANIPConn.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANEtherLinkCfg.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANPPPConn.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WAND.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_LANHostCfgMag.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_Layer3F.xml
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/nmbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/21
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/34
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/smbd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/tc
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/77
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/75
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/minidlna.exe
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/local/samba/smb_pass
+
+API name : msg_load.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_reboot.htm
+	Bin File: 
+
+API name : multi_login.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_access_multiLogin2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : newgui_adv_home.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/ADV_home2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : openvpn.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/OPENVPN.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : openvpn_hidden.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : password.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/PWD_password.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : passwordrecovered.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkAnswer.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkAnswerAgain.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pforward.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/FW_forward3.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ph_fail
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_ph_fail.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/NoInternet.html
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/NoInternetConn.html
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/60
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe2.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe2_domain.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/pppoe2_domain_add.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/pppoe2_domain_edit.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe2_fw_serv.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe2_fw_serv_add.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_service_add.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe2_fw_serv_edit.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe2_ip.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/pppoe2_ip_edit.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/pppoe2_ip_add.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe2_keyword.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pppoe2_port.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/pppoe2_port_add.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/pppoe2_port_edit.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : pptp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_pptp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/22
+
+API name : qos_main.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/QOS_main.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : qos_rule_tab.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/25
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/10
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/54
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/upnpd
+
+API name : qos_serv.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/QOS_service.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/25
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/10
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/54
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/upnpd
+
+API name : reserv.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : routes.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/STR_routes.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : routinfo.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/STR_add.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : security.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WAN_wan.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : securityquestions.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_access_unauthorized_checkSerial.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkSerialAgain.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : st_dhcp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/RST_st_dhcp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : st_fixip.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/RST_st_fix.htm
+	Bin File: 
+
+API name : st_l2tp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/RST_st_l2tp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : st_poe.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/RST_st_poe.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : st_pptp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/RST_st_pptp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : stateVariable
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANIPConn.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANEtherLinkCfg.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WANPPPConn.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_WAND.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_LANHostCfgMag.xml
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Public_UPNP_Layer3F.xml
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/minidlna.exe
+
+API name : strtblupgrade.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/StringTableUpload.html
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : traffic.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/INT_statistics.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/traffic_meter.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : traffic_important_update.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/traffic_important_update.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : traffic_status.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/traffic_interval.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : update.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_reboot_guestNetwork.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_reboot4.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_reboot3.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_reboot_wireless.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/DIG_reboot2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : upgrade.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/UPG_fw_check.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/60
+
+API name : upgrade_check.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/60
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : upnp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : upnp_media.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/UPNP_media.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : usb_adv.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_basic.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_adv.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : usb_adv_main.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_adv_main.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : usb_approve.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/Adv_USB.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : usb_basic_main.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_basic_main.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : usb_browse.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_folderBrowse.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : usb_device.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_adv_add.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_adv_edit.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/87
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/94
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/97
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/29
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/28
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/7
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/69
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/42
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/96
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/53
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/72
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/80
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/58
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/61
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/62
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/6
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/63
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/67
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/79
+
+API name : usb_remote_invite.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+
+API name : usb_settings.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_settings.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : usb_umount.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/USB_umount.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : userlogin.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/MNU_access_login_frame.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ver_check.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/VER_check.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ver_check_upgrade.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/UPG_fw_check2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/UPG_upgrade_ver_check.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ver_download.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/VER_download.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ver_result.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/VER_fw_not_found.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/VER_fw_found.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ver_sel.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/VER_sel.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : ver_write.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/VER_write2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/VER_write.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wds.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wifi.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WiFi_HiddenPage.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wifi_sche.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wifichset.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/wifisettings.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wireless.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/24
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/39
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wiz_bpa.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+	Bin File: 
+
+API name : wiz_cfm.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_cfm.htm
+	Bin File: 
+
+API name : wiz_dyn.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wiz_fix1.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_det_fix.htm
+	Bin File: 
+
+API name : wiz_fix2.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_fix.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wiz_pptp.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wiz_rst.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_result.htm
+	Bin File: 
+
+API name : wizpppoe.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wlan_acl.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_acl.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wlan_acl_add.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wlan_acl_edit.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wlg_adv.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_adv.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wlg_sec_profile_main.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_5g_wireless3_2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_2g_wireless2_2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_5g_wireless2_2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_5g_wireless1_2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_2g_wireless3_2.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WLG_2g_wireless1_2.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wps_button.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wps_pin.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_PIN.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wps_status.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+	Bin File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/usr/sbin/httpd
+
+API name : wtest_d.cgi
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_wtest_d.htm
+	Bin File: 
+
+API name : wtest_l
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_wtest_l.htm
+		/home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/www/BAS_wtest_ppp2.htm
+	Bin File: 
+

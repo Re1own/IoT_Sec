@@ -1,0 +1,305 @@
+Prar name : False
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/lan.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/libs/pagination.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/online_list.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/mac_filter.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/libs/ajaxfileupload.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dlna.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/iptv.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/libs/jquery.zclip.min.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/index.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/error_account.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/ip_mac_bind.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/remote_web.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/parental_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_led.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/ddns_config.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_time.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/samba.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/virtual_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/libs/DD_belatedPNG_0.0.8a-min.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/main.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wireless_ssid.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/pptp_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/cloud_management.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/libs/drager_zzc.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/sleep_mode.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/login.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_automaintain.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/pptp_client.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/directupgrade.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_set.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/static_route.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wisp.js
+	Bin File: 
+
+Prar name : change
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/main.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wireless_ssid.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/index.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/ddns_config.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_set.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/mac_clone.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wisp.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wireless.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/sleep_mode.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/iptv.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_power.js
+	Bin File: 
+
+Prar name : class
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/lan.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_time.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dmz.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dlna.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/iptv.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_bf.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_set.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/remote_web.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/parental_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/ddns_config.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_ap.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/samba.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/main.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wireless_ssid.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/pptp_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dhcp_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/cloud_management.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/sleep_mode.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_wps.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/printer.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_automaintain.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/pptp_client.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/firewall.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/xunleiDownload.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wisp.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/upnp_config.js
+	Bin File: 
+
+Prar name : click
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/status_usb.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/lan.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/libs/pagination.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/online_list.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dmz.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/mac_filter.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/mac_clone.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dlna.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_bf.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/libs/jquery.zclip.min.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/login.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/directupgrade.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/iptv.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/xunleiDownload.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/ip_mac_bind.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/remote_web.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/parental_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_led.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_power.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_time.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_ap.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/samba.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/virtual_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/main.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wireless_ssid.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/black_list.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/pptp_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/index.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/cloud_management.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_time.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dhcp_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/sleep_mode.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_wps.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/printer.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/ddns_config.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_log.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_automaintain.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/pptp_client.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/firewall.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_set.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/static_route.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wisp.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wireless.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wireless_access.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/upnp_config.js
+	Bin File: 
+
+Prar name : disabled
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/main.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_set.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/libs/pagination.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/online_list.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_log.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/parental_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/index.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/directupgrade.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_time.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/mac_clone.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wireless_ssid.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dlna.js
+	Bin File: 
+
+Prar name : msg-err
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/status_usb.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/lan.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dhcp_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_time.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/online_list.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dlna.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/mac_filter.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/status_usb.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/mac_clone.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_upgrade.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/ddns_config.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/dlna.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/mac_filter.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/online_list.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/ip_mac_bind.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/remote_web.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/pptp_client.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/iptv.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/net_set.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/iptv.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/ip_mac_bind.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/parental_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/parental_control.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/system_led.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_backup.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/pptp_client.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/samba.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_time.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_time.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/net_control.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/mac_clone.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/pptp_server.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/pptp_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_wps.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/sleep_mode.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/virtual_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/sleep_mode.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wifi_wps.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/samba.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dmz.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wisp.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_password.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/static_route.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/lan.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dhcp_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/directupgrade.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_led.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/net_control.js
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/js/wisp.js
+	Bin File: 
+
+Prar name : submit
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dlna.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_ap.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/mac_filter.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/ip_mac_bind.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/remote_web.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/cloud_managment.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/iptv.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/static_route.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/pptp_client.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_time.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_time.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/net_control.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/mac_clone.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_power.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wireless.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/printer.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_automaintain.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/pptp_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_wps.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/ddns_config.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/virtual_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/samba.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dmz.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wisp.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/lan.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/firewall.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dhcp_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_led.html
+	Bin File: 
+
+Prar name : translate
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/redirect.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wireless_access.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/upnp_config.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_led.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/login.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/status_usb.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_upgrade.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/main.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/mac_filter.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/online_list.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/ip_mac_bind.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/remote_web.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/loginerr.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/cloud_managment.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/net_set.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_power.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_bf.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dlna.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wan_status.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/static_route.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/parental_control.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/black_list.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_backup.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/pptp_client.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_time.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/directupgrade.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_time.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/xunleiDownload.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/iptv.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/net_control.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_status.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/mac_clone.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/ap_diagnosis.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/pptp_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wireless.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/printer.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_reboot.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_automaintain.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/ddns_config.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_wps.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wireless_ssid.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/sleep_mode.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/virtual_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_restore.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_ap.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/samba.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_config.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dmz.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wisp.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_password.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/simple_upgrade.asp
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/lan.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/pptp_user.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/firewall.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/dhcp_server.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/status_extender.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/index.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/system_log.html
+		/home/satc/DataCon/Tenda/AC15/_US_AC15V1.0BR_V15.03.05.19_multi_TD01.bin.extracted/squashfs-root/webroot_ro/wifi_signal.html
+	Bin File: 
+

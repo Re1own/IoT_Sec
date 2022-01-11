@@ -1,0 +1,2 @@
+binary: /home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/bin/91
+configfile: /home/satc/DataCon/res6_R6300_V2/ghidra_extract_result/91/91_ref2sink_cmdi.result-alter2

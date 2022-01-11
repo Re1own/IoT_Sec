@@ -1,0 +1,938 @@
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/22
+Strings count : 3840
+Para + API count : 161
+Para: 
+	Hits Para count: 139
+	Hits Para : 
+		dhcpLease pppoePass checkbox protocol /network_mgr/bonding/enable /system_mgr/afp/enable radio /network_mgr/lan1/netmask /network_mgr/lan1/dhcp_enable /system_mgr/nfs/enable /network_mgr/lan1/jumbo_enable /network_mgr/lan0/dns1 /download_mgr/p2p/enable staticMask menu /app_mgr/ftp/setting/port Update /network_mgr/lan1/vlan_enable pptpIp pptp_gw pptpUser opmode hidden lan_ip TKIPAES lan1 /backup_mgr/time_machine/enable WPAPSK band /network_mgr/lan0/dns2 /network_mgr/lan1/dns_manual password application/class name success mode l2tpMode SHARED WPA2PSK/TKIPAES pppoe_pass /network_mgr/lan1/vlan_id /data/log/syslog syslog ipsecPassThru static l2tpUser port SELECT l2tp_ip /network_mgr/lan1/ip ssid /device/fresetwizard l2tpIp admuser /network_mgr/ddns/enable pptp_ip pppoeUser INPUT WPAPSK/TKIPAES macCloneMac dhcpStart dns2 dns1 upnpEnabled l2tp_server login block comment rtsThreshold pptp_pass color /network_mgr/lan0/gateway dhcpEnd weekdays pptpPassThru actionType /system_mgr/quota/enable apply gateway select l2tpPass /network_mgr/snmp/enable checked service destination WPA2PSK width /app_mgr/upnpavserver/enable pptpPass WPAPSKWPA2PSK username enable staticIp /network_mgr/lan1/jumbo_mtu minute fromPort lanPriDns /syslog_server/enable igmpEnabled /network_mgr/lan1/speed mac3 mac2 mac1 admpass argument mask2 /network_mgr/bonding/mode file dToPort /backup_mgr/rsyncd/enable /network_mgr/lan1/dns1 pptpMode proto lanNetmask Disable lan2 delRule pptp_server dFromPort pppoe channel l2tp_pass fragThreshold /app_mgr/itunesserver/enable lanGateway WPA1PSKWPA2PSK/TKIPAES /network_mgr/lan1/gateway Flags opMode device l2tpPassThru macCloneEnabled class lanSecDns Bridge undefined /network_mgr/lan1/dns2 mask Linux 
+	Number of Para source files: 52
+API: 
+	Hits API count: 22
+	Hits API : 
+		AES delStaticRoute TKIP/AES style getDhcpCliList getStationMacByIp NTPSyncWithHost /wireless/ setting/RebootSystem setting style/ WPA getDMZCfg wireless setOpMode WPA/WPA2-PSK cgi-bin TKIP FirmwareUpgrade getStaticRoute action WPA2-PSK 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/34
+Strings count : 4153
+Para + API count : 151
+Para: 
+	Hits Para count: 128
+	Hits Para : 
+		checkbox protocol /network_mgr/bonding/enable wlanRx wepkey radio lanMac /system_mgr/nfs/enable ddns_status /network_mgr/lan0/dns1 /download_mgr/p2p/enable menu /app_mgr/ftp/setting/port Update pptpIp dtimPeriod pptpUser opmode hidden productModel /backup_mgr/time_machine/enable band /network_mgr/lan0/dns2 password l2tpMtu minute wanRx name success ddnsDomain /system_mgr/afp/enable mode SHARED pppMtu PPPoE pppoe_pass wanMac /data/log/syslog syslog static l2tpUser port l2tp_ip lanMode ssid /device/fresetwizard l2tpIp filename pppUserName /network_mgr/ddns/enable pptp_ip ddnsEnabled l2tpServerIp /var/run/wpa_supplicant/wlan0 dnsType active wan_enable dns2 dns1 upnpEnabled l2tp_server connected login block rtsThreshold pptp_pass /network_mgr/lan0/gateway hostName ntpServerIp1 ntpServerIp2 ddnsStatus /system_mgr/quota/enable apply ntpServerIp gateway select l2tpPass /network_mgr/snmp/enable service ddnsPassword weekdays submit width /app_mgr/upnpavserver/enable wlan0 pptpPass pptpMtu metric /network_mgr/ddns/timestamp direction enable pptp_server pppConnect /syslog_server/enable disconnected wepkey1 wepkey2 wepkey3 display username file /var/ddns/ddns_status dmzEnabled /network_mgr/bonding/mode application/class ascii /var/ddns_status /backup_mgr/rsyncd/enable proto Disable timestamp pppoe channel l2tp_pass pptpServerIp fragThreshold /app_mgr/itunesserver/enable lanRx Flags opMode device class pppMtuSize wan_port pppPassword mask Linux dhcpMtu 
+	Number of Para source files: 49
+API: 
+	Hits API count: 23
+	Hits API : 
+		major AES delStaticRoute /wireless/ style getDhcpCliList getStationMacByIp NTPSyncWithHost TKIP/AES setting/RebootSystem setting style/ WPA getDMZCfg TKIP setOpMode WPA/WPA2-PSK wireless FirmwareUpgrade getStaticRoute minor action WPA2-PSK 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/91
+Strings count : 12706
+Para + API count : 157
+Para: 
+	Hits Para count: 132
+	Hits Para : 
+		checkbox /network_mgr/lan1/dhcp_enable /network_mgr/bonding/enable LanSubnet band2 focus /system_mgr/afp/enable radio /network_mgr/lan1/netmask protocol /system_mgr/nfs/enable /network_mgr/lan1/jumbo_enable password /download_mgr/p2p/enable dhcp_ip menu /app_mgr/ftp/setting/port /etc/new_version /network_mgr/lan1/vlan_enable wepkey Disable /network_mgr/lan1/dns2 opmode hidden lan_ip new_version Mobile /backup_mgr/time_machine/enable band iPhone /network_mgr/lan0/dns2 /network_mgr/lan1/dns_manual /network_mgr/lan1/ip pri_dns application/class name success /app_mgr/upnpavserver/enable localip mode ssid2 PPPoE view pppoe_pass /network_mgr/lan1/vlan_id static reserv Android /backup_mgr/rsyncd/enable port l2tp_ip ssid /device/fresetwizard filename /network_mgr/ddns/enable pptp_ip active INPUT manufacturer Firefox dns2 /network_mgr/lan1/speed login block comment sec_dns pptp_pass color /network_mgr/lan0/gateway myip Update /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable checked service destination ddnsStatus submit width /network_mgr/lan1/jumbo_mtu wlan1 /network_mgr/ddns/timestamp direction enable dns1 minute port_link /syslog_server/enable vlan_id_ disconnected Enable_ Taiwan display username mac4 mac3 mac2 mac1 Chrome metric dnsaddr AdvManagedFlag /network_mgr/bonding/mode file ascii iface /network_mgr/lan1/dns1 proto lan4 lan3 lan2 lan1 timestamp pppoe channel vlan_tag_ l2tp_pass /app_mgr/itunesserver/enable /network_mgr/lan1/gateway /network_mgr/lan0/dns1 connected device class Bridge mobile serialNumber mask Linux h_ssid 
+	Number of Para source files: 54
+API: 
+	Hits API count: 25
+	Hits API : 
+		major AES delStaticRoute /wireless/ style getDhcpCliList getStationMacByIp NTPSyncWithHost TKIP/AES setting/RebootSystem setting style/ WPA getDMZCfg TKIP setOpMode WPA/WPA2-PSK manufacturer cgi-bin wireless FirmwareUpgrade getStaticRoute minor action WPA2-PSK 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/21
+Strings count : 274547
+Para + API count : 149
+Para: 
+	Hits Para count: 125
+	Hits Para : 
+		checkbox protocol /network_mgr/bonding/enable /system_mgr/afp/enable radio /network_mgr/lan1/netmask /network_mgr/lan1/dhcp_enable /system_mgr/nfs/enable underline /network_mgr/lan1/jumbo_enable /network_mgr/lan1/ip /app_mgr/ftp/setting/port Update /network_mgr/lan1/vlan_enable Disable minute hidden tagFlag Mobile /backup_mgr/time_machine/enable band /network_mgr/lan1/dns_manual password IpTo lanMac name success localip mode SHARED PPPoE view macAddress /network_mgr/lan1/vlan_id /data/log/syslog syslog lanCfg static reserv /backup_mgr/rsyncd/enable port SELECT lanMode ssid /device/fresetwizard bottom hostTime filename /network_mgr/ddns/enable active INPUT lanMask /network_mgr/lan1/speed Flags login block comment upTime key_format color /network_mgr/lan0/gateway hostName /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable checked service arpTable destination weekdays submit width /app_mgr/upnpavserver/enable /network_mgr/ddns/timestamp direction enable /network_mgr/lan1/jumbo_mtu ipAddr port_link argument /syslog_server/enable disconnected authList Enable_ display username portNum application/class lan_ip metric mask1 auth_mode mask3 mask2 /network_mgr/bonding/mode file ascii authMode /download_mgr/p2p/enable /network_mgr/lan1/dns1 proto DHCPv6 lan2 lan1 timestamp pppoe channel vlan_tag_ /app_mgr/itunesserver/enable object /network_mgr/lan1/gateway iface connected opMode device class Bridge undefined mobile /network_mgr/lan1/dns2 mask Linux ipAddress 
+	Number of Para source files: 55
+API: 
+	Hits API count: 24
+	Hits API : 
+		major AES delStaticRoute /wireless/ style getDhcpCliList getStationMacByIp NTPSyncWithHost TKIP/AES setting/RebootSystem setting style/ WPA getDMZCfg TKIP setOpMode WPA/WPA2-PSK manufacturer wireless FirmwareUpgrade getStaticRoute minor action WPA2-PSK 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/5
+Strings count : 3454
+Para + API count : 131
+Para: 
+	Hits Para count: 110
+	Hits Para : 
+		dhcpLease pppoePass protocol /network_mgr/bonding/enable band2 /system_mgr/afp/enable l2tpUser ssid1 /system_mgr/nfs/enable portRange /app_mgr/ftp/setting/port Update pptpIp pptpUser opmode hidden lan_ip TKIPAES /backup_mgr/time_machine/enable WPAPSK band password name success mode l2tpMode SHARED WPA2PSK/TKIPAES pppoe_pass /data/log/syslog syslog static /backup_mgr/rsyncd/enable port l2tp_ip lanMode ssid bottom l2tpIp admuser /network_mgr/ddns/enable scheduleDel pptp_ip pppoeUser active WPAPSK/TKIPAES macCloneMac dhcpStart upnpEnabled PPPoE l2tp_server menu login band5g comment pptp_pass color /network_mgr/lan0/gateway dhcpEnd /system_mgr/quota/enable apply gateway select mac2 /network_mgr/snmp/enable WPA2PSK submit width /app_mgr/upnpavserver/enable pptpPass WPAPSKWPA2PSK username enable dToPort lanPriDns /syslog_server/enable radio portNum l2tpPass application/class admpass metric /network_mgr/bonding/mode file staticIp /download_mgr/p2p/enable pptpMode proto lanNetmask AdvDefaultLifetime Disable lan2 pptp_server encryp_type dFromPort pppoe channel l2tp_pass /app_mgr/itunesserver/enable lanGateway WPA1PSKWPA2PSK/TKIPAES connected opMode macCloneEnabled class lanSecDns Bridge igmpEnabled mask channel5g 
+	Number of Para source files: 47
+API: 
+	Hits API count: 21
+	Hits API : 
+		TKIP style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ AES FirmwareUpgrade getStaticRoute wireless action setting delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES style/ WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/60
+Strings count : 4784
+Para + API count : 144
+Para: 
+	Hits Para count: 123
+	Hits Para : 
+		checkbox /network_mgr/lan1/dhcp_enable /network_mgr/bonding/enable band1 /system_mgr/afp/enable radio ssid3 ssid1 /network_mgr/lan1/netmask protocol /system_mgr/nfs/enable wpakey /network_mgr/lan1/jumbo_enable ddns_status password /download_mgr/p2p/enable wanMode menu /app_mgr/ftp/setting/port /etc/new_version /network_mgr/lan1/vlan_enable wepkey pptp_gw lan4 opmode hidden lan_ip new_version /backup_mgr/time_machine/enable band /network_mgr/lan0/dns2 /network_mgr/lan1/dns_manual /network_mgr/lan1/ip pri_dns minute name success /app_mgr/upnpavserver/enable mode ssid2 PPPoE pppoe_pass /network_mgr/lan1/vlan_id /data/log/syslog wtime syslog static sec_dns reserv /backup_mgr/rsyncd/enable port ssid /device/fresetwizard bottom /network_mgr/ddns/enable active INPUT wan_enable dns2 /network_mgr/lan1/speed l2tp_server login block comment l2tp_gw pptp_pass /network_mgr/lan0/gateway vpnpass myip /system_mgr/quota/enable apply gateway select mac2 /network_mgr/snmp/enable checked /var/ddns/ddns_status service submit width /network_mgr/lan1/jumbo_mtu wlan1 username direction enable dns1 port_link /syslog_server/enable wifi_ssid ServiceType disconnected display errmsg mac4 mac3 application/class mac1 metric /network_mgr/bonding/mode file /var/ddns_status iface /network_mgr/lan1/dns1 /network_mgr/lan1/dns2 Disable lan3 lan2 lan1 pptp_server pppoe channel vlan_tag_ l2tp_pass /app_mgr/itunesserver/enable /network_mgr/lan1/gateway /network_mgr/lan0/dns1 connected device class wan_port proto mask h_ssid 
+	Number of Para source files: 51
+API: 
+	Hits API count: 21
+	Hits API : 
+		TKIP style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ AES FirmwareUpgrade getStaticRoute wireless action setting delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES style/ WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/77
+Strings count : 6656
+Para + API count : 132
+Para: 
+	Hits Para count: 110
+	Hits Para : 
+		/network_mgr/lan1/dhcp_enable /network_mgr/bonding/enable /system_mgr/afp/enable ssid2 ssid3 ssid1 /network_mgr/lan1/netmask protocol /system_mgr/nfs/enable /network_mgr/lan1/jumbo_enable ddns_status /network_mgr/lan1/ip /app_mgr/ftp/setting/port Update /network_mgr/lan1/vlan_enable Disable hidden lan_ip pptp_server band /network_mgr/lan1/dns_manual password name success pppoe /app_mgr/upnpavserver/enable mode SHARED PPPoE pppoe_pass /network_mgr/lan1/vlan_id /data/log/syslog syslog static reserv /backup_mgr/rsyncd/enable port l2tp_ip ssid /device/fresetwizard filename /network_mgr/ddns/enable pptp_ip /var/run/wpa_supplicant/wlan0 active manufacturer Firefox /network_mgr/lan1/speed l2tp_server connected login block comment sec_dns pptp_pass /network_mgr/lan0/gateway /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable service WPA2PSK submit ddns_ip width /network_mgr/lan1/jumbo_mtu wlan1 wlan0 username enable /syslog_server/enable ServiceType Enable_ display radio file /var/ddns/ddns_status metric mask1 argument /network_mgr/bonding/mode application/class ascii /var/ddns_status /download_mgr/p2p/enable /network_mgr/lan1/dns1 /network_mgr/lan1/dns2 DHCPv6 lan3 lan2 lan1 /backup_mgr/time_machine/enable lan4 channel l2tp_pass /app_mgr/itunesserver/enable object /network_mgr/lan1/gateway Flags device class wan_port undefined proto mask bssid4 bssid3 bssid2 bssid1 
+	Number of Para source files: 46
+API: 
+	Hits API count: 22
+	Hits API : 
+		major AES delStaticRoute TKIP/AES getDhcpCliList getStationMacByIp NTPSyncWithHost /wireless/ setting/RebootSystem setting minor WPA getDMZCfg TKIP setOpMode WPA/WPA2-PSK manufacturer wireless FirmwareUpgrade getStaticRoute action WPA2-PSK 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/18
+Strings count : 3859
+Para + API count : 131
+Para: 
+	Hits Para count: 110
+	Hits Para : 
+		linkType wepkey /network_mgr/lan1/dhcp_enable /network_mgr/bonding/enable /system_mgr/afp/enable radio wanMask file ssid1 /network_mgr/lan1/netmask protocol /system_mgr/nfs/enable /network_mgr/lan1/jumbo_enable /network_mgr/lan0/dns1 menu /app_mgr/ftp/setting/port /etc/new_version /network_mgr/lan1/vlan_enable pptpIp wifi_ssid lan_ip new_version timestamp band iPhone /network_mgr/lan0/dns2 /network_mgr/lan1/dns_manual password minute name success ddnsDomain /app_mgr/upnpavserver/enable mode PPPoE /network_mgr/lan1/vlan_id wanMac /data/log/syslog syslog static pptpserver reserv /backup_mgr/rsyncd/enable port SELECT /network_mgr/lan1/ip ssid /device/fresetwizard l2tpIp filename wanIp /network_mgr/ddns/enable INPUT lanMask dns2 dns1 cn_ss login block comment upTime /network_mgr/lan0/gateway hostName cloud_update /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable service deviceList ipstart ddnsStatus width /network_mgr/lan1/jumbo_mtu /network_mgr/ddns/timestamp enable staticIp /syslog_server/enable wepkey1 wepkey2 wepkey3 /network_mgr/lan1/speed username portNum mac2 mask2 /network_mgr/bonding/mode application/class /download_mgr/p2p/enable /network_mgr/lan1/dns1 /network_mgr/lan1/dns2 lan4 lan3 lan2 lan1 /backup_mgr/time_machine/enable pppoe channel ipend /app_mgr/itunesserver/enable object /network_mgr/lan1/gateway connected device class undefined proto mask Linux 
+	Number of Para source files: 49
+API: 
+	Hits API count: 21
+	Hits API : 
+		cgi-bin wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade getStaticRoute TKIP deviceList setting delStaticRoute action WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/36
+Strings count : 3885
+Para + API count : 131
+Para: 
+	Hits Para count: 110
+	Hits Para : 
+		linkType wepkey /network_mgr/lan1/dhcp_enable /network_mgr/bonding/enable /system_mgr/afp/enable radio wanMask file ssid1 /network_mgr/lan1/netmask protocol /system_mgr/nfs/enable /network_mgr/lan1/jumbo_enable /network_mgr/lan0/dns1 menu /app_mgr/ftp/setting/port /etc/new_version /network_mgr/lan1/vlan_enable pptpIp wifi_ssid lan_ip new_version timestamp band iPhone /network_mgr/lan0/dns2 /network_mgr/lan1/dns_manual password minute name success ddnsDomain /app_mgr/upnpavserver/enable mode PPPoE /network_mgr/lan1/vlan_id wanMac /data/log/syslog syslog static pptpserver reserv /backup_mgr/rsyncd/enable port SELECT /network_mgr/lan1/ip ssid /device/fresetwizard l2tpIp filename wanIp /network_mgr/ddns/enable INPUT lanMask dns2 dns1 cn_ss login block comment upTime /network_mgr/lan0/gateway hostName cloud_update /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable service deviceList ipstart ddnsStatus width /network_mgr/lan1/jumbo_mtu /network_mgr/ddns/timestamp enable staticIp /syslog_server/enable wepkey1 wepkey2 wepkey3 /network_mgr/lan1/speed username portNum mac2 mask2 /network_mgr/bonding/mode application/class /download_mgr/p2p/enable /network_mgr/lan1/dns1 /network_mgr/lan1/dns2 lan4 lan3 lan2 lan1 /backup_mgr/time_machine/enable pppoe channel ipend /app_mgr/itunesserver/enable object /network_mgr/lan1/gateway connected device class undefined proto mask Linux 
+	Number of Para source files: 49
+API: 
+	Hits API count: 21
+	Hits API : 
+		cgi-bin wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade getStaticRoute TKIP deviceList setting delStaticRoute action WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/48
+Strings count : 3382
+Para + API count : 113
+Para: 
+	Hits Para count: 95
+	Hits Para : 
+		wepkey protocol /network_mgr/bonding/enable isPocketRouter /system_mgr/afp/enable l2tpUser file dhcp_ip /system_mgr/nfs/enable password /app_mgr/ftp/setting/port Update pptp_gw lan4 pptpUser opmode hidden lan_ip /backup_mgr/time_machine/enable band /network_mgr/lan0/dns2 /network_mgr/lan0/dns1 minute name ipstart mode radio PPPoE pppoe_pass static_dns1 static_dns2 wtime static reserv /backup_mgr/rsyncd/enable port l2tp_ip ssid /device/fresetwizard filename /network_mgr/ddns/enable pptp_ip /var/run/wpa_supplicant/wlan0 active INPUT dns2 dns1 l2tp_server login block l2tp_gw pptp_pass color /network_mgr/lan0/gateway /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable service destination width /app_mgr/upnpavserver/enable wlan0 pptpPass username enable ipAddr /syslog_server/enable dhcp_dns2 l2tpPass mac1 metric /network_mgr/bonding/mode application/class /download_mgr/p2p/enable proto Disable lan3 lan2 pptp_server pppoe channel l2tp_pass ipend /app_mgr/itunesserver/enable iface connected opMode device class Bridge pptp_mask mask h_ssid 
+	Number of Para source files: 41
+API: 
+	Hits API count: 18
+	Hits API : 
+		style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade getStaticRoute wireless action setting delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode style/ WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/75
+Strings count : 19585
+Para + API count : 113
+Para: 
+	Hits Para count: 90
+	Hits Para : 
+		protocol /network_mgr/bonding/enable focus /system_mgr/afp/enable radio /system_mgr/nfs/enable /app_mgr/ftp/setting/port Update DHCPv6 wifi_ssid lan_ip timestamp WPAPSK band password minute name success mode SHARED PPPoE view /data/log/syslog syslog lanCfg static reserv /backup_mgr/rsyncd/enable port SELECT ssid /device/fresetwizard filename /network_mgr/ddns/enable /var/run/wpa_supplicant/wlan0 active INPUT manufacturer login block comment color /network_mgr/lan0/gateway actionType /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable checked service destination WPA2PSK controlURL width /app_mgr/upnpavserver/enable wlan0 /network_mgr/ddns/timestamp direction enable ipAddr auth_mode SCPDURL /syslog_server/enable hidden disconnected display errmsg username application/class eventSubURL argument /network_mgr/bonding/mode file ascii /download_mgr/p2p/enable proto Disable /backup_mgr/time_machine/enable channel serviceType /app_mgr/itunesserver/enable object iface connected device class undefined mask ipAddress 
+	Number of Para source files: 47
+API: 
+	Hits API count: 23
+	Hits API : 
+		major AES presentationURL delStaticRoute TKIP/AES getDhcpCliList getStationMacByIp NTPSyncWithHost /wireless/ setting/RebootSystem setting minor WPA getDMZCfg TKIP setOpMode WPA/WPA2-PSK manufacturer wireless FirmwareUpgrade getStaticRoute action WPA2-PSK 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/40
+Strings count : 7012
+Para + API count : 124
+Para: 
+	Hits Para count: 103
+	Hits Para : 
+		/network_mgr/lan1/dhcp_enable /network_mgr/bonding/enable band3 band1 /system_mgr/afp/enable radio /network_mgr/lan1/netmask protocol /system_mgr/nfs/enable /network_mgr/lan1/jumbo_enable ddns_status /network_mgr/lan0/dns1 /app_mgr/ftp/setting/port Update /network_mgr/lan1/vlan_enable Disable opmode lan_ip Mobile /backup_mgr/time_machine/enable band /network_mgr/lan0/dns2 /network_mgr/lan1/dns_manual /network_mgr/lan1/ip minute name success WEP128 /app_mgr/upnpavserver/enable localip mode pppoe_pass /network_mgr/lan1/vlan_id /data/log/syslog syslog static Android /backup_mgr/rsyncd/enable port ssid /device/fresetwizard /network_mgr/ddns/enable active INPUT manufacturer dns2 /network_mgr/lan1/speed login block band5g comment /network_mgr/lan0/gateway /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable service destination weekdays ddns_ip width /network_mgr/lan1/jumbo_mtu /network_mgr/ddns/timestamp enable pptp_server /syslog_server/enable disconnected dhcp_dns2 dhcp_dns1 dns1 username mac3 application/class /var/ddns/ddns_status metric auth_mode /network_mgr/bonding/mode file ascii /var/ddns_status password /download_mgr/p2p/enable /network_mgr/lan1/dns1 /network_mgr/lan1/dns2 lan4 lan3 lan2 lan1 timestamp pppoe channel /app_mgr/itunesserver/enable object /network_mgr/lan1/gateway iface connected device class wan_port currentTime proto mask 
+	Number of Para source files: 48
+API: 
+	Hits API count: 21
+	Hits API : 
+		cgi-bin wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade getStaticRoute TKIP action setting delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA manufacturer 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/10
+Strings count : 3124
+Para + API count : 105
+Para: 
+	Hits Para count: 86
+	Hits Para : 
+		wepkey protocol /network_mgr/bonding/enable LanSubnet /system_mgr/afp/enable /system_mgr/nfs/enable password /app_mgr/ftp/setting/port Update lan_ip /backup_mgr/time_machine/enable WPAPSK band serviceId iPhone /network_mgr/lan0/dns1 application/class name success WEP128 mode PPPoE pppoe_pass static Android /backup_mgr/rsyncd/enable port modelName ssid /device/fresetwizard filename deviceType /network_mgr/ddns/enable active dns1 login block comment pptp_pass /network_mgr/lan0/gateway /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable service weekdays submit controlURL width /app_mgr/upnpavserver/enable eventSubURL username direction enable SCPDURL /syslog_server/enable ServiceType mac6 mac5 mac4 mac3 mac2 mac1 metric /network_mgr/bonding/mode file ascii /download_mgr/p2p/enable proto Disable pppoe channel serviceType /app_mgr/itunesserver/enable startMinute connected device class startHour Bridge WEP64 serialNumber mask Linux h_ssid 
+	Number of Para source files: 44
+API: 
+	Hits API count: 19
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade getStaticRoute wireless action setting deviceType modelName delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode UDN WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/76
+Strings count : 3256
+Para + API count : 118
+Para: 
+	Hits Para count: 100
+	Hits Para : 
+		wepkey /network_mgr/lan1/dhcp_enable /network_mgr/bonding/enable /system_mgr/afp/enable radio wanMask ssid1 /network_mgr/lan1/netmask protocol /system_mgr/nfs/enable /network_mgr/lan1/jumbo_enable /network_mgr/lan0/dns1 /app_mgr/ftp/setting/port /etc/new_version /network_mgr/lan1/vlan_enable lan_ip new_version /app_mgr/upnpavserver/enable band iPhone /network_mgr/lan0/dns2 /network_mgr/lan1/dns_manual password minute name success ddnsDomain mode PPPoE /network_mgr/lan1/vlan_id wanMac static_dns2 /data/log/syslog syslog static pptpserver reserv /backup_mgr/rsyncd/enable port SELECT /network_mgr/lan1/ip ssid /device/fresetwizard filename wanIp /network_mgr/ddns/enable lanMask dns2 dns1 cn_ss login block comment upTime /network_mgr/lan0/gateway hostName /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable timestamp ipstart width /network_mgr/lan1/jumbo_mtu username enable staticIp /syslog_server/enable wepkey1 wepkey2 wepkey3 /network_mgr/lan1/speed /network_mgr/ddns/timestamp portNum file /network_mgr/bonding/mode application/class /download_mgr/p2p/enable /network_mgr/lan1/dns1 /network_mgr/lan1/dns2 lan4 lan3 lan2 lan1 /backup_mgr/time_machine/enable pppoe channel static_dns1 ipend /app_mgr/itunesserver/enable object /network_mgr/lan1/gateway connected device class undefined proto mask Linux 
+	Number of Para source files: 47
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute TKIP action setting delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/54
+Strings count : 2819
+Para + API count : 103
+Para: 
+	Hits Para count: 84
+	Hits Para : 
+		comment mac6 mac5 mac4 protocol mac2 mac1 LanSubnet metric hostName pppoe_pass active /network_mgr/bonding/mode static file apply /system_mgr/quota/enable /network_mgr/snmp/enable mac3 /backup_mgr/rsyncd/enable /network_mgr/bonding/enable gateway select pptp_pass /system_mgr/nfs/enable controlURL password modelName checked ssid /device/fresetwizard proto ascii Disable /app_mgr/ftp/setting/port Update filename port width /app_mgr/upnpavserver/enable deviceType startMinute /backup_mgr/time_machine/enable startHour /network_mgr/ddns/enable eventSubURL channel username lan_ip serviceType enable /app_mgr/itunesserver/enable WPAPSK productName band serviceId connected SCPDURL device /syslog_server/enable /network_mgr/lan0/dns1 class application/class name Bridge ServiceType WEP64 service success /download_mgr/p2p/enable dns1 serialNumber mask WEP128 pppoe /system_mgr/afp/enable wepkey /network_mgr/lan0/gateway mode Linux direction login PPPoE block 
+	Number of Para source files: 46
+API: 
+	Hits API count: 19
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade getStaticRoute wireless action setting deviceType modelName delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode UDN WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/25
+Strings count : 2619
+Para + API count : 101
+Para: 
+	Hits Para count: 82
+	Hits Para : 
+		comment mac6 mac5 mac4 protocol mac2 mac1 LanSubnet metric pppoe_pass Update active serviceId /network_mgr/bonding/mode static file /system_mgr/quota/enable apply mac3 /backup_mgr/rsyncd/enable ascii gateway select /network_mgr/bonding/enable /system_mgr/nfs/enable controlURL password modelName /download_mgr/p2p/enable ssid /device/fresetwizard proto Disable /app_mgr/ftp/setting/port weekdays filename port width /app_mgr/upnpavserver/enable deviceType /backup_mgr/time_machine/enable startHour /network_mgr/ddns/enable eventSubURL channel username lan_ip serviceType enable /app_mgr/itunesserver/enable WPAPSK startMinute band /network_mgr/snmp/enable connected SCPDURL device /syslog_server/enable pptp_pass /network_mgr/lan0/dns1 class application/class name ServiceType WEP64 service success dns1 serialNumber mask WEP128 pppoe /system_mgr/afp/enable wepkey /network_mgr/lan0/gateway mode Linux direction login h_ssid PPPoE block 
+	Number of Para source files: 44
+API: 
+	Hits API count: 19
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade getStaticRoute wireless action setting deviceType modelName delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode UDN WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/24
+Strings count : 4325
+Para + API count : 111
+Para: 
+	Hits Para count: 89
+	Hits Para : 
+		wepkey /network_mgr/lan1/dhcp_enable /network_mgr/bonding/enable /system_mgr/afp/enable radio /network_mgr/lan1/netmask protocol /system_mgr/nfs/enable /network_mgr/lan1/jumbo_enable ddns_status /network_mgr/lan1/ip /app_mgr/ftp/setting/port Update /network_mgr/lan1/vlan_enable lan_ip /backup_mgr/time_machine/enable band /network_mgr/lan1/dns_manual password name success /app_mgr/upnpavserver/enable mode SHARED PPPoE pppoe_pass /network_mgr/lan1/vlan_id /data/log/syslog syslog static reserv /backup_mgr/rsyncd/enable dhcp_mtu port l2tp_ip ssid /device/fresetwizard filename /network_mgr/ddns/enable pptp_ip /var/run/wpa_supplicant/wlan0 manufacturer /network_mgr/lan1/speed l2tp_server connected login block comment pptp_pass /network_mgr/lan0/gateway /system_mgr/quota/enable apply gateway select /network_mgr/snmp/enable service ddns_ip width /network_mgr/lan1/jumbo_mtu wlan1 wlan0 username enable /syslog_server/enable disconnected display application/class /var/ddns/ddns_status /network_mgr/bonding/mode file ascii /var/ddns_status /download_mgr/p2p/enable /network_mgr/lan1/dns1 /network_mgr/lan1/dns2 Disable lan1 pptp_server pppoe channel l2tp_pass /app_mgr/itunesserver/enable /network_mgr/lan1/gateway Flags device class wan_port proto mask 
+	Number of Para source files: 45
+API: 
+	Hits API count: 22
+	Hits API : 
+		major AES delStaticRoute TKIP/AES getDhcpCliList getStationMacByIp NTPSyncWithHost /wireless/ setting/RebootSystem setting minor WPA getDMZCfg TKIP setOpMode WPA/WPA2-PSK manufacturer wireless FirmwareUpgrade getStaticRoute action WPA2-PSK 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/33
+Strings count : 2411
+Para + API count : 86
+Para: 
+	Hits Para count: 70
+	Hits Para : 
+		comment macAddress pppoePass checkbox /network_mgr/bonding/enable /var/ddns/ddns_status /data/log/syslog wtime /network_mgr/lan0/gateway port pppoe_pass Update syslog /network_mgr/bonding/mode static file INPUT /system_mgr/quota/enable reserv /backup_mgr/rsyncd/enable ascii gateway select /system_mgr/nfs/enable ddns_status /download_mgr/p2p/enable checked ssid service menu /app_mgr/ftp/setting/port /etc/new_version filename wepkey width Disable device /backup_mgr/time_machine/enable hidden /network_mgr/ddns/enable pppoe channel username lan_ip direction enable new_version /var/ddns_status /app_mgr/itunesserver/enable /network_mgr/lan0/dns1 /network_mgr/snmp/enable /network_mgr/lan0/dns2 /syslog_server/enable password wpakey wifi_ssid minute name Bridge /device/fresetwizard dns2 dns1 mask /app_mgr/upnpavserver/enable /system_mgr/afp/enable mode login h_ssid PPPoE block 
+	Number of Para source files: 44
+API: 
+	Hits API count: 16
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute wireless action setting delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/9
+Strings count : 7092
+Para + API count : 80
+Para: 
+	Hits Para count: 66
+	Hits Para : 
+		macAddress upTime protocol mac2 /data/log/syslog /network_mgr/lan0/gateway mask2 syslog /network_mgr/bonding/mode static timestamp application/class reserv /system_mgr/quota/enable apply /backup_mgr/rsyncd/enable gateway select /network_mgr/bonding/enable /system_mgr/nfs/enable /download_mgr/p2p/enable weekdays /device/fresetwizard proto destination /app_mgr/ftp/setting/port Update port width Disable /backup_mgr/time_machine/enable /network_mgr/ddns/enable channel /network_mgr/ddns/timestamp file enable name disconnected /app_mgr/itunesserver/enable port_link band /network_mgr/snmp/enable Flags device /syslog_server/enable lanMask password active class minute manufacturer Bridge service success currentTime mask /app_mgr/upnpavserver/enable /system_mgr/afp/enable mode authList Enable_ connected login DHCPv6 block view 
+	Number of Para source files: 43
+API: 
+	Hits API count: 14
+	Hits API : 
+		style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode style/ manufacturer 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/55
+Strings count : 4261
+Para + API count : 71
+Para: 
+	Hits Para count: 60
+	Hits Para : 
+		comment protocol application/class /data/log/syslog /network_mgr/lan0/gateway mask1 Update syslog color /network_mgr/bonding/mode static file /system_mgr/quota/enable /backup_mgr/rsyncd/enable gateway /network_mgr/bonding/enable /system_mgr/nfs/enable aplist /download_mgr/p2p/enable ssid service proto destination /app_mgr/ftp/setting/port cloud_update submit filename port width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe channel username lan_ip iface enable staticIp /app_mgr/itunesserver/enable band /network_mgr/lan0/dns1 /network_mgr/snmp/enable connected /network_mgr/lan0/dns2 /syslog_server/enable password class minute name mobile dns2 dns1 mask /system_mgr/afp/enable channel5g mode login PPPoE block 
+	Number of Para source files: 44
+API: 
+	Hits API count: 11
+	Hits API : 
+		TKIP style style/ AES wireless WPA/WPA2-PSK action WPA2-PSK TKIP/AES /wireless/ WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/43
+Strings count : 7808
+Para + API count : 94
+Para: 
+	Hits Para count: 72
+	Hits Para : 
+		en_mo /network_mgr/lan1/vlan_id /network_mgr/bonding/enable application/class /data/log/syslog metric /backup_mgr/time_machine/enable device dns1 /network_mgr/bonding/mode static file apply /network_mgr/lan1/netmask /network_mgr/lan1/dhcp_enable Android /backup_mgr/rsyncd/enable gateway /system_mgr/quota/enable /network_mgr/lan1/jumbo_enable /system_mgr/nfs/enable password /download_mgr/p2p/enable /network_mgr/lan1/dns1 ssid /device/fresetwizard /network_mgr/lan1/dns2 Disable /app_mgr/ftp/setting/port Update /network_mgr/lan1/vlan_enable port width /network_mgr/lan1/jumbo_mtu wlan1 wlan0 lan1 /app_mgr/itunesserver/enable protocol /network_mgr/ddns/enable pppoe lan2 username direction enable /var/run/wpa_supplicant/wlan0 /network_mgr/lan0/gateway Linux SELECT /network_mgr/lan1/gateway /network_mgr/lan0/dns1 /network_mgr/snmp/enable connected /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan1/dns_manual /network_mgr/lan1/ip class name success syslog dns2 /network_mgr/lan1/speed proto mask /app_mgr/upnpavserver/enable /system_mgr/afp/enable mode Enable_ login select PPPoE 
+	Number of Para source files: 38
+API: 
+	Hits API count: 22
+	Hits API : 
+		AES delStaticRoute TKIP/AES style getDhcpCliList getStationMacByIp NTPSyncWithHost /wireless/ setting/RebootSystem setting style/ WPA getDMZCfg wireless setOpMode WPA/WPA2-PSK cgi-bin TKIP FirmwareUpgrade getStaticRoute action WPA2-PSK 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/12
+Strings count : 497
+Para + API count : 70
+Para: 
+	Hits Para count: 54
+	Hits Para : 
+		comment pppoe_pass /network_mgr/bonding/enable admpass /network_mgr/lan0/gateway dhcpEnd /network_mgr/bonding/mode static INPUT /system_mgr/quota/enable /backup_mgr/rsyncd/enable gateway select /system_mgr/nfs/enable ssid5g /download_mgr/p2p/enable ssid lanNetmask WPA2PSK submit /app_mgr/upnpavserver/enable enable /backup_mgr/time_machine/enable wifi_ssid WPAPSKWPA2PSK /network_mgr/ddns/enable pppoe channel username lan_ip lanGateway opmode /app_mgr/itunesserver/enable WPAPSK object macCloneMac /network_mgr/lan0/dns1 /network_mgr/snmp/enable lanPriDns /network_mgr/lan0/dns2 /syslog_server/enable password macCloneEnabled lanSecDns ntpEnabled name dhcpStart dns2 dns1 upnpEnabled mask /system_mgr/afp/enable mode ssid2 
+	Number of Para source files: 32
+API: 
+	Hits API count: 16
+	Hits API : 
+		AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute TKIP setting delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/59
+Strings count : 2336
+Para + API count : 62
+Para: 
+	Hits Para count: 54
+	Hits Para : 
+		comment protocol mac2 metric mask2 /system_mgr/afp/enable static application/class INPUT /system_mgr/quota/enable reserv /backup_mgr/rsyncd/enable /network_mgr/bonding/enable gateway select /backup_mgr/time_machine/enable /system_mgr/nfs/enable /download_mgr/p2p/enable ssid /device/fresetwizard proto ascii /app_mgr/ftp/setting/port Update submit filename port width /app_mgr/upnpavserver/enable lan2 opmode /app_mgr/itunesserver/enable /network_mgr/ddns/enable /network_mgr/lan0/gateway channel wlan0 file enable /var/run/wpa_supplicant/wlan0 band /network_mgr/snmp/enable Flags device /syslog_server/enable class wan_port name mask /network_mgr/bonding/mode wan_port_n login mode display block 
+	Number of Para source files: 37
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin wireless major /wireless/ AES TKIP action TKIP/AES 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/70
+Strings count : 1782
+Para + API count : 52
+Para: 
+	Hits Para count: 51
+	Hits Para : 
+		comment dhcp_ip application/class /data/log/syslog /network_mgr/lan0/gateway syslog /network_mgr/bonding/mode static file /system_mgr/quota/enable apply /backup_mgr/rsyncd/enable gateway select /network_mgr/bonding/enable /system_mgr/nfs/enable /download_mgr/p2p/enable ssid service proto /app_mgr/ftp/setting/port Update filename port Disable /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe username iface enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable connected device /syslog_server/enable password class minute name /device/fresetwizard success mobile mask /app_mgr/upnpavserver/enable /system_mgr/afp/enable mode login PPPoE block 
+	Number of Para source files: 41
+API: 
+	Hits API count: 1
+	Hits API : 
+		action 
+	Number of API source files: 47
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/81
+Strings count : 5082
+Para + API count : 60
+Para: 
+	Hits Para count: 49
+	Hits Para : 
+		comment username protocol /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable static timestamp file /system_mgr/quota/enable reserv /download_mgr/p2p/enable ascii port select /system_mgr/nfs/enable /backup_mgr/rsyncd/enable service proto /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe mode /network_mgr/ddns/timestamp enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable connected device /syslog_server/enable password minute name /device/fresetwizard success serialNumber mask /network_mgr/bonding/mode block SHARED login errmsg view 
+	Number of Para source files: 40
+API: 
+	Hits API count: 11
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/96
+Strings count : 688
+Para + API count : 73
+Para: 
+	Hits Para count: 62
+	Hits Para : 
+		comment username checkbox /network_mgr/lan1/vlan_id application/class /var/ddns/ddns_status metric device /network_mgr/bonding/mode static timestamp file /syslog_server/enable /network_mgr/lan1/netmask /network_mgr/lan1/dhcp_enable /backup_mgr/rsyncd/enable /network_mgr/bonding/enable gateway /system_mgr/quota/enable /network_mgr/lan1/jumbo_enable /system_mgr/nfs/enable ddns_status /network_mgr/lan1/ip /network_mgr/lan1/dns1 /device/fresetwizard /network_mgr/lan1/dns2 destination /app_mgr/ftp/setting/port /network_mgr/lan1/vlan_enable port /network_mgr/lan1/jumbo_mtu lan2 lan1 /backup_mgr/time_machine/enable protocol /network_mgr/ddns/enable /network_mgr/lan0/gateway /network_mgr/ddns/timestamp enable /var/ddns_status /app_mgr/itunesserver/enable /network_mgr/lan1/gateway /network_mgr/lan0/dns1 /network_mgr/snmp/enable /network_mgr/lan0/dns2 checked /network_mgr/lan1/dns_manual password class name service genmask dns2 /network_mgr/lan1/speed mask /app_mgr/upnpavserver/enable /system_mgr/afp/enable mode /download_mgr/p2p/enable login dns1 block 
+	Number of Para source files: 33
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/44
+Strings count : 400
+Para + API count : 49
+Para: 
+	Hits Para count: 39
+	Hits Para : 
+		comment dhcpLease l2tpPass /network_mgr/lan0/gateway dhcpEnd vpnpass /network_mgr/bonding/mode static /system_mgr/quota/enable /backup_mgr/rsyncd/enable gateway /network_mgr/bonding/enable /system_mgr/nfs/enable /download_mgr/p2p/enable /backup_mgr/time_machine/enable lanNetmask static_gw /app_mgr/upnpavserver/enable opmode pptpPass /network_mgr/ddns/enable ipsecPassThru lan_ip lanGateway /app_mgr/itunesserver/enable enable object /network_mgr/snmp/enable lanPriDns pptpPassThru /syslog_server/enable l2tpPassThru lanSecDns name dhcpStart mask staNum /system_mgr/afp/enable mode 
+	Number of Para source files: 32
+API: 
+	Hits API count: 10
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/47
+Strings count : 653
+Para + API count : 48
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		comment /network_mgr/bonding/enable /data/log/syslog Update syslog /network_mgr/bonding/mode static file /system_mgr/quota/enable /backup_mgr/rsyncd/enable port select /system_mgr/nfs/enable /download_mgr/p2p/enable ssid /device/fresetwizard menu /app_mgr/ftp/setting/port weekdays filename Disable /backup_mgr/time_machine/enable /network_mgr/ddns/enable channel username enable /app_mgr/itunesserver/enable WPAPSK object band /network_mgr/snmp/enable connected device /syslog_server/enable password name /app_mgr/upnpavserver/enable txPower /system_mgr/afp/enable mode Enable_ 
+	Number of Para source files: 37
+API: 
+	Hits API count: 7
+	Hits API : 
+		AES TKIP WPA/WPA2-PSK action WPA2-PSK TKIP/AES WPA 
+	Number of API source files: 47
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/88
+Strings count : 645
+Para + API count : 42
+Para: 
+	Hits Para count: 37
+	Hits Para : 
+		comment /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable reserv /backup_mgr/rsyncd/enable port select /system_mgr/nfs/enable /download_mgr/p2p/enable service /app_mgr/ftp/setting/port filename width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username direction enable Mobile /app_mgr/itunesserver/enable band /network_mgr/snmp/enable /syslog_server/enable password color name success mobile mask login block view 
+	Number of Para source files: 37
+API: 
+	Hits API count: 5
+	Hits API : 
+		wireless action style /wireless/ style/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/87
+Strings count : 473
+Para + API count : 53
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		comment /network_mgr/bonding/enable /var/ddns/ddns_status /data/log/syslog /network_mgr/lan0/gateway device /network_mgr/bonding/mode file /system_mgr/quota/enable /backup_mgr/rsyncd/enable port /system_mgr/nfs/enable ddns_status /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port gateway /app_mgr/upnpavserver/enable lan2 /backup_mgr/time_machine/enable manufacturer /network_mgr/ddns/enable username enable /var/ddns_status /app_mgr/itunesserver/enable /network_mgr/snmp/enable /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 minute name service syslog dns2 dns1 mask /system_mgr/afp/enable mode Linux login 
+	Number of Para source files: 26
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode manufacturer 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/19
+Strings count : 509
+Para + API count : 49
+Para: 
+	Hits Para count: 48
+	Hits Para : 
+		comment /network_mgr/lan1/vlan_id /network_mgr/bonding/enable /data/log/syslog weekdays /system_mgr/quota/enable /network_mgr/bonding/mode static file /network_mgr/lan1/netmask /network_mgr/lan1/dhcp_enable /backup_mgr/rsyncd/enable port select /network_mgr/lan1/jumbo_enable /system_mgr/nfs/enable password /network_mgr/lan1/dns1 /device/fresetwizard /network_mgr/lan1/dns2 /app_mgr/ftp/setting/port Update /network_mgr/lan1/vlan_enable filename /network_mgr/lan1/jumbo_mtu lan1 /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe username enable /app_mgr/itunesserver/enable object /network_mgr/lan1/gateway /network_mgr/snmp/enable connected device /syslog_server/enable /network_mgr/lan1/dns_manual /network_mgr/lan1/ip name syslog /download_mgr/p2p/enable /network_mgr/lan1/speed mask /app_mgr/upnpavserver/enable /system_mgr/afp/enable mode 
+	Number of Para source files: 30
+API: 
+	Hits API count: 1
+	Hits API : 
+		action 
+	Number of API source files: 47
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/29
+Strings count : 957
+Para + API count : 57
+Para: 
+	Hits Para count: 46
+	Hits Para : 
+		comment /network_mgr/lan1/vlan_id /network_mgr/bonding/enable /data/log/syslog /system_mgr/quota/enable /network_mgr/bonding/mode /download_mgr/p2p/enable file /network_mgr/lan1/netmask /network_mgr/lan1/dhcp_enable /backup_mgr/rsyncd/enable port /network_mgr/lan1/jumbo_enable /system_mgr/nfs/enable password /network_mgr/lan1/dns1 service /network_mgr/lan1/dns2 /app_mgr/ftp/setting/port /network_mgr/lan1/vlan_enable filename /network_mgr/lan1/jumbo_mtu lan2 lan1 /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/lan1/gateway /network_mgr/snmp/enable device /syslog_server/enable /network_mgr/lan1/dns_manual /network_mgr/lan1/ip minute name /device/fresetwizard success syslog /network_mgr/lan1/speed /app_mgr/upnpavserver/enable /system_mgr/afp/enable mode login block 
+	Number of Para source files: 28
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/85
+Strings count : 1013
+Para + API count : 50
+Para: 
+	Hits Para count: 34
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable device /syslog_server/enable password name service success /network_mgr/bonding/mode mode login errmsg 
+	Number of Para source files: 27
+API: 
+	Hits API count: 16
+	Hits API : 
+		TKIP AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg TKIP/AES FirmwareUpgrade getStaticRoute wireless setting delStaticRoute action setOpMode /wireless/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/42
+Strings count : 862
+Para + API count : 48
+Para: 
+	Hits Para count: 35
+	Hits Para : 
+		comment checkbox /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog device /system_mgr/afp/enable application/class /system_mgr/quota/enable /system_mgr/nfs/enable port password /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable hidden /network_mgr/ddns/enable username file enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 class name service syslog dns2 dns1 display 
+	Number of Para source files: 30
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode style/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/66
+Strings count : 1032
+Para + API count : 44
+Para: 
+	Hits Para count: 33
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog active /system_mgr/afp/enable file /system_mgr/quota/enable Android /system_mgr/nfs/enable ascii port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable password name service success syslog /network_mgr/bonding/mode mode Disable block 
+	Number of Para source files: 34
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/8
+Strings count : 902
+Para + API count : 44
+Para: 
+	Hits Para count: 33
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable device /syslog_server/enable password name service success /network_mgr/bonding/mode mode login block 
+	Number of Para source files: 28
+API: 
+	Hits API count: 11
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/14
+Strings count : 1144
+Para + API count : 44
+Para: 
+	Hits Para count: 33
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable device /syslog_server/enable password name service success /network_mgr/bonding/mode mode login 
+	Number of Para source files: 27
+API: 
+	Hits API count: 11
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/17
+Strings count : 469
+Para + API count : 41
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		comment protocol /network_mgr/bonding/enable /backup_mgr/rsyncd/enable /system_mgr/afp/enable INPUT /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable proto destination /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable delRule /backup_mgr/time_machine/enable dFromPort lan_ip enable /app_mgr/itunesserver/enable object fromPort /network_mgr/snmp/enable /syslog_server/enable name success /network_mgr/ddns/enable mask block 
+	Number of Para source files: 29
+API: 
+	Hits API count: 11
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/30
+Strings count : 1072
+Para + API count : 45
+Para: 
+	Hits Para count: 32
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable device /syslog_server/enable password name service success /network_mgr/bonding/mode mode login 
+	Number of Para source files: 27
+API: 
+	Hits API count: 13
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute wireless setting delStaticRoute action setOpMode /wireless/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/32
+Strings count : 1037
+Para + API count : 43
+Para: 
+	Hits Para count: 32
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable device /syslog_server/enable password name service success /network_mgr/bonding/mode mode login 
+	Number of Para source files: 27
+API: 
+	Hits API count: 11
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/78
+Strings count : 272
+Para + API count : 43
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		/backup_mgr/rsyncd/enable file color syslog /system_mgr/afp/enable application/class /system_mgr/quota/enable apply /download_mgr/p2p/enable port /network_mgr/bonding/enable /system_mgr/nfs/enable /network_mgr/snmp/enable width menu /app_mgr/ftp/setting/port Update filename /data/log/syslog /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe lan_ip enable /app_mgr/itunesserver/enable /syslog_server/enable class name login display 
+	Number of Para source files: 28
+API: 
+	Hits API count: 12
+	Hits API : 
+		style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode style/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/38
+Strings count : 184
+Para + API count : 26
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		comment lan_ip Disable /device/fresetwizard channel /data/log/syslog WPAPSK /app_mgr/ftp/setting/port Update WPA2PSK syslog /network_mgr/bonding/mode connected lan2 Enable_ device WPAPSKWPA2PSK port select mode 
+	Number of Para source files: 28
+API: 
+	Hits API count: 6
+	Hits API : 
+		AES TKIP WPA/WPA2-PSK WPA2-PSK TKIP/AES WPA 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/69
+Strings count : 638
+Para + API count : 52
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		comment /network_mgr/lan1/vlan_id /network_mgr/bonding/enable /app_mgr/ftp/setting/port /system_mgr/quota/enable /system_mgr/afp/enable file /network_mgr/lan1/netmask /network_mgr/lan1/dhcp_enable /backup_mgr/rsyncd/enable port /network_mgr/lan1/jumbo_enable /system_mgr/nfs/enable password /download_mgr/p2p/enable /network_mgr/lan1/dns1 service /network_mgr/lan1/dns2 /network_mgr/lan1/jumbo_mtu /network_mgr/lan1/vlan_enable /app_mgr/upnpavserver/enable lan1 /backup_mgr/time_machine/enable /network_mgr/ddns/enable username direction enable /app_mgr/itunesserver/enable /network_mgr/lan1/gateway /network_mgr/snmp/enable device /syslog_server/enable /network_mgr/lan1/dns_manual /network_mgr/lan1/ip minute name /device/fresetwizard /network_mgr/lan1/speed login Disable block 
+	Number of Para source files: 23
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/72
+Strings count : 735
+Para + API count : 42
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port SELECT /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable password name service /network_mgr/bonding/mode mode block view 
+	Number of Para source files: 27
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/62
+Strings count : 980
+Para + API count : 41
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable Android /system_mgr/nfs/enable ascii port select /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service login 
+	Number of Para source files: 23
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode style/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/84
+Strings count : 690
+Para + API count : 42
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		comment /network_mgr/bonding/enable /network_mgr/lan0/gateway device /network_mgr/bonding/mode file /system_mgr/quota/enable /backup_mgr/rsyncd/enable gateway /system_mgr/nfs/enable /download_mgr/p2p/enable /device/fresetwizard menu filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 name service success dns2 dns1 /system_mgr/afp/enable mode block 
+	Number of Para source files: 26
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/41
+Strings count : 705
+Para + API count : 23
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		comment protocol application/class name proto color /app_mgr/ftp/setting/port filename port syslog /network_mgr/bonding/mode block file login /data/log/syslog class select mode 
+	Number of Para source files: 24
+API: 
+	Hits API count: 5
+	Hits API : 
+		TKIP TKIP/AES style style/ AES 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/7
+Strings count : 524
+Para + API count : 40
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /network_mgr/bonding/mode file /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable band /network_mgr/snmp/enable device /syslog_server/enable name service /system_mgr/afp/enable mode login 
+	Number of Para source files: 24
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/39
+Strings count : 447
+Para + API count : 44
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/quota/enable /system_mgr/nfs/enable select /download_mgr/p2p/enable ssid WPA2PSK width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable hidden /network_mgr/ddns/enable channel lan_ip enable /app_mgr/itunesserver/enable WPAPSK object band /network_mgr/snmp/enable /syslog_server/enable /network_mgr/bonding/mode mode 
+	Number of Para source files: 27
+API: 
+	Hits API count: 18
+	Hits API : 
+		TKIP AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg TKIP/AES FirmwareUpgrade getStaticRoute wireless setting delStaticRoute WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/51
+Strings count : 406
+Para + API count : 38
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		/backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard menu /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable iface enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable device /syslog_server/enable password name service login view 
+	Number of Para source files: 20
+API: 
+	Hits API count: 11
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/86
+Strings count : 295
+Para + API count : 19
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		comment username iface /device/fresetwizard service /app_mgr/ftp/setting/port success name /network_mgr/bonding/mode mode file device login password port ssid 
+	Number of Para source files: 26
+API: 
+	Hits API count: 3
+	Hits API : 
+		cgi-bin wireless /wireless/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/92
+Strings count : 669
+Para + API count : 28
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable application/class /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port SELECT /download_mgr/p2p/enable /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable select /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable /syslog_server/enable password class name success login 
+	Number of Para source files: 28
+API: 
+	Hits API count: 1
+	Hits API : 
+		cgi-bin 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/71
+Strings count : 773
+Para + API count : 38
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable password name success login 
+	Number of Para source files: 25
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/100
+Strings count : 195
+Para + API count : 26
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		/backup_mgr/rsyncd/enable /network_mgr/bonding/enable /network_mgr/bonding/mode file /system_mgr/quota/enable /system_mgr/nfs/enable /download_mgr/p2p/enable checked proto Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe username enable /app_mgr/itunesserver/enable /network_mgr/lan0/dns1 /network_mgr/snmp/enable /syslog_server/enable password name dns1 /system_mgr/afp/enable mode 
+	Number of Para source files: 22
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/53
+Strings count : 508
+Para + API count : 40
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /network_mgr/bonding/mode file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service /system_mgr/afp/enable mode login block 
+	Number of Para source files: 21
+API: 
+	Hits API count: 14
+	Hits API : 
+		cgi-bin style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute action setOpMode style/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/61
+Strings count : 519
+Para + API count : 36
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard destination /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable hidden /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service login 
+	Number of Para source files: 18
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/63
+Strings count : 817
+Para + API count : 36
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service login block 
+	Number of Para source files: 19
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/80
+Strings count : 728
+Para + API count : 37
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /backup_mgr/time_machine/enable /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable timestamp /network_mgr/ddns/enable /network_mgr/ddns/timestamp enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service login 
+	Number of Para source files: 19
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/98
+Strings count : 249
+Para + API count : 36
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable lan_ip enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable /syslog_server/enable ntpEnabled name 
+	Number of Para source files: 24
+API: 
+	Hits API count: 12
+	Hits API : 
+		style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode style/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/46
+Strings count : 796
+Para + API count : 19
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		comment username success service /app_mgr/ftp/setting/port name file SHARED login password port view 
+	Number of Para source files: 25
+API: 
+	Hits API count: 7
+	Hits API : 
+		AES TKIP WPA/WPA2-PSK action WPA2-PSK TKIP/AES WPA 
+	Number of API source files: 47
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/49
+Strings count : 469
+Para + API count : 13
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		comment iface name service /app_mgr/ftp/setting/port auth_mode /network_mgr/bonding/mode mode file active login port SELECT 
+	Number of Para source files: 18
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/58
+Strings count : 515
+Para + API count : 36
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service login 
+	Number of Para source files: 19
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/79
+Strings count : 394
+Para + API count : 35
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		comment checkbox /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service login 
+	Number of Para source files: 22
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/97
+Strings count : 535
+Para + API count : 35
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service login 
+	Number of Para source files: 17
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/11
+Strings count : 259
+Para + API count : 35
+Para: 
+	Hits Para count: 23
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable lan_ip ntpEnabled /app_mgr/itunesserver/enable object /network_mgr/snmp/enable /syslog_server/enable name /system_mgr/afp/enable 
+	Number of Para source files: 23
+API: 
+	Hits API count: 12
+	Hits API : 
+		style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade getStaticRoute setting delStaticRoute setOpMode style/ 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/27
+Strings count : 729
+Para + API count : 29
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		/backup_mgr/rsyncd/enable /network_mgr/bonding/enable /network_mgr/bonding/mode file /system_mgr/quota/enable /system_mgr/nfs/enable port select /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable enable /app_mgr/itunesserver/enable /network_mgr/snmp/enable device /syslog_server/enable name service success /system_mgr/afp/enable mode block 
+	Number of Para source files: 21
+API: 
+	Hits API count: 4
+	Hits API : 
+		action TKIP AES TKIP/AES 
+	Number of API source files: 47
+
+Program name : /home/satc/DataCon/TOTOLink/A950RG/_TOTOLINK_A950RG_V5.9c.4592_B20191022_ALL.web.extracted/squashfs-root/bin/93
+Strings count : 196
+Para + API count : 25
+Para: 
+	Hits Para count: 23
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /download_mgr/p2p/enable port /system_mgr/nfs/enable menu /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable lan_ip enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable /syslog_server/enable name 
+	Number of Para source files: 23
+API: 
+	Hits API count: 2
+	Hits API : 
+		style style/ 
+	Number of API source files: 49
+

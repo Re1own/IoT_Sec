@@ -1,0 +1,1 @@
+file enable_sta_mode Connect main Status ap_mode wan_proto name sta_mode l2tp_dod Delete version status update Register wan_ipaddr pppoe_dod enable_ap enable_ap_mode pptp_dod enable username password 

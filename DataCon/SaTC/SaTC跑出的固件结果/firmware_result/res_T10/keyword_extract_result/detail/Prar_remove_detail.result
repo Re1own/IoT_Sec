@@ -1,0 +1,250 @@
+Prar name : False
+Source File : 
+	Text File: 
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/ethspeed.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/home.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/dhcp_list.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/js/forbidView.js
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/acl.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/settings.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/password.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/cloud_update.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/status.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/telnet.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/basic.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/fwSchedule.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/login.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/qos.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/mac_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/mobile.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/lan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/login.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wizard_connect_state.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/advanced.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/title.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/dmz.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/stainfo.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/js/mobile.js
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/top.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/remote.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upnp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wps_timer.js
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wds.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/deviceinfo.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/wan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/static_dhcp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/port_forward.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wizard.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/ipport_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/left.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ntp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upload_firmware.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/opmode.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/schedule.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wps.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/syslog.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/schedulewifi.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/url_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ddns.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/multipleap.asp
+	Bin File: 
+
+Prar name : backgroundColor
+Source File : 
+	Text File: 
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/ethspeed.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/acl.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/schedule.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/basic.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/qos.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/mac_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/lan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/advanced.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/dmz.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/remote.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upnp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/vpnpass.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wds.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/wan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/static_dhcp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/port_forward.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/ipport_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ntp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wps.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/opmode.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/firewall_type.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/syslog.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/schedulewifi.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/url_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ddns.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/multipleap.asp
+	Bin File: 
+
+Prar name : click
+Source File : 
+	Text File: 
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/slave_status.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/ipport_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/login.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/qos.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/mac_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/acl.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wds.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/lan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/port_forward.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/static_dhcp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/home.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/forgot.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/mobile.asp
+	Bin File: 
+
+Prar name : disabled
+Source File : 
+	Text File: 
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wps.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ntp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upload_firmware.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/mobile.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wizard.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/opmode.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/settings.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/lan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/wan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/password.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/cloud_update.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/basic.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/url_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ddns.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/multipleap.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/fwSchedule.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/static_dhcp.asp
+	Bin File: 
+
+Prar name : lanIp
+Source File : 
+	Text File: 
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/ipport_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/qos.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upload_firmware.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/mobile.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wizard.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/wan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/lan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/login.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/cloud_update.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/status.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/port_forward.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/dmz.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/static_dhcp.asp
+	Bin File: 
+
+Prar name : operationMode
+Source File : 
+	Text File: 
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/slave_status.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/ethspeed.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ntp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/opmode.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/settings.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/lan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/wan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/title.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/status.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/basic.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/left.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/stainfo.asp
+	Bin File: 
+
+Prar name : title
+Source File : 
+	Text File: 
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/ethspeed.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/home.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wds.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/settings.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/firewall_type.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wizard_connect_state.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/password.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/cloud_update.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/lan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/basic.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/fwSchedule.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/login.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/qos.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/mac_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/mobile.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/status.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/login.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/forgot.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/advanced.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/dmz.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/stainfo.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/remote.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upnp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/vpnpass.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/acl.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/deviceinfo.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/wan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/static_dhcp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/home.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/port_forward.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wizard.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/ipport_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ntp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upload_firmware.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/opmode.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/schedule.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wps.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/syslog.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/schedulewifi.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/url_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ddns.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/multipleap.asp
+	Bin File: 
+
+Prar name : topicurl
+Source File : 
+	Text File: 
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/ethspeed.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/home.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wds.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/settings.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/firewall_type.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/password.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/cloud_update.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/telnet.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/basic.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/fwSchedule.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/login.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/qos.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/mac_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/mobile.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/lan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/login.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/forgot.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/advanced.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/title.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/dmz.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/top.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/remote.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upnp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/acl.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wizard.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/wan.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/internet/static_dhcp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/mobile/home.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/port_forward.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/test.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/ipport_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ntp.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/upload_firmware.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/opmode.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/schedule.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/wps.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/syslog.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/schedulewifi.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/firewall/url_filtering.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/adm/ddns.asp
+		/home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/web_cste/wireless/multipleap.asp
+	Bin File: 
+

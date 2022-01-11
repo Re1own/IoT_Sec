@@ -1,0 +1,1414 @@
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/36
+Strings count : 3885
+Para + API count : 480
+Para: 
+	Hits Para count: 351
+	Hits Para : 
+		/network_mgr/bonding/enable Unknown month /block/ sleep guestSsid_5g /network_mgr/ddns/domain printerEn string filePath downSpeedLimit wanType2 sysTime minute adv_wrl_en_5g list adv_lan_mask macFilterType dns12 Select remotePort Disconnect syslog adv_wrl_sec netWanType /system_mgr/samba/netbios_name SYSOPS power internetLink selected current /network_mgr/dhcp_server/lease method leaseTime deviceId remark printerName wpawpa2psk ntpServer double_access action wifi_set ddnsEn serverMask adv_ip wpapsk_type gateway select Status dlnaEn serverName /router/ /app_mgr/upnpavserver/enable ppoe_set loginPwd adv_mac unscanned dmzIp wrlPwd_5g Router serverEn account schedStartTime hour remoteWebEn firewallEn wpa2psk multiWanEn dnsAuto adv_lan_ip effectiveTime mask2 /system_mgr/samba/ads_password connectTime iptvEn /bin/login wrlPassword /app_mgr/itunesserver/enable wpapsk disable router author SYSPS2 callback switch macaddr wpapsk_crypto url_enable adv_wrl_ssid /lang/ cloud_set main errCode vpnServer /backup_mgr/time_machine/enable /system_mgr/samba/dfs_enable outPort vpnWanType adv_wrl_en adv_wrl_ssid_5g false name ddnsDomain refresh timeout device_mac domain clientMask connect_time adv_band wanUploadSpeed powerSavingEn autoReboot connect year adslPwd /backup_mgr/rsyncd/enable adv_wrl_sec_5g Enable adv_sys_time network reboot content internet print /system_mgr/samba/ads_workgroup lanDnsAuto Delete advance internetPort dns2 dns1 filter timeZone /system_mgr/samba/server_string /network_mgr/lan0/gateway system staticIp2 script usbList adv_connect_type white lease /system_mgr/samba/ads_pwd_server /syslog_server/enable wanStatus target hideSsid second Connect cloneType adv_wrl_mac mac2 igmpEn device_name ipaddr printer object connected vlanId guestpwd ssid userName delayRebootEn connectStatus premitEn adslUser wrlEn adv_wrl_band filename nopwd dmzEn upgrade security_5g black clientNum iptvType /block devname cur_fw_ver /network_mgr/lan0/dns2 /network_mgr/lan0/dns1 wl_mode pinCode remove dhcpEn scanning clientType /data/log/syslog wrl_channel wanSpeed2 schedWifiEnable sys_status hideSsid_5g vpnClient internet_set /system_mgr/samba/ads_enable parent ddnsUser Manual schedEndTime lanMask admin ftpLink wifi_chkHz login autoRebootEn upnpEn Guest firewall remoteWeb wanDownloadSpeed table apclient guestWrlPwd_5g onlineList adv_wrl_channel_5g username sb/1/macaddr enable adv_connect_time adv_mode /system_mgr/samba/ads_username SYSPS guestEn_5g wanType adv_channel_5g adv_channel netControl ledCloseType error endIp deviceMac middle /system_mgr/samba/ads_realm stbEn adv_firm_ver adslPwd2 lanIp blackList wpapsk_key dnsAuto2 clientMppe ddnsPwd curVersion shareSpeed adslUser2 adv_lan_mac adv_hard_ver undefined guestSsid adv_dns1 adv_dns2 gateway2 position clientIp wanSpeed restore protocol adv_mode_5g /system_mgr/afp/enable /system_mgr/nfs/enable cloneType2 folderGrade samba dns22 input save adv_wrl_mac_5g password vpnPwd netEn scan success signal manual serverIp downSpeedLimit2 lanDns1 fileCode continue guestuser security PPPoE deviceName power_5g back adv_connect_status /system_mgr/quota/enable repeat timePeriod /download_mgr/p2p/enable Channel parentControl clientMppeOp lanDns2 powerSaveDelay /network_mgr/ddns/enable adv_wrl_channel netControlEn macFilter wpsEn timeType clientEn adv_run_time limit_type block wrlPwd /network_mgr/snmp/enable ddnsStatus vpnUser adv_gateway width ledType staticIp inPort System wireless guestaccess ssid_5g /bin/false Firewall remoteIp static Unknown/bug delete handset wifiTime scanned file adv_mask floor wanMTU detail virtual other adv_wrl_band_5g sys_time Password wanMTU2 startIp adv_band_5g /var/system/last_wan guestWrlPwd /tmp/samba/private/smbpasswd lang mask guestEn /system_mgr/samba/workgroup time wrlEn_5g 
+	Number of Para source files: 91
+API: 
+	Hits API count: 129
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade /cgi-bin/UploadCfg GetNetControlList SysToolRestoreSet setBlackRule 20 20/40 GetWrlStatus GetParentCtrlList WifiRadioGet multipart/form-data GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg SysToolGetUpgrade WifiRadioSet /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg multipart SetPptpServerCfg getWanConnectStatus index WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set setPptpUserList SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade WPA getParentalRuleList WifiExtraSet Restore goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg WPA/WPA2-PSK initSchedWifi Backup DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg form-data getHomeLink /index WPA2-PSK GetSystemStatus AdvSetLanip upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient setMacFilterCfg expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo GetFirewallCfg SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/18
+Strings count : 3859
+Para + API count : 474
+Para: 
+	Hits Para count: 345
+	Hits Para : 
+		/network_mgr/bonding/enable Unknown month /block/ sleep guestSsid_5g /network_mgr/ddns/domain printerEn string downSpeedLimit wanType2 sysTime minute adv_wrl_en_5g list adv_lan_mask macFilterType dns12 Select remotePort Disconnect syslog adv_wrl_sec netWanType /system_mgr/samba/netbios_name SYSOPS power internetLink selected current /network_mgr/dhcp_server/lease method leaseTime deviceId remark printerName wpawpa2psk ntpServer double_access action wifi_set ddnsEn serverMask adv_ip wpapsk_type gateway select Status serverName /router/ /app_mgr/upnpavserver/enable ppoe_set loginPwd adv_mac dmzIp wrlPwd_5g Router serverEn account schedStartTime hour remoteWebEn firewallEn wpa2psk multiWanEn dnsAuto adv_lan_ip effectiveTime mask2 /system_mgr/samba/ads_password connectTime iptvEn /bin/login wrlPassword /app_mgr/itunesserver/enable wpapsk disable router author SYSPS2 callback switch macaddr wpapsk_crypto url_enable adv_wrl_ssid /lang/ cloud_set main errCode vpnServer /backup_mgr/time_machine/enable /system_mgr/samba/dfs_enable outPort vpnWanType adv_wrl_en adv_wrl_ssid_5g false name ddnsDomain refresh timeout device_mac domain clientMask connect_time adv_band wanUploadSpeed powerSavingEn static connect year adslPwd /backup_mgr/rsyncd/enable adv_wrl_sec_5g Enable adv_sys_time network reboot content internet print /system_mgr/samba/ads_workgroup lanDnsAuto Delete advance internetPort dns2 dns1 filter timeZone /system_mgr/samba/server_string /network_mgr/lan0/gateway system staticIp2 script usbList adv_connect_type white lease /system_mgr/samba/ads_pwd_server /syslog_server/enable wanStatus target hideSsid second Connect cloneType adv_wrl_mac mac2 igmpEn device_name ipaddr printer object connected vlanId guestpwd ssid userName delayRebootEn connectStatus premitEn adslUser wrlEn adv_wrl_band filename nopwd dmzEn upgrade security_5g black clientNum iptvType /block devname cur_fw_ver /network_mgr/lan0/dns2 /network_mgr/lan0/dns1 wl_mode pinCode remove dhcpEn clientType /data/log/syslog wrl_channel wanSpeed2 schedWifiEnable sys_status hideSsid_5g vpnClient internet_set /system_mgr/samba/ads_enable parent ddnsUser Manual schedEndTime lanMask admin ftpLink wifi_chkHz login autoRebootEn upnpEn Guest firewall remoteWeb wanDownloadSpeed table apclient guestWrlPwd_5g onlineList adv_wrl_channel_5g username sb/1/macaddr enable adv_connect_time adv_mode /system_mgr/samba/ads_username SYSPS guestEn_5g wanType adv_channel_5g adv_channel netControl ledCloseType error endIp deviceMac middle /system_mgr/samba/ads_realm stbEn adv_firm_ver adslPwd2 lanIp blackList wpapsk_key dnsAuto2 clientMppe ddnsPwd curVersion shareSpeed adslUser2 adv_lan_mac adv_hard_ver undefined guestSsid adv_dns1 adv_dns2 gateway2 position clientIp wanSpeed restore protocol adv_mode_5g /system_mgr/afp/enable /system_mgr/nfs/enable cloneType2 samba dns22 input save adv_wrl_mac_5g password vpnPwd netEn scan success signal manual serverIp downSpeedLimit2 lanDns1 fileCode continue guestuser security PPPoE deviceName power_5g back adv_connect_status /system_mgr/quota/enable repeat timePeriod /download_mgr/p2p/enable Channel parentControl clientMppeOp lanDns2 powerSaveDelay /network_mgr/ddns/enable adv_wrl_channel netControlEn macFilter wpsEn timeType clientEn adv_run_time limit_type block wrlPwd /network_mgr/snmp/enable ddnsStatus vpnUser adv_gateway width ledType staticIp inPort System wireless guestaccess ssid_5g /bin/false Firewall remoteIp autoReboot Unknown/bug delete handset wifiTime file adv_mask floor wanMTU detail virtual other adv_wrl_band_5g sys_time Password wanMTU2 startIp adv_band_5g /var/system/last_wan guestWrlPwd /tmp/samba/private/smbpasswd lang mask guestEn /system_mgr/samba/workgroup time wrlEn_5g 
+	Number of Para source files: 91
+API: 
+	Hits API count: 129
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade /cgi-bin/UploadCfg GetNetControlList SysToolRestoreSet setBlackRule 20 20/40 GetWrlStatus GetParentCtrlList WifiRadioGet multipart/form-data GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg SysToolGetUpgrade WifiRadioSet /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg multipart SetPptpServerCfg getWanConnectStatus index WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set setPptpUserList SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade WPA getParentalRuleList WifiExtraSet Restore goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg WPA/WPA2-PSK initSchedWifi Backup DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg form-data getHomeLink /index WPA2-PSK GetSystemStatus AdvSetLanip upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient setMacFilterCfg expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo GetFirewallCfg SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/76
+Strings count : 3256
+Para + API count : 421
+Para: 
+	Hits Para count: 292
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable adslUser netControlEn wifi_set month adv_mac wrlEn /block/ /system_mgr/afp/enable sleep sys_status Router url_enable adv_wrl_mac /system_mgr/nfs/enable content upgrade security_5g guestSsid_5g serverEn description mask SYSOPS /lang/ adv_mode_5g black /network_mgr/ddns/domain clientNum Unknown /block input igmpEn main printerEn /network_mgr/lan0/gateway errCode iptvType string /backup_mgr/time_machine/enable /system_mgr/samba/dfs_enable /system_mgr/samba/ads_enable wl_mode cur_fw_ver ssid_5g sysTime /network_mgr/lan0/dns2 adv_wrl_ssid_5g adv_wrl_channel_5g /network_mgr/lan0/dns1 minute adv_wrl_en_5g netEn outPort scan name success ddnsDomain signal list pinCode remove lanDns1 devname lanDns2 adv_wrl_band security device_mac PPPoE dhcpEn remotePort domain clientMask Disconnect clientType /data/log/syslog manual power_5g adv_band powerSavingEn wrl_channel adv_connect_status macClone /system_mgr/quota/enable adv_wrl_sec repeat static connect year adslPwd timePeriod /backup_mgr/rsyncd/enable /system_mgr/samba/ads_password Channel /system_mgr/samba/netbios_name Enable ssid internetLink schedWifiEnable selected reboot clientMppeOp filename current ddnsUser vpnClient select powerSaveDelay print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method remoteIp System Status leaseTime guestEn dmzEn wpsEn wpapsk_crypto Manual schedEndTime adv_wrl_ssid samba /system_mgr/samba/ads_workgroup vpnStatus lanDnsAuto lanMask Delete advance remark internetPort admin dns2 dns1 adv_run_time adv_channel_5g ftpLink filter sys_time timeType Select wifi_chkHz connectTime action timeZone login delete block deviceId wrlPwd /system_mgr/samba/server_string upnpEn hideSsid_5g parent Guest deviceName remoteWeb ddnsEn serverMask adv_ip wpapsk_type table gateway apclient guestWrlPwd_5g adv_wrl_channel /network_mgr/snmp/enable dlnaEn script serverName adv_lan_ip system adv_gateway width /app_mgr/upnpavserver/enable adv_connect_type ledType ppoe_set white adv_hard_ver loginPwd connect_time lease username lang sb/1/macaddr enable adv_connect_time staticIp adv_mode /system_mgr/samba/ads_username SYSPS inPort back dmzIp wanType wrlPwd_5g /syslog_server/enable adv_channel netControl wanStatus account save /bin/false schedStartTime hour syslog switch hideSsid remoteWebEn second serverIp clientEn Connect vpnIp error adv_wrl_mac_5g autoReboot Unknown/bug ntpServer cloneType autoRebootEn endIp iptvEn false deviceMac adv_sys_time SYSPS2 handset wifiTime middle adv_band_5g /system_mgr/samba/ads_pwd_server /system_mgr/samba/ads_realm stbEn file adv_firm_ver password /download_mgr/p2p/enable adv_mask author lanIp ipaddr /system_mgr/samba/workgroup virtual ddnsPwd power wpapsk_key other adv_wrl_band_5g clientMppe adv_wrl_en Password target /bin/login printer wrlPassword normal startIp /app_mgr/itunesserver/enable wpapsk object internet /var/system/last_wan static_ip disable connected guestEn_5g adv_lan_mac /tmp/samba/private/smbpasswd premitEn network userName vlanId undefined guestSsid adv_lan_mask floor adv_dns1 adv_dns2 callback adv_wrl_sec_5g connectStatus guestWrlPwd time position clientIp wanSpeed wanMTU 
+	Number of Para source files: 88
+API: 
+	Hits API count: 129
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade /cgi-bin/UploadCfg GetNetControlList SysToolRestoreSet setBlackRule 20 20/40 GetWrlStatus GetParentCtrlList WifiRadioGet multipart/form-data GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg SysToolGetUpgrade WifiRadioSet /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg multipart SetPptpServerCfg getWanConnectStatus index WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set setPptpUserList SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade WPA getParentalRuleList WifiExtraSet Restore goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg WPA/WPA2-PSK initSchedWifi Backup DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg form-data getHomeLink /index WPA2-PSK GetSystemStatus AdvSetLanip upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient setMacFilterCfg expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo GetFirewallCfg SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/21
+Strings count : 274547
+Para + API count : 229
+Para: 
+	Hits Para count: 207
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable Unknown month connect /block/ /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable /system_mgr/quota/enable current vlan_set upgrade title Unlimited other /lang/ /network_mgr/ddns/domain ipNet /block input hidden save Optional mac-address hover string /backup_mgr/time_machine/enable client_set devname checkbox background code_set password transparent minute secondary netEn name success signal list remove continue timeout small security PPPoE Select scanning domain right Disconnect /data/log/syslog manual back relative syslog second export refresh year logo timePeriod /backup_mgr/rsyncd/enable Channel description Enable ssid bottom selected reboot filename content waiting Connected internet print /network_mgr/dhcp_server/lease serverList /network_mgr/ddns/enable method lanStatus leaseTime parent screen argument Manual style Remove remote_set active lanMask /sys/class/tty/console/active Delete advance remark Synchronized admin Configured serverType filter mac_set action router login options block Guest encoding color Unsynchronized /network_mgr/lan0/gateway float primary height boolean cancel table ntpServer gateway select Status /network_mgr/snmp/enable checked script serverName /router/ system width /app_mgr/upnpavserver/enable black white lease function userName direction enable complete inPort System wireless udpEn /syslog_server/enable mask2 serverEn center account main /bin/false target hour scanned Connect iframe error static Unknown/bug display delete username false scan sb/1/macaddr Custom middle warning file border absolute /download_mgr/p2p/enable author media lanIp ipaddr detail virtual power Disable clientMask Password wheel /bin/login repeat Disconnected normal /app_mgr/itunesserver/enable object /var/system/last_wan disable connected vlanId /var/etc/options network lang undefined floor mask Bound callback switch sync_set time position 
+	Number of Para source files: 82
+API: 
+	Hits API count: 22
+	Hits API : 
+		major WPA/WPA2-PSK 40 index /cgi-bin/upgrade 20 Backup Auth multipart/form-data WPA minor upgrade /login/Auth 20/40 cgi-bin Restore form-data /index action WPA2-PSK login multipart 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/91
+Strings count : 12706
+Para + API count : 230
+Para: 
+	Hits Para count: 210
+	Hits Para : 
+		restore macaddr protocol ppoe_setting Unknown focus addName /block/ /system_mgr/afp/enable sleep Router remove /system_mgr/nfs/enable /network_mgr/bonding/enable current style upgrade title ssid_2g other /lang/ /network_mgr/ddns/domain step1 cloud_set /block input hidden main string /backup_mgr/time_machine/enable /system_mgr/samba/dfs_enable internet Disconnected ssid_5g checkbox /network_mgr/lan0/dns2 /network_mgr/lan0/dns1 minute wl_mode name success signal manual step2 refresh devname continue timeout small security PPPoE Select scanning domain right Disconnect list connect_time back /system_mgr/quota/enable second repeat static connect year logo /backup_mgr/rsyncd/enable Channel /system_mgr/samba/netbios_name Enable network day6 day7 wifi_setting selected day2 reboot filename content switch waiting Connected apclient enable /system_mgr/samba/ads_enable print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method ddnsStatus parent samba Remove active /sys/class/tty/console/active Delete advance admin dns2 dns1 filter Visible month action router login vpn_server options block /system_mgr/samba/ads_workgroup /system_mgr/samba/server_string wifi_set Guest color /network_mgr/lan0/gateway primary system netInfo cancel table gateway select Status /network_mgr/snmp/enable checked day5 script /router/ usbList time_set width /app_mgr/upnpavserver/enable /tmp/usb_printer black white lease function sb/1/macaddr /system_mgr/samba/ads_pwd_server complete adv_route /system_mgr/samba/ads_username System wireless ppoe_set /syslog_server/enable jquery wanStatus account save /bin/false target hour wpa2psk Connect error Unknown/bug display delete username false mac2 scan device_edit direction middle warning /system_mgr/samba/ads_realm file border day1 vpn_client password /download_mgr/p2p/enable author line_status media /system_mgr/samba/ads_password ipaddr detail virtual everyday power usb_printer Disable Password client_set /bin/login printer description normal /app_mgr/itunesserver/enable wpapsk /var/system/last_wan static_ip disable connected /var/etc/options /tmp/samba/private/smbpasswd ssid lang center mask device_name height /system_mgr/samba/workgroup time position day4 day3 
+	Number of Para source files: 76
+API: 
+	Hits API count: 20
+	Hits API : 
+		cgi-bin index major /cgi-bin/upgrade 20 minor Restore 20/40 Auth action upgrade 40 /index WPA/WPA2-PSK WPA2-PSK login Backup WPA /cgi-bin/UploadCfg /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/75
+Strings count : 19585
+Para + API count : 193
+Para: 
+	Hits Para count: 171
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable Unknown focus month /block/ /system_mgr/afp/enable sleep remove /system_mgr/nfs/enable current upgrade other black /network_mgr/ddns/domain /block input hidden main string /backup_mgr/time_machine/enable client_set background password transparent minute name success signal list refresh continue timeout small security PPPoE Select domain right Disconnect /data/log/syslog manual System cancel second static connect year logo /backup_mgr/rsyncd/enable Channel Enable ssid reboot filename content waiting Wired print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method parent argument Manual Remove active /sys/class/tty/console/active Delete admin filter action timeZone login options block encoding color /network_mgr/lan0/gateway float primary height /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable checked script /router/ system time_set width /app_mgr/upnpavserver/enable /lang/ white enctype lease function direction enable complete Connected back wireless export /syslog_server/enable undefined account save /bin/false target hour syslog Firewall Connect iframe error autoReboot Unknown/bug display delete username false scan sb/1/macaddr Custom middle warning file Offline border absolute /download_mgr/p2p/enable author media ipaddr detail virtual power Disable Password cloudEnable serviceType repeat description normal /app_mgr/itunesserver/enable object /var/system/last_wan /bin/login disable connected /var/etc/options router network lang unbind center floor mask Bound device_name callback switch time position clientIp 
+	Number of Para source files: 81
+API: 
+	Hits API count: 22
+	Hits API : 
+		major WPA/WPA2-PSK 40 index /cgi-bin/upgrade 20 Backup Auth multipart/form-data WPA minor upgrade /login/Auth 20/40 cgi-bin Restore form-data /index action WPA2-PSK login multipart 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/34
+Strings count : 4153
+Para + API count : 288
+Para: 
+	Hits Para count: 158
+	Hits Para : 
+		macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep Router remove /system_mgr/nfs/enable current style /network_mgr/lan0/dns1 other /lang/ /network_mgr/ddns/domain /block input hidden save ip_mac_bind ddnsEn string /backup_mgr/time_machine/enable checkbox /network_mgr/lan0/dns2 password minute secondary name success ddnsDomain signal list refresh continue timeout small security PPPoE Select domain right Disconnect /data/log/syslog back syslog second static connect year logo /backup_mgr/rsyncd/enable Channel Disconnected Enable network reboot filename content Connected internet print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method power dmzEn ddnsUser dnsType Manual upgrade active /sys/class/tty/console/active Delete advance admin dns2 Configured display filter action router login block upnpEn Guest encoding firewall /network_mgr/lan0/gateway primary ddnsStatus /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable script /router/ system width /app_mgr/upnpavserver/enable pptpServer ntpServer cancel lease username direction enable complete System wireless wanType /syslog_server/enable wanStatus account main /bin/false hour Firewall Connect error Unknown/bug dns1 delete false scan sb/1/macaddr Custom middle warning file border absolute /download_mgr/p2p/enable author ipaddr virtual Disable Password /bin/login repeat description normal /app_mgr/itunesserver/enable /var/system/last_wan static_ip disable connected ssid lang center mask Bound time position 
+	Number of Para source files: 73
+API: 
+	Hits API count: 130
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade GetNetControlList SysToolRestoreSet setBlackRule 20 20/40 GetWrlStatus GetParentCtrlList WifiRadioGet multipart/form-data GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg SysToolGetUpgrade WifiRadioSet /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter SetPptpClientCfg getMacFilterCfg multipart SetPptpServerCfg getWanConnectStatus index WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg getBlackRuleList SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet major WifiPowerGet fast_setting_wifi_set AdvSetLanip SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet GetPptpServerCfg goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade WPA getParentalRuleList WifiExtraSet Restore goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg WPA/WPA2-PSK initSchedWifi Backup DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg form-data getHomeLink /index WPA2-PSK GetSystemStatus minor setPptpUserList upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient setMacFilterCfg expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo GetFirewallCfg SetFirewallCfg SetRemoteWebCfg SetDDNSCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/22
+Strings count : 3840
+Para + API count : 281
+Para: 
+	Hits Para count: 155
+	Hits Para : 
+		macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep /system_mgr/nfs/enable onload style /network_mgr/lan0/dns1 title firewall black step2 step1 /block input hidden save string /backup_mgr/time_machine/enable ssid_5g checkbox background /network_mgr/lan0/dns2 password minute secondary netEn name success signal list remove continue timeout security dhcpEn /data/log/syslog manual System macClone syslog second static connect year logo /backup_mgr/rsyncd/enable Channel Enable ssid selected reboot content waiting internet print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method parent upgrade Delete advance remark admin dns2 Configured filter Select action router login block upnpEn color /network_mgr/lan0/gateway float primary height /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable checked script /router/ system width /app_mgr/upnpavserver/enable pptpServer /lang/ cancel lease function sb/1/macaddr enable staticIp back wireless /syslog_server/enable Custom center account main /bin/false hour Firewall Connect iframe error Unknown/bug dns1 delete username false mac2 scan dmz_set argument mask2 warning igmpEn file border complete /download_mgr/p2p/enable author media lanIp ipaddr virtual power Disable sys_time Password /bin/login repeat /app_mgr/itunesserver/enable wpapsk /var/system/last_wan disable lang undefined Whitelist floor mask switch time position 
+	Number of Para source files: 78
+API: 
+	Hits API count: 126
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade /cgi-bin/UploadCfg GetNetControlList SysToolRestoreSet setBlackRule 20 20/40 GetWrlStatus GetParentCtrlList WifiRadioGet GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg SysToolGetUpgrade WifiRadioSet /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg SetPptpServerCfg getWanConnectStatus index WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set setPptpUserList SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade WPA getParentalRuleList WifiExtraSet Restore goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg WPA/WPA2-PSK initSchedWifi Backup DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg getHomeLink /index WPA2-PSK GetSystemStatus AdvSetLanip upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient setMacFilterCfg expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo GetFirewallCfg SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/77
+Strings count : 6656
+Para + API count : 183
+Para: 
+	Hits Para count: 166
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable onload samba other /lang/ /network_mgr/ddns/domain /block input hidden save string /backup_mgr/time_machine/enable /system_mgr/samba/dfs_enable internet Disconnected adv_dmz upgrade password secondary name success signal manual remove timeout security PPPoE domain right Disconnect /data/log/syslog list connect_time adv_band back cancel second static connect logo /backup_mgr/rsyncd/enable Channel /system_mgr/samba/netbios_name Enable network selected reboot filename current waiting Connected /system_mgr/samba/ads_enable print /network_mgr/dhcp_server/lease content /network_mgr/ddns/enable method parent Manual sys_wan /system_mgr/samba/ads_workgroup active /sys/class/tty/console/active Delete dhcp_setting admin filter Visible action router login ddns_set options block /system_mgr/samba/server_string Guest encoding firewall /network_mgr/lan0/gateway float primary height adv_ip /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable script /router/ system time_set width /app_mgr/upnpavserver/enable lease function sb/1/macaddr enable /system_mgr/samba/ads_username System wireless dns_set /syslog_server/enable account main /bin/false hour syslog Firewall warning Connect error Unknown/bug display delete username false scan dmz_set argument /system_mgr/samba/ads_pwd_server /system_mgr/samba/ads_realm file Offline /download_mgr/p2p/enable author media /system_mgr/samba/ads_password ipaddr switch virtual power Disable Password /bin/login description normal /app_mgr/itunesserver/enable object /var/system/last_wan static_ip disable connected /var/etc/options /tmp/samba/private/smbpasswd ssid lang undefined mask device_name dhcp_set /system_mgr/samba/workgroup time position sys_config 
+	Number of Para source files: 74
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin index major /cgi-bin/upgrade 20 Auth action upgrade 40 /index WPA/WPA2-PSK WPA2-PSK login 20/40 WPA minor /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/60
+Strings count : 4784
+Para + API count : 182
+Para: 
+	Hits Para count: 165
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep Router remove /system_mgr/nfs/enable /system_mgr/quota/enable current style samba other /lang/ /network_mgr/ddns/domain /block input hidden main string /backup_mgr/time_machine/enable /system_mgr/samba/dfs_enable internet /tmp/product_name Disconnected checkbox /network_mgr/lan0/dns2 password minute name success signal manual refresh devname Connected timeout security PPPoE Select deviceName domain right Disconnect /data/log/syslog list back syslog second static connect year logo /backup_mgr/rsyncd/enable /system_mgr/samba/netbios_name Enable ssid bottom selected reboot content waiting Wired enable /system_mgr/samba/ads_enable print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method power screen vlan_set upgrade /system_mgr/samba/ads_workgroup active /sys/class/tty/console/active Delete admin dns2 dns1 display filter action router login vpn_server options block /system_mgr/samba/server_string Guest firewall /network_mgr/lan0/gateway float primary height cancel table gateway select Status /network_mgr/snmp/enable checked script /router/ system width /app_mgr/upnpavserver/enable lease function direction /system_mgr/samba/ads_pwd_server /system_mgr/samba/ads_username wireless /syslog_server/enable account save /bin/false hour Connect error Unknown/bug Configured delete username false mac2 scan sb/1/macaddr middle warning /system_mgr/samba/ads_realm file Offline /download_mgr/p2p/enable media /system_mgr/samba/ads_password ipaddr switch Disable Password product_name /bin/login repeat description /app_mgr/itunesserver/enable wpapsk /var/system/last_wan static_ip /network_mgr/lan0/dns1 disable connected /var/etc/options /tmp/samba/private/smbpasswd network lang center mask device_name /system_mgr/samba/workgroup time position 
+	Number of Para source files: 71
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Restore 20/40 Auth action upgrade 40 /index WPA/WPA2-PSK WPA2-PSK login Backup WPA /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/5
+Strings count : 3454
+Para + API count : 262
+Para: 
+	Hits Para count: 137
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable Unknown month /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable onload vlan_set upgrade title firewall other /lang/ input hidden main string /backup_mgr/time_machine/enable password secondary macaddress name success manual remove Connected timeout security PPPoE dhcpEn scanning right Disconnect /data/log/syslog list back macClone syslog second static connect year /backup_mgr/rsyncd/enable Channel icmpEn Enable network bottom selected reboot wanMTU content Wired internet print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method remoteIp power Manual style online_upgrade active /sys/class/tty/console/active Delete advance remark admin Configured current Select action router login upnpEn Guest color /network_mgr/lan0/gateway float primary height renderer /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable /router/ system width /app_mgr/upnpavserver/enable pptpServer lease username sb/1/macaddr enable staticIp System wireless /syslog_server/enable save hour Connect error Unknown/bug delete mac2 scan Custom igmpEn file border /download_mgr/p2p/enable media lanIp ipaddr Disable Password /bin/login repeat Disconnected /app_mgr/itunesserver/enable /var/system/last_wan disable connected ssid lang center mask switch time 
+	Number of Para source files: 74
+API: 
+	Hits API count: 125
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade GetNetControlList SysToolRestoreSet setBlackRule 20 20/40 GetWrlStatus GetParentCtrlList WifiRadioGet GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg SysToolGetUpgrade WifiRadioSet /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg SetPptpServerCfg getWanConnectStatus index WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set AdvSetLanip SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade WPA getParentalRuleList WifiExtraSet Restore goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg WPA/WPA2-PSK initSchedWifi Backup DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg getHomeLink /index WPA2-PSK GetSystemStatus setPptpUserList upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient setMacFilterCfg expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo GetFirewallCfg SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/40
+Strings count : 7012
+Para + API count : 174
+Para: 
+	Hits Para count: 153
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep Router url_enable /system_mgr/nfs/enable /system_mgr/quota/enable content samba other /lang/ /network_mgr/ddns/domain cloud_set /block input main string /backup_mgr/time_machine/enable /system_mgr/samba/dfs_enable devname /network_mgr/lan0/dns2 password minute secondary name success signal manual remove continue timeout small scanning domain right Disconnect /data/log/syslog list back syslog second printer static connect year logo /backup_mgr/rsyncd/enable Channel /system_mgr/samba/netbios_name Enable ssid reboot current switch waiting enable /system_mgr/samba/ads_enable print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method power upgrade Remove active /sys/class/tty/console/active admin dns2 dns1 filter action router login vpn_server options block /system_mgr/samba/ads_workgroup /system_mgr/samba/server_string Guest firewall /network_mgr/lan0/gateway primary cancel table gateway select Status /network_mgr/snmp/enable script /router/ system width /app_mgr/upnpavserver/enable /tmp/usb_printer lease function sb/1/macaddr /system_mgr/samba/ads_pwd_server usb_printer /system_mgr/samba/ads_username System wireless /syslog_server/enable account save target hour wpa2psk Connect error Unknown/bug username scan warning /system_mgr/samba/ads_realm file parent vpn_client /download_mgr/p2p/enable author media /system_mgr/samba/ads_password ipaddr detail Disable Password /bin/login repeat description normal /app_mgr/itunesserver/enable wpapsk object internet /var/system/last_wan /network_mgr/lan0/dns1 disable connected /var/etc/options /tmp/samba/private/smbpasswd network lang center mask device_name /system_mgr/samba/workgroup time 
+	Number of Para source files: 66
+API: 
+	Hits API count: 21
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 goform Restore 20/40 getProduct goform/getProduct Auth action upgrade 40 /index WPA/WPA2-PSK WPA2-PSK login Backup WPA /cgi-bin/UploadCfg /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/9
+Strings count : 7092
+Para + API count : 143
+Para: 
+	Hits Para count: 129
+	Hits Para : 
+		restore protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep Router sys_reboot style upgrade other black /network_mgr/ddns/domain /block input main Optional mac-address string /backup_mgr/time_machine/enable password minute name success signal manual refresh continue timeout small security domain /data/log/syslog list back syslog second static connect year /download_mgr/p2p/enable /system_mgr/nfs/enable network reboot sys_status current sys_restore print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method power Manual vlan_set active lanMask /sys/class/tty/console/active Delete advance remark admin filter disable action router login block sys_log Guest /network_mgr/lan0/gateway /system_mgr/quota/enable table gateway select mac2 Status /network_mgr/snmp/enable script /router/ system time_set Blacklist width /app_mgr/upnpavserver/enable mac_set lease function enable complete inPort System /syslog_server/enable account save target hour Connect error Unknown/bug delete sys_backup scan remove mask2 warning file everyday absolute /backup_mgr/rsyncd/enable author media Disable Password /bin/login description normal /app_mgr/itunesserver/enable /var/system/last_wan Enable connected cloudEnable userName unbind mask Bound switch time 
+	Number of Para source files: 66
+API: 
+	Hits API count: 14
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Restore 20/40 Auth /login/Auth upgrade 40 /index action login Backup 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/48
+Strings count : 3382
+Para + API count : 142
+Para: 
+	Hits Para count: 127
+	Hits Para : 
+		macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable upgrade firewall other /lang/ /network_mgr/ddns/domain /block input hidden save string /backup_mgr/time_machine/enable devname /tmp/product_name /network_mgr/lan0/dns2 password minute wl_mode name signal list refresh timeout security device_mac PPPoE domain manual back cancel second static connect year logo /backup_mgr/rsyncd/enable Channel Enable ssid selected reboot filename Wired internet print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method power /var/system/last_wan active /sys/class/tty/console/active Delete admin dns2 dns1 filter action router login block sys_log wifi_set color /network_mgr/lan0/gateway float /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable /router/ system width /app_mgr/upnpavserver/enable lease username sb/1/macaddr enable System wireless /syslog_server/enable account main /bin/false hour Firewall wpa2psk Connect error Unknown/bug delete false scan remove middle file border /download_mgr/p2p/enable adv_mask ipaddr virtual Disable product_name /bin/login normal /app_mgr/itunesserver/enable wpapsk Remove /network_mgr/lan0/dns1 disable connected network lang center mask time 
+	Number of Para source files: 67
+API: 
+	Hits API count: 15
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth action upgrade 40 /index WPA/WPA2-PSK WPA2-PSK login 20/40 WPA /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/55
+Strings count : 4261
+Para + API count : 143
+Para: 
+	Hits Para count: 125
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep url_enable /system_mgr/nfs/enable onload upgrade title firewall ssid_2g black /network_mgr/ddns/domain /block main hover string /backup_mgr/time_machine/enable client_set devname ssid_5g background /network_mgr/lan0/dns2 /network_mgr/lan0/dns1 minute wl_mode name signal manual refresh PPPoE domain /data/log/syslog list back syslog second static connect complete year /backup_mgr/rsyncd/enable network reboot filename content print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable macFilter Delete advance admin dns2 dns1 filter mac_set action router login block wifi_set color /network_mgr/lan0/gateway float height /system_mgr/quota/enable table gateway /network_mgr/snmp/enable script /router/ system width /app_mgr/upnpavserver/enable /lang/ white lease function sb/1/macaddr enable staticIp wireless /syslog_server/enable account save /bin/false target hour error old_pwd Unknown/bug delete username false scan remove file border absolute password /download_mgr/p2p/enable floor ipaddr detail other /bin/login description /app_mgr/itunesserver/enable /var/system/last_wan static_ip disable connected ssid lang unbind mask switch time position 
+	Number of Para source files: 69
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 40 upgrade Auth action form-data /login/Auth multipart/form-data /index WPA/WPA2-PSK WPA2-PSK login 20/40 WPA multipart 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/24
+Strings count : 4325
+Para + API count : 144
+Para: 
+	Hits Para count: 122
+	Hits Para : 
+		restore macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable content upgrade other /lang/ /network_mgr/ddns/domain /block main string /backup_mgr/time_machine/enable password secondary name success signal list remove timeout security PPPoE scanning domain Disconnect /data/log/syslog manual connect_time back syslog second static connect logo /backup_mgr/rsyncd/enable Channel Disconnected Enable ssid reboot filename current waiting Connected internet print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method parent Manual Delete admin filter action router login block encoding firewall /network_mgr/lan0/gateway primary /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable script /router/ system width /app_mgr/upnpavserver/enable lease username sb/1/macaddr enable complete wireless /syslog_server/enable save /bin/false Connect error Unknown/bug display false sys_upgrade scan warning file Offline absolute /download_mgr/p2p/enable author ipaddr virtual power Disable Password /bin/login description normal /app_mgr/itunesserver/enable /var/system/last_wan static_ip disable connected lang mask device_name switch time position 
+	Number of Para source files: 66
+API: 
+	Hits API count: 22
+	Hits API : 
+		major WPA/WPA2-PSK 40 index /cgi-bin/upgrade 20 Backup Auth multipart/form-data WPA minor upgrade /login/Auth 20/40 cgi-bin Restore form-data /index action WPA2-PSK login multipart 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/10
+Strings count : 3124
+Para + API count : 138
+Para: 
+	Hits Para count: 121
+	Hits Para : 
+		macaddr protocol /network_mgr/bonding/enable Unknown month /block/ /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable current upgrade other /lang/ /block main string /backup_mgr/time_machine/enable devname password name success signal list remove timeout security PPPoE Select deviceName right Disconnect manual System cancel second static connect /backup_mgr/rsyncd/enable Channel Disconnected Enable ssid reboot filename content Connected print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method Manual active /sys/class/tty/console/active Delete dns1 action router login block Guest encoding firewall /network_mgr/lan0/gateway /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable script /router/ system width /app_mgr/upnpavserver/enable startHour lease function sb/1/macaddr enable complete back wireless /syslog_server/enable save /bin/false hour startMin Connect error Unknown/bug delete username false mac2 scan direction Custom warning file /download_mgr/p2p/enable media ipaddr detail Disable Password serviceType repeat description normal /app_mgr/itunesserver/enable /var/system/last_wan /bin/login /network_mgr/lan0/dns1 disable connected network lang mask callback time 
+	Number of Para source files: 68
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Restore 20/40 Auth action upgrade 40 /index WPA/WPA2-PSK WPA2-PSK login Backup WPA /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/25
+Strings count : 2619
+Para + API count : 133
+Para: 
+	Hits Para count: 116
+	Hits Para : 
+		macaddr protocol /network_mgr/bonding/enable month /block/ /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable current upgrade other /lang/ /block main string /backup_mgr/time_machine/enable password name success signal list remove timeout security PPPoE Select deviceName right Disconnect manual System cancel second static connect /backup_mgr/rsyncd/enable Channel Disconnected Enable ssid reboot filename content Connected print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method Manual active /sys/class/tty/console/active Delete dns1 action router login block Guest encoding firewall /network_mgr/lan0/gateway /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable script /router/ system width /app_mgr/upnpavserver/enable startHour lease username sb/1/macaddr enable complete back wireless /syslog_server/enable save /bin/false hour startMin Connect error delete false mac2 scan direction Custom warning file /download_mgr/p2p/enable media ipaddr detail Disable Password serviceType repeat description /app_mgr/itunesserver/enable /var/system/last_wan /bin/login /network_mgr/lan0/dns1 disable connected network lang mask callback time 
+	Number of Para source files: 68
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Restore 20/40 Auth action upgrade 40 /index WPA/WPA2-PSK WPA2-PSK login Backup WPA /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/54
+Strings count : 2819
+Para + API count : 130
+Para: 
+	Hits Para count: 113
+	Hits Para : 
+		macaddr protocol /network_mgr/bonding/enable month /block/ /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable current upgrade other /lang/ /block main string /backup_mgr/time_machine/enable password name success signal list remove timeout PPPoE Select right Disconnect manual System second static connect /backup_mgr/rsyncd/enable Channel description Enable ssid reboot filename content Connected print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method Manual active /sys/class/tty/console/active Delete dns1 action router login block Guest encoding firewall /network_mgr/lan0/gateway /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable checked script /router/ system width /app_mgr/upnpavserver/enable startHour lease username sb/1/macaddr enable complete back wireless /syslog_server/enable save /bin/false hour startMin Connect error Configured delete false mac2 scan direction Custom file /download_mgr/p2p/enable ipaddr detail Disable Password serviceType repeat Disconnected /app_mgr/itunesserver/enable /var/system/last_wan /bin/login /network_mgr/lan0/dns1 disable connected network lang mask callback time 
+	Number of Para source files: 69
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Restore 20/40 Auth action upgrade 40 /index WPA/WPA2-PSK WPA2-PSK login Backup WPA /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/43
+Strings count : 7808
+Para + API count : 234
+Para: 
+	Hits Para count: 110
+	Hits Para : 
+		protocol /network_mgr/bonding/enable Unknown /system_mgr/afp/enable sleep Router /system_mgr/nfs/enable style upgrade releaseNote /lang/ /network_mgr/ddns/domain clientNum input main string /backup_mgr/time_machine/enable /network_mgr/lan0/dns2 /network_mgr/lan0/dns1 name success signal list timeout PPPoE Select domain right Disconnect /data/log/syslog System syslog static connect /backup_mgr/rsyncd/enable Channel Enable ssid selected reboot content Connected print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method parent Manual Delete admin dns2 dns1 action router login Guest encoding firewall /network_mgr/lan0/gateway /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable script /router/ system width /app_mgr/upnpavserver/enable black white lease username direction enable complete wireless /syslog_server/enable account save /bin/false hour Firewall Connect error export Unknown/bug delete false scan file Offline password /download_mgr/p2p/enable author virtual Disable Password /bin/login Disconnected normal /app_mgr/itunesserver/enable /var/system/last_wan disable connected timeZone lang mask time 
+	Number of Para source files: 64
+API: 
+	Hits API count: 124
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade /cgi-bin/UploadCfg GetNetControlList SysToolRestoreSet setBlackRule 20 GetWrlStatus GetParentCtrlList WifiRadioGet GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg SysToolGetUpgrade GetFirewallCfg /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg SetPptpServerCfg getWanConnectStatus index WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set setPptpUserList SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade WPA getParentalRuleList WifiExtraSet goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg WPA/WPA2-PSK initSchedWifi 20/40 DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg getHomeLink /index WPA2-PSK GetSystemStatus AdvSetLanip upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient setMacFilterCfg expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo WifiRadioSet SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/33
+Strings count : 2411
+Para + API count : 126
+Para: 
+	Hits Para count: 108
+	Hits Para : 
+		restore macaddr /network_mgr/bonding/enable Unknown /block/ checkbox sleep /syslog_server/enable /system_mgr/nfs/enable upgrade other /lang/ /network_mgr/ddns/domain /block input hidden save /backup_mgr/time_machine/enable devname /network_mgr/lan0/dns2 password minute name signal manual /system_mgr/afp/enable timeout security PPPoE Select domain /data/log/syslog list back syslog second static connect logo /backup_mgr/rsyncd/enable Channel Enable ssid selected reboot filename current Connected internet print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable upgrade_err Delete dns2 dns1 action router login block firewall /network_mgr/lan0/gateway float /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable checked /router/ system width /app_mgr/upnpavserver/enable lease username sb/1/macaddr enable wireless Router account main /bin/false hour Connect error Unknown/bug delete false scan direction file /download_mgr/p2p/enable ipaddr Disable /bin/login repeat /app_mgr/itunesserver/enable wpapsk /var/system/last_wan /network_mgr/lan0/dns1 disable network lang center mask time position 
+	Number of Para source files: 64
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 40 upgrade Auth action form-data /login/Auth multipart/form-data /index WPA/WPA2-PSK WPA2-PSK login 20/40 WPA multipart 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/lib/modprobe
+Strings count : 3088
+Para + API count : 113
+Para: 
+	Hits Para count: 104
+	Hits Para : 
+		protocol /network_mgr/bonding/enable Unknown /block/ /system_mgr/afp/enable sleep /syslog_server/enable /system_mgr/nfs/enable content black /network_mgr/ddns/domain /block input main string /backup_mgr/time_machine/enable password minute secondary name signal list remove continue timeout Select domain right /data/log/syslog manual back syslog second export connect /backup_mgr/rsyncd/enable power reboot filename current print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method parent active /sys/class/tty/console/active Delete action login options block encoding color /network_mgr/lan0/gateway float primary /system_mgr/quota/enable table gateway select /network_mgr/snmp/enable script system /app_mgr/upnpavserver/enable lease username direction enable complete System Router /bin/false target hour Connect error Unknown/bug delete function false scan argument warning file absolute /download_mgr/p2p/enable author media other Password /bin/login repeat description normal /app_mgr/itunesserver/enable /var/system/last_wan disable /var/etc/options unbind undefined mask time position 
+	Number of Para source files: 62
+API: 
+	Hits API count: 9
+	Hits API : 
+		index 20 Auth action 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/sbin/modprobe
+Strings count : 3088
+Para + API count : 113
+Para: 
+	Hits Para count: 104
+	Hits Para : 
+		protocol /network_mgr/bonding/enable Unknown /block/ /system_mgr/afp/enable sleep /syslog_server/enable /system_mgr/nfs/enable content black /network_mgr/ddns/domain /block input main string /backup_mgr/time_machine/enable password minute secondary name signal list remove continue timeout Select domain right /data/log/syslog manual back syslog second export connect /backup_mgr/rsyncd/enable power reboot filename current print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method parent active /sys/class/tty/console/active Delete action login options block encoding color /network_mgr/lan0/gateway float primary /system_mgr/quota/enable table gateway select /network_mgr/snmp/enable script system /app_mgr/upnpavserver/enable lease username direction enable complete System Router /bin/false target hour Connect error Unknown/bug delete function false scan argument warning file absolute /download_mgr/p2p/enable author media other Password /bin/login repeat description normal /app_mgr/itunesserver/enable /var/system/last_wan disable /var/etc/options unbind undefined mask time position 
+	Number of Para source files: 62
+API: 
+	Hits API count: 9
+	Hits API : 
+		index 20 Auth action 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/70
+Strings count : 1782
+Para + API count : 115
+Para: 
+	Hits Para count: 104
+	Hits Para : 
+		restore macaddr /network_mgr/bonding/enable Unknown /block/ /system_mgr/afp/enable sleep /system_mgr/nfs/enable upgrade title /lang/ /network_mgr/ddns/domain /block main string /backup_mgr/time_machine/enable password minute name success list remove timeout PPPoE domain /data/log/syslog manual back syslog second export connect logo /backup_mgr/rsyncd/enable Enable ssid selected reboot filename content print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method Manual admin filter action login options block Guest /network_mgr/lan0/gateway /system_mgr/quota/enable table gateway select Status /network_mgr/snmp/enable script system /app_mgr/upnpavserver/enable black white loginPwd lease username sb/1/macaddr enable System /syslog_server/enable account save /bin/false Connect error static Unknown/bug delete function false scan file /download_mgr/p2p/enable author ipaddr detail Disable Password /bin/login repeat /app_mgr/itunesserver/enable object /var/system/last_wan static_ip disable connected /var/etc/options network lang mask refresh time position 
+	Number of Para source files: 60
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin Restore /cgi-bin/upgrade index Auth action upgrade /index /login/Auth login Backup 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/81
+Strings count : 5082
+Para + API count : 96
+Para: 
+	Hits Para count: 87
+	Hits Para : 
+		restore protocol /network_mgr/bonding/enable Unknown /block/ /system_mgr/afp/enable sleep /system_mgr/nfs/enable current black /network_mgr/ddns/domain /block input main string /backup_mgr/time_machine/enable password minute name success signal list refresh timeout domain /data/log/syslog back relative syslog second export connect year /backup_mgr/rsyncd/enable Enable filename content print /network_mgr/dhcp_server/lease /network_mgr/ddns/enable method parent Delete action login options block encoding float boolean /system_mgr/quota/enable table select /network_mgr/snmp/enable system /app_mgr/upnpavserver/enable lease username enable complete /syslog_server/enable save /bin/false hour Connect error static Unknown/bug delete false remove file /download_mgr/p2p/enable detail other Password /bin/login normal /app_mgr/itunesserver/enable object /var/system/last_wan disable connected /var/etc/options mask callback time 
+	Number of Para source files: 56
+API: 
+	Hits API count: 9
+	Hits API : 
+		index 20 Auth action 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/59
+Strings count : 2336
+Para + API count : 96
+Para: 
+	Hits Para count: 82
+	Hits Para : 
+		system restore /router/ false mac2 scan mask /network_mgr/lan0/gateway remove month middle /block/ /system_mgr/afp/enable static connect file year /system_mgr/quota/enable table /backup_mgr/rsyncd/enable gateway select /network_mgr/bonding/enable /system_mgr/nfs/enable /download_mgr/p2p/enable ssid floor devname print ipaddr reboot virtual filename current width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /block main target client_set cancel /bin/login enable complete parent normal /app_mgr/itunesserver/enable detail error /var/system/last_wan wireless /network_mgr/snmp/enable disable power router /syslog_server/enable mask2 string Delete save /bin/false name hour protocol /network_mgr/ddns/enable signal title list second refresh filter switch timeout time action sleep login other display block delete 
+	Number of Para source files: 58
+API: 
+	Hits API count: 14
+	Hits API : 
+		cgi-bin index major /cgi-bin/upgrade 20 Auth /login/Auth upgrade 40 /index action login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/47
+Strings count : 653
+Para + API count : 80
+Para: 
+	Hits Para count: 65
+	Hits Para : 
+		restore /network_mgr/bonding/enable scan /data/log/syslog back system syslog select /system_mgr/afp/enable static connect file /system_mgr/quota/enable /network_mgr/snmp/enable /backup_mgr/rsyncd/enable Channel complete /system_mgr/nfs/enable filter upgrade /download_mgr/p2p/enable ssid script media ipaddr reboot filename Disable Enable /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease main /network_mgr/ddns/enable method lease username enable description /app_mgr/itunesserver/enable time /var/system/last_wan static_ip disable connected Remove /syslog_server/enable password string Delete save name object admin signal author list Password remove /app_mgr/upnpavserver/enable network Connect error action delete 
+	Number of Para source files: 51
+API: 
+	Hits API count: 15
+	Hits API : 
+		cgi-bin Restore /cgi-bin/upgrade 20 20/40 Auth action upgrade 40 WPA/WPA2-PSK WPA2-PSK login Backup WPA /login/Auth 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/19
+Strings count : 509
+Para + API count : 78
+Para: 
+	Hits Para count: 66
+	Hits Para : 
+		restore right false /network_mgr/bonding/enable scan /data/log/syslog mask back syslog /system_mgr/afp/enable static connect file /system_mgr/quota/enable table Offline /backup_mgr/rsyncd/enable select complete /system_mgr/nfs/enable upgrade /download_mgr/p2p/enable network script media ipaddr system filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease main /network_mgr/ddns/enable method lease username enable description /app_mgr/itunesserver/enable error Remove static_ip /network_mgr/snmp/enable disable connected /var/system/last_wan /var/etc/options /syslog_server/enable password string Delete save /bin/false name object signal author list remove Connect timeout time action options delete 
+	Number of Para source files: 53
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin Restore /cgi-bin/upgrade 20 Backup 40 action upgrade Auth /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/12
+Strings count : 497
+Para + API count : 80
+Para: 
+	Hits Para count: 66
+	Hits Para : 
+		function upnpEn /network_mgr/bonding/enable scan mask /network_mgr/lan0/gateway router primary system macClone second enable static /system_mgr/quota/enable /network_mgr/snmp/enable /backup_mgr/rsyncd/enable gateway select /system_mgr/nfs/enable password upgrade /download_mgr/p2p/enable ssid /router/ ipaddr reboot /app_mgr/upnpavserver/enable Channel /backup_mgr/time_machine/enable print input main /network_mgr/ddns/enable lease username repeat complete /app_mgr/itunesserver/enable error Manual /var/system/last_wan static_ip Enable /network_mgr/dhcp_server/lease /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 secondary save name hour object dns2 dns1 list Password remove /system_mgr/afp/enable Connect timeout time Select sleep ntpServer dhcpEn delete 
+	Number of Para source files: 48
+API: 
+	Hits API count: 14
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth WPA/WPA2-PSK upgrade 40 /index /login/Auth WPA2-PSK login 20/40 WPA 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/88
+Strings count : 645
+Para + API count : 87
+Para: 
+	Hits Para count: 78
+	Hits Para : 
+		/system_mgr/samba/server_string filename false /network_mgr/bonding/enable /data/log/syslog list back syslog /block/ enable /system_mgr/samba/ads_realm file table cancel logo /backup_mgr/rsyncd/enable /bin/login /system_mgr/quota/enable /system_mgr/samba/netbios_name /system_mgr/nfs/enable style samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable script /system_mgr/samba/ads_password print system name width waiting /app_mgr/upnpavserver/enable /lang/ select /system_mgr/samba/ads_enable /block main /network_mgr/ddns/enable username Diagnose direction /system_mgr/samba/ads_pwd_server description string /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable error /system_mgr/samba/ads_username /var/system/last_wan wireless /network_mgr/snmp/enable Enable /system_mgr/samba/ads_workgroup background position /syslog_server/enable password /tmp/samba/private/smbpasswd color target lang account /bin/false center success admin signal title mask remove /system_mgr/samba/workgroup /system_mgr/afp/enable timeout time action sleep login block 
+	Number of Para source files: 49
+API: 
+	Hits API count: 9
+	Hits API : 
+		index 20 Auth action 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/30
+Strings count : 1072
+Para + API count : 78
+Para: 
+	Hits Para count: 65
+	Hits Para : 
+		right /network_mgr/bonding/enable encoding /data/log/syslog Unknown System system syslog second enable sleep connect file logo /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select Status upgrade /download_mgr/p2p/enable network /backup_mgr/time_machine/enable author /router/ reboot filename content /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable print /network_mgr/dhcp_server/lease white main /network_mgr/ddns/enable lease /bin/login devname string power detail time /var/system/last_wan position /network_mgr/snmp/enable input /syslog_server/enable password login Password name success object /system_mgr/nfs/enable signal list remove /system_mgr/afp/enable Connect timeout error action router Unknown/bug Select 
+	Number of Para source files: 49
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade 20 40 Auth /login/Auth form-data upgrade multipart action login 20/40 multipart/form-data 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/85
+Strings count : 1013
+Para + API count : 186
+Para: 
+	Hits Para count: 65
+	Hits Para : 
+		domain right /network_mgr/bonding/enable scan /data/log/syslog Unknown System reboot syslog second /system_mgr/afp/enable sleep connect file logo /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select Status upgrade /download_mgr/p2p/enable network author /router/ system filename content /app_mgr/upnpavserver/enable /network_mgr/ddns/domain /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease white main /network_mgr/ddns/enable lease username /bin/login enable string power /app_mgr/itunesserver/enable devname /var/system/last_wan position /network_mgr/snmp/enable input /syslog_server/enable password login Connect Password name success object /system_mgr/nfs/enable list remove encoding error time action router Unknown/bug 
+	Number of Para source files: 50
+API: 
+	Hits API count: 121
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade GetNetControlList SysToolRestoreSet setBlackRule 20 GetWrlStatus GetParentCtrlList WifiRadioGet multipart/form-data GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg setMacFilterCfg GetFirewallCfg /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg multipart SetPptpServerCfg getWanConnectStatus WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set AdvSetLanip SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade getParentalRuleList WifiExtraSet goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg initSchedWifi 20/40 DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg form-data getHomeLink GetSystemStatus setPptpUserList upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient SysToolGetUpgrade expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo WifiRadioSet SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/29
+Strings count : 957
+Para + API count : 86
+Para: 
+	Hits Para count: 74
+	Hits Para : 
+		/system_mgr/samba/server_string filename /network_mgr/bonding/enable /system_mgr/nfs/enable restore /data/log/syslog manual back month syslog /block/ enable /system_mgr/samba/ads_realm file year /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/samba/netbios_name Status reboot samba /download_mgr/p2p/enable system /backup_mgr/time_machine/enable script description /system_mgr/samba/ads_password detail name content /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable /block main /network_mgr/ddns/enable method username /bin/login /system_mgr/samba/ads_pwd_server complete power /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable /system_mgr/samba/ads_username /var/system/last_wan System print /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup background position /syslog_server/enable password /tmp/samba/private/smbpasswd minute center scan success hour admin list remove encoding /system_mgr/samba/workgroup /system_mgr/afp/enable Connect timeout time Select sleep login block delete 
+	Number of Para source files: 39
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth upgrade 40 /index /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/42
+Strings count : 862
+Para + API count : 79
+Para: 
+	Hits Para count: 73
+	Hits Para : 
+		function /system_mgr/samba/server_string checkbox false /network_mgr/bonding/enable scan /data/log/syslog password back system syslog enable restore file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/samba/netbios_name Status style samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable /system_mgr/samba/ads_password Unlimited reboot /system_mgr/nfs/enable /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable print input hidden main /network_mgr/ddns/enable username /system_mgr/samba/ads_pwd_server string power filename /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable time /system_mgr/samba/ads_username /var/system/last_wan export /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup position /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 /tmp/samba/private/smbpasswd name jquery manual account save /bin/false center admin dns2 dns1 list remove encoding /system_mgr/samba/workgroup /system_mgr/afp/enable Connect error /system_mgr/samba/ads_realm display Select delete 
+	Number of Para source files: 47
+API: 
+	Hits API count: 6
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade upgrade /index /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/14
+Strings count : 1144
+Para + API count : 183
+Para: 
+	Hits Para count: 62
+	Hits Para : 
+		domain right /network_mgr/bonding/enable scan /data/log/syslog Unknown System reboot syslog second /system_mgr/afp/enable sleep connect file logo /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select Status upgrade /download_mgr/p2p/enable network author encoding system filename content /app_mgr/upnpavserver/enable /network_mgr/ddns/domain /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease white main /network_mgr/ddns/enable lease username /bin/login enable string power /app_mgr/itunesserver/enable devname /var/system/last_wan /network_mgr/snmp/enable input /syslog_server/enable password login Password name success object /system_mgr/nfs/enable list remove error time action position Unknown/bug 
+	Number of Para source files: 50
+API: 
+	Hits API count: 121
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade GetNetControlList SysToolRestoreSet setBlackRule 20 GetWrlStatus GetParentCtrlList WifiRadioGet multipart/form-data GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg setMacFilterCfg GetFirewallCfg /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg multipart SetPptpServerCfg getWanConnectStatus WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set AdvSetLanip SetNetControlList setUsbUnload WifiWpsSet action login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade getParentalRuleList WifiExtraSet goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg initSchedWifi 20/40 DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg form-data getHomeLink GetSystemStatus setPptpUserList upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient SysToolGetUpgrade expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo WifiRadioSet SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/96
+Strings count : 688
+Para + API count : 88
+Para: 
+	Hits Para count: 76
+	Hits Para : 
+		/system_mgr/samba/server_string domain checkbox protocol /network_mgr/bonding/enable scan list /network_mgr/lan0/gateway back system /block/ enable /system_mgr/samba/ads_realm file checked /system_mgr/quota/enable table /backup_mgr/rsyncd/enable gateway /system_mgr/samba/netbios_name /system_mgr/nfs/enable password samba /download_mgr/p2p/enable network /backup_mgr/time_machine/enable /system_mgr/samba/ads_password print reboot static /app_mgr/upnpavserver/enable /network_mgr/ddns/domain /system_mgr/samba/ads_enable /block /network_mgr/dhcp_server/lease main /network_mgr/ddns/enable lease username Status /bin/login /system_mgr/samba/ads_pwd_server power /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable error /system_mgr/samba/ads_username /var/system/last_wan /network_mgr/snmp/enable disable restore /system_mgr/samba/ads_workgroup input /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 /tmp/samba/private/smbpasswd encoding center manual name admin dns2 dns1 mask remove /system_mgr/afp/enable /system_mgr/samba/workgroup continue Select timeout time sleep login block delete 
+	Number of Para source files: 45
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth upgrade 40 /index /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/8
+Strings count : 902
+Para + API count : 74
+Para: 
+	Hits Para count: 61
+	Hits Para : 
+		right /network_mgr/bonding/enable encoding /data/log/syslog Unknown System reboot syslog /block/ enable sleep connect file table /system_mgr/quota/enable logo /backup_mgr/rsyncd/enable select Status upgrade /download_mgr/p2p/enable network author system filename content /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /block /network_mgr/dhcp_server/lease white main /network_mgr/ddns/enable lease /bin/login devname string power /app_mgr/itunesserver/enable time /var/system/last_wan print /network_mgr/snmp/enable input /syslog_server/enable password Unknown/bug Password name success object /system_mgr/nfs/enable list second remove /system_mgr/afp/enable error action position login block 
+	Number of Para source files: 50
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade 20 40 Auth /login/Auth form-data upgrade multipart action login 20/40 multipart/form-data 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/sbin/udevd
+Strings count : 1519
+Para + API count : 56
+Para: 
+	Hits Para count: 48
+	Hits Para : 
+		restore scan /data/log/syslog list float back syslog /block/ sleep file select string system filename current width waiting other /block /network_mgr/dhcp_server/lease white main lease function devname complete parent normal time /var/system/last_wan print disable /var/etc/options name target object signal mask second remove filter timeout error action export options block delete 
+	Number of Para source files: 46
+API: 
+	Hits API count: 8
+	Hits API : 
+		index major 20 40 /index action 20/40 minor 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/32
+Strings count : 1037
+Para + API count : 71
+Para: 
+	Hits Para count: 58
+	Hits Para : 
+		right /network_mgr/bonding/enable encoding /data/log/syslog Unknown System reboot syslog second enable sleep connect file table /system_mgr/quota/enable logo /backup_mgr/rsyncd/enable select Status upgrade /download_mgr/p2p/enable network author system filename content /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease white main /network_mgr/ddns/enable lease /bin/login devname string power /app_mgr/itunesserver/enable time /var/system/last_wan /network_mgr/snmp/enable input /syslog_server/enable password login name success object /system_mgr/nfs/enable list remove /system_mgr/afp/enable Connect error action position Unknown/bug 
+	Number of Para source files: 49
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade 20 40 Auth /login/Auth form-data upgrade multipart action login 20/40 multipart/form-data 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/72
+Strings count : 735
+Para + API count : 69
+Para: 
+	Hits Para count: 60
+	Hits Para : 
+		restore filename /network_mgr/bonding/enable scan /data/log/syslog list back reboot syslog /block/ /system_mgr/afp/enable sleep connect file remove /system_mgr/quota/enable table /backup_mgr/rsyncd/enable Status Enable /download_mgr/p2p/enable script media encoding system /system_mgr/nfs/enable /app_mgr/upnpavserver/enable /lang/ /backup_mgr/time_machine/enable /block /network_mgr/dhcp_server/lease main /network_mgr/ddns/enable method lease function enable power /app_mgr/itunesserver/enable time /var/system/last_wan System print /network_mgr/snmp/enable /var/etc/options /syslog_server/enable password center lang name admin manual refresh username Connect error Select position options block 
+	Number of Para source files: 41
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade Auth upgrade /index /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/92
+Strings count : 669
+Para + API count : 178
+Para: 
+	Hits Para count: 57
+	Hits Para : 
+		domain /network_mgr/bonding/enable scan Unknown Bound second /system_mgr/afp/enable sleep connect file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select /system_mgr/nfs/enable upgrade /download_mgr/p2p/enable script selected filename content /app_mgr/upnpavserver/enable /lang/ /network_mgr/ddns/domain /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease main /network_mgr/ddns/enable method lease username /bin/login enable /app_mgr/itunesserver/enable time /network_mgr/snmp/enable disable /syslog_server/enable password login Delete lang save name success signal author list Password remove Connect error position Unknown/bug Select delete 
+	Number of Para source files: 41
+API: 
+	Hits API count: 121
+	Hits API : 
+		goform/GetRouterStatus WifiWpsGet SetOnlineDevName SetIpMacBind SetSysTimeCfg GetSysTimeCfg setNotUpgrade /cgi-bin/UploadCfg GetNetControlList SysToolRestoreSet setBlackRule 20 GetWrlStatus GetParentCtrlList WifiRadioGet multipart/form-data GetAdvanceStatus GetVpnStatus setApModeCfg goform/getWanParameters AdvSetMacMtuWan SetIPTVCfg getOnlineList SetSysAutoRebbotCfg setMacFilterCfg GetFirewallCfg /login/Auth fast_setting_get WifiWpsStart delParentalRule cgi-bin GetSysStatus GetSySLogCfg delWifiMacFilter GetPptpServerCfg getMacFilterCfg multipart SetPptpServerCfg getWanConnectStatus WifiGuestGet Auth WifiBasicSet GetUpnpCfg getApModeCfg SetVirtualServerCfg delBlackRule goform/getWanConnectStatus GetRemoteWebCfg getProduct goform saveParentControlInfo GetIPTVCfg WifiBeamformingSet WifiPowerGet fast_setting_wifi_set setPptpUserList SetNetControlList setUsbUnload WifiWpsSet login SetLEDCfg GetStaticRouteCfg WifiBasicGet SysToolChangePwd SetPrinterCfg GetSambaCfg WifiBeamformingGet getBlackRuleList goform/getProduct GetSysAutoRebbotCfg SetSambaCfg SetDMZCfg AdvGetMacMtuWan /cgi-bin/upgrade getParentalRuleList WifiExtraSet goform/GetUSBStatus SetStaticRouteCfg GetIpMacBind SetUpnpCfg initSchedWifi 20/40 DhcpSetSer PowerSaveSet AdvGetLanIp fast_setting_internet_set GetPrinterCfg form-data getHomeLink GetSystemStatus AdvSetLanip upgrade GetDDNSCfg SetDlnaCfg GetLEDCfg GetPptpClientCfg GetVirtualServerCfg PowerSaveGet GetDMZCfg 40 GetUsbCfg parentControlEn initWifiMacFilter openSchedWifi WanParameterSetting goform/WifiApScan getPptpOnlineClient SysToolGetUpgrade expandDlnaFile WifiPowerSet WifiGuestSet GetDhcpServer WifiExtraGet GetParentControlInfo WifiRadioSet SetFirewallCfg SetRemoteWebCfg SetDDNSCfg SetPptpClientCfg GetDlnaCfg SysToolReboot 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/69
+Strings count : 638
+Para + API count : 77
+Para: 
+	Hits Para count: 68
+	Hits Para : 
+		/system_mgr/samba/server_string Manual Unknown/bug /network_mgr/bonding/enable direction restore manual back month /block/ enable /system_mgr/samba/ads_realm file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/samba/netbios_name /system_mgr/nfs/enable samba /download_mgr/p2p/enable system /backup_mgr/time_machine/enable /system_mgr/samba/ads_password print reboot Disable /system_mgr/samba/ads_enable /block main /network_mgr/ddns/enable method username Status /bin/login /system_mgr/samba/ads_pwd_server power /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable time /system_mgr/samba/ads_username /var/system/last_wan /network_mgr/snmp/enable disable /system_mgr/samba/ads_workgroup /syslog_server/enable password /tmp/samba/private/smbpasswd encoding minute name scan center hour admin list remove /app_mgr/upnpavserver/enable Unknown /system_mgr/samba/workgroup /system_mgr/afp/enable Connect timeout error Select sleep login block delete 
+	Number of Para source files: 36
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin Restore /cgi-bin/upgrade Auth upgrade /login/Auth login Backup /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/usr/sbin/pppdv2
+Strings count : 757
+Para + API count : 64
+Para: 
+	Hits Para count: 56
+	Hits Para : 
+		restore protocol /network_mgr/bonding/enable scan /data/log/syslog back syslog second /system_mgr/afp/enable sleep connect /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select /system_mgr/nfs/enable System /download_mgr/p2p/enable network script /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print input hidden main /network_mgr/ddns/enable method username /bin/login enable /app_mgr/itunesserver/enable time primary /network_mgr/snmp/enable disable connected /var/etc/options active /syslog_server/enable /sys/class/tty/console/active secondary Password name success signal list callback password continue Connect timeout error login options delete 
+	Number of Para source files: 41
+API: 
+	Hits API count: 8
+	Hits API : 
+		index 20 Auth 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/63
+Strings count : 817
+Para + API count : 68
+Para: 
+	Hits Para count: 56
+	Hits Para : 
+		restore domain right /network_mgr/bonding/enable encoding list float back system /block/ /system_mgr/afp/enable sleep remove file year /system_mgr/quota/enable table /backup_mgr/rsyncd/enable string /system_mgr/nfs/enable /download_mgr/p2p/enable media scan reboot filename current /app_mgr/upnpavserver/enable /network_mgr/ddns/domain /backup_mgr/time_machine/enable /block main /network_mgr/ddns/enable username Status /bin/login enable complete power /app_mgr/itunesserver/enable screen error /var/system/last_wan print /network_mgr/snmp/enable /syslog_server/enable center name admin manual refresh filter Select time login block connect 
+	Number of Para source files: 35
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth upgrade 40 /index /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/71
+Strings count : 773
+Para + API count : 77
+Para: 
+	Hits Para count: 65
+	Hits Para : 
+		/system_mgr/samba/server_string filename /network_mgr/bonding/enable /system_mgr/nfs/enable restore /data/log/syslog back month syslog enable /system_mgr/samba/ads_realm file year /system_mgr/quota/enable /backup_mgr/rsyncd/enable complete Status samba /download_mgr/p2p/enable system /backup_mgr/time_machine/enable script /system_mgr/samba/ads_password /system_mgr/samba/netbios_name reboot name content /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable print main /network_mgr/ddns/enable method username /bin/login /system_mgr/samba/ads_pwd_server description power /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable /system_mgr/samba/ads_username /var/system/last_wan System /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup position /syslog_server/enable password /tmp/samba/private/smbpasswd center scan success hour admin manual remove encoding /system_mgr/samba/workgroup /system_mgr/afp/enable Connect timeout time sleep login delete 
+	Number of Para source files: 32
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth upgrade 40 /index /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/87
+Strings count : 473
+Para + API count : 76
+Para: 
+	Hits Para count: 69
+	Hits Para : 
+		/system_mgr/samba/server_string /network_mgr/bonding/enable restore /data/log/syslog Unknown /network_mgr/lan0/gateway back system syslog enable /system_mgr/samba/ads_realm file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable gateway /system_mgr/samba/netbios_name /system_mgr/nfs/enable samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable script /system_mgr/samba/ads_password reboot list /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable /tmp/usb_printer main /network_mgr/ddns/enable username Status /bin/login /system_mgr/samba/ads_pwd_server description power usb_printer /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable error /system_mgr/samba/ads_username /var/system/last_wan print /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 /tmp/samba/private/smbpasswd login minute center manual scan name hour admin dns2 dns1 mask remove encoding /system_mgr/samba/workgroup /system_mgr/afp/enable timeout time sleep Unknown/bug Select 
+	Number of Para source files: 31
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade Auth upgrade /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/7
+Strings count : 524
+Para + API count : 63
+Para: 
+	Hits Para count: 53
+	Hits Para : 
+		restore false /network_mgr/bonding/enable scan list back reboot /system_mgr/afp/enable sleep file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select /system_mgr/nfs/enable /download_mgr/p2p/enable system encoding detail current width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease save /network_mgr/ddns/enable lease username Status /bin/login enable complete power /app_mgr/itunesserver/enable time Remove /network_mgr/snmp/enable disable /var/system/last_wan /syslog_server/enable name main /bin/false center admin manual remove timeout error login other Select 
+	Number of Para source files: 40
+API: 
+	Hits API count: 10
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade Auth action upgrade /index /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/78
+Strings count : 272
+Para + API count : 62
+Para: 
+	Hits Para count: 51
+	Hits Para : 
+		/network_mgr/bonding/enable scan /data/log/syslog System system syslog /system_mgr/afp/enable sleep file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable border absolute /system_mgr/nfs/enable onload style /download_mgr/p2p/enable title ipaddr reboot filename content width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print main /network_mgr/ddns/enable method function /bin/login enable parent /app_mgr/itunesserver/enable /var/system/last_wan back /network_mgr/snmp/enable background /syslog_server/enable height color name center script refresh filter error position login display 
+	Number of Para source files: 36
+API: 
+	Hits API count: 11
+	Hits API : 
+		index 20 Auth form-data 40 /index /login/Auth login 20/40 multipart/form-data multipart 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/80
+Strings count : 728
+Para + API count : 59
+Para: 
+	Hits Para count: 49
+	Hits Para : 
+		restore /network_mgr/bonding/enable scan list float back system /system_mgr/afp/enable sleep remove file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable string /system_mgr/nfs/enable content /download_mgr/p2p/enable encoding reboot filename current /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print save /network_mgr/ddns/enable username Status /bin/login enable complete power /app_mgr/itunesserver/enable error /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable center main name admin manual refresh filter timeout time login Select 
+	Number of Para source files: 35
+API: 
+	Hits API count: 10
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade 20 Auth upgrade 40 /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/usr/sbin/pppoe-server
+Strings count : 536
+Para + API count : 63
+Para: 
+	Hits Para count: 51
+	Hits Para : 
+		right /network_mgr/bonding/enable scan /data/log/syslog System syslog second /system_mgr/afp/enable connect file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select PPPoE /system_mgr/nfs/enable upgrade /download_mgr/p2p/enable current /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print save /network_mgr/ddns/enable username /bin/login enable complete /app_mgr/itunesserver/enable time /network_mgr/snmp/enable /var/etc/options /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 Delete main name object dns2 dns1 list remove options timeout error action login signal Select delete 
+	Number of Para source files: 39
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth action upgrade 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/62
+Strings count : 980
+Para + API count : 71
+Para: 
+	Hits Para count: 59
+	Hits Para : 
+		/system_mgr/samba/server_string filename /network_mgr/bonding/enable encoding list back system enable restore file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select /system_mgr/samba/netbios_name Status samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable script /system_mgr/samba/ads_password reboot /system_mgr/nfs/enable content /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable print main /network_mgr/ddns/enable username /bin/login /system_mgr/samba/ads_pwd_server power /system_mgr/samba/ads_username /system_mgr/samba/dfs_enable time Manual /var/system/last_wan /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup position /syslog_server/enable /tmp/samba/private/smbpasswd sleep name /app_mgr/itunesserver/enable scan center admin title manual /system_mgr/samba/workgroup /system_mgr/afp/enable Connect timeout error /system_mgr/samba/ads_realm login Select 
+	Number of Para source files: 36
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth upgrade 40 /index /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/39
+Strings count : 447
+Para + API count : 61
+Para: 
+	Hits Para count: 50
+	Hits Para : 
+		domain macaddr /network_mgr/bonding/enable object /system_mgr/quota/enable select enable sleep cancel /network_mgr/snmp/enable /backup_mgr/rsyncd/enable apclient /system_mgr/nfs/enable Enable /download_mgr/p2p/enable ssid ipaddr system width /app_mgr/upnpavserver/enable /network_mgr/ddns/domain /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease hidden main /network_mgr/ddns/enable method Channel lease Status sb/1/macaddr repeat complete power /app_mgr/itunesserver/enable wpapsk time /var/system/last_wan wireless disable /syslog_server/enable advance list remove /system_mgr/afp/enable timeout error Select delete 
+	Number of Para source files: 39
+API: 
+	Hits API count: 11
+	Hits API : 
+		index 20 Auth WPA/WPA2-PSK 40 /index /login/Auth WPA2-PSK login 20/40 WPA 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/46
+Strings count : 796
+Para + API count : 46
+Para: 
+	Hits Para count: 36
+	Hits Para : 
+		false encoding System Custom sleep file Channel Status Enable network script portList scan system Connected print input Password username /bin/login string time Manual /var/system/last_wan password main /bin/false name success admin list Connect timeout error action login 
+	Number of Para source files: 44
+API: 
+	Hits API count: 10
+	Hits API : 
+		WPA/WPA2-PSK 20 Auth action 40 /login/Auth WPA2-PSK login 20/40 WPA 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/97
+Strings count : 535
+Para + API count : 58
+Para: 
+	Hits Para count: 48
+	Hits Para : 
+		restore /network_mgr/bonding/enable scan list back detail /system_mgr/afp/enable sleep file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/nfs/enable Enable /download_mgr/p2p/enable system script encoding reboot filename /app_mgr/upnpavserver/enable /lang/ /backup_mgr/time_machine/enable print main /network_mgr/ddns/enable username Status /bin/login enable description power /app_mgr/itunesserver/enable screen time /var/system/last_wan /network_mgr/snmp/enable disable /syslog_server/enable name lang center admin manual timeout error login Select 
+	Number of Para source files: 28
+API: 
+	Hits API count: 10
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade 20 Auth upgrade 40 /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/66
+Strings count : 1032
+Para + API count : 70
+Para: 
+	Hits Para count: 61
+	Hits Para : 
+		/system_mgr/samba/server_string /network_mgr/bonding/enable scan /data/log/syslog System syslog /block/ scanned /system_mgr/samba/ads_realm file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/samba/netbios_name /system_mgr/nfs/enable samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable script enable /system_mgr/samba/ads_password print system Disable /sys/class/tty/console/active /system_mgr/samba/ads_enable /block input main /network_mgr/ddns/enable /app_mgr/itunesserver/enable /system_mgr/samba/ads_pwd_server description normal /system_mgr/samba/ads_username /system_mgr/samba/dfs_enable Manual /var/system/last_wan /network_mgr/snmp/enable Enable /system_mgr/samba/ads_workgroup active /syslog_server/enable password /tmp/samba/private/smbpasswd string Delete account name success admin title list remove device_name /app_mgr/upnpavserver/enable /system_mgr/samba/workgroup /system_mgr/afp/enable time sleep block 
+	Number of Para source files: 39
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 40 upgrade /index 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/41
+Strings count : 705
+Para + API count : 47
+Para: 
+	Hits Para count: 39
+	Hits Para : 
+		right protocol scan color syslog /block/ warning sleep connect file select absolute Status style script system filename /data/log/syslog /block main method /bin/login string time /tmp/product_name /var/system/last_wan print name admin signal author list product_name Connect timeout error small login block 
+	Number of Para source files: 35
+API: 
+	Hits API count: 8
+	Hits API : 
+		index 20 Auth 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/61
+Strings count : 519
+Para + API count : 54
+Para: 
+	Hits Para count: 45
+	Hits Para : 
+		restore /network_mgr/bonding/enable scan list back reboot /system_mgr/afp/enable sleep file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable Status /system_mgr/nfs/enable /download_mgr/p2p/enable system encoding detail /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable print input hidden main /network_mgr/ddns/enable username /bin/login enable power /backup_mgr/time_machine/enable error /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable name account save center admin manual timeout time export login Select 
+	Number of Para source files: 35
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade Auth upgrade /index /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/84
+Strings count : 690
+Para + API count : 67
+Para: 
+	Hits Para count: 61
+	Hits Para : 
+		/system_mgr/samba/server_string false /network_mgr/bonding/enable encoding /network_mgr/lan0/gateway system /block/ enable /system_mgr/samba/ads_realm remove file /system_mgr/quota/enable /backup_mgr/rsyncd/enable gateway /system_mgr/samba/netbios_name /system_mgr/nfs/enable samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable floor media /system_mgr/samba/ads_password reboot filename /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable /block scan main /network_mgr/ddns/enable Status /system_mgr/samba/ads_pwd_server /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable time /system_mgr/samba/ads_username /var/system/last_wan print /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 /tmp/samba/private/smbpasswd center account /bin/false name success admin dns2 dns1 list refresh filter /system_mgr/samba/workgroup /system_mgr/afp/enable error sleep block delete 
+	Number of Para source files: 35
+API: 
+	Hits API count: 6
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade upgrade /index /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/usr/sbin/pppoecd
+Strings count : 530
+Para + API count : 41
+Para: 
+	Hits Para count: 34
+	Hits Para : 
+		protocol scan /data/log/syslog back syslog second connect select password network script system Disable print hidden main username /bin/login string time /var/system/last_wan disable active /sys/class/tty/console/active name signal mask callback Connect timeout error action login PPPoE 
+	Number of Para source files: 36
+API: 
+	Hits API count: 7
+	Hits API : 
+		20 Auth action 40 /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/17
+Strings count : 469
+Para + API count : 52
+Para: 
+	Hits Para count: 46
+	Hits Para : 
+		protocol /network_mgr/bonding/enable firewall list /block/ /system_mgr/afp/enable sleep /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select /system_mgr/nfs/enable Enable /download_mgr/p2p/enable print ipaddr system content /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /block /network_mgr/dhcp_server/lease main /network_mgr/ddns/enable lease enable complete /app_mgr/itunesserver/enable time /var/system/last_wan /network_mgr/snmp/enable disable input /syslog_server/enable Delete name success Firewall mask object filter timeout error action block delete 
+	Number of Para source files: 40
+API: 
+	Hits API count: 6
+	Hits API : 
+		index Auth action /index /login/Auth login 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/44
+Strings count : 400
+Para + API count : 50
+Para: 
+	Hits Para count: 45
+	Hits Para : 
+		/network_mgr/bonding/enable scan list /network_mgr/lan0/gateway Custom /system_mgr/afp/enable static /system_mgr/quota/enable /backup_mgr/rsyncd/enable gateway string /system_mgr/nfs/enable Enable /download_mgr/p2p/enable /backup_mgr/time_machine/enable ipaddr system /app_mgr/upnpavserver/enable internet print /network_mgr/dhcp_server/lease Password /network_mgr/ddns/enable lease enable leaseTime complete /app_mgr/itunesserver/enable time /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable Delete main name object mask remove filter Select timeout error sleep dhcpEn delete 
+	Number of Para source files: 32
+API: 
+	Hits API count: 5
+	Hits API : 
+		/login/Auth index login Auth /index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/53
+Strings count : 508
+Para + API count : 53
+Para: 
+	Hits Para count: 45
+	Hits Para : 
+		restore /network_mgr/bonding/enable scan list back system /block/ /system_mgr/afp/enable sleep file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/nfs/enable /download_mgr/p2p/enable encoding reboot /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /block main /network_mgr/ddns/enable username Status /bin/login enable power /app_mgr/itunesserver/enable error Manual /var/system/last_wan print /network_mgr/snmp/enable /syslog_server/enable name center hour admin manual Select timeout time login block delete 
+	Number of Para source files: 30
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade Auth action upgrade /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/27
+Strings count : 729
+Para + API count : 56
+Para: 
+	Hits Para count: 47
+	Hits Para : 
+		domain /network_mgr/bonding/enable scan Unknown primary /block/ /system_mgr/afp/enable connect file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable select /system_mgr/nfs/enable /download_mgr/p2p/enable network media print system current /app_mgr/upnpavserver/enable /network_mgr/ddns/domain /backup_mgr/time_machine/enable /block /network_mgr/dhcp_server/lease save /network_mgr/ddns/enable lease enable /app_mgr/itunesserver/enable time /var/system/last_wan /network_mgr/snmp/enable disable input /syslog_server/enable Unknown/bug main name success list filter Connect error action security block 
+	Number of Para source files: 38
+API: 
+	Hits API count: 9
+	Hits API : 
+		index 20 Auth action 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/79
+Strings count : 394
+Para + API count : 61
+Para: 
+	Hits Para count: 54
+	Hits Para : 
+		/system_mgr/samba/server_string checkbox /network_mgr/bonding/enable scan list back system enable restore file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/samba/netbios_name /system_mgr/nfs/enable samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable /system_mgr/samba/ads_password reboot /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable print input main /network_mgr/ddns/enable username Status /bin/login /system_mgr/samba/ads_pwd_server power /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable error /system_mgr/samba/ads_username /var/system/last_wan /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup /syslog_server/enable /tmp/samba/private/smbpasswd sleep name account center admin manual encoding /system_mgr/samba/workgroup /system_mgr/afp/enable timeout time /system_mgr/samba/ads_realm login Select 
+	Number of Para source files: 30
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade Auth upgrade /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/usr/sbin/dnsmasq
+Strings count : 406
+Para + API count : 35
+Para: 
+	Hits Para count: 32
+	Hits Para : 
+		domain /var/etc/options scan /data/log/syslog list back month syslog sleep file select string network ipaddr /network_mgr/ddns/domain print /network_mgr/dhcp_server/lease main lease username object complete time disable background name target signal mask filter error options 
+	Number of Para source files: 36
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/58
+Strings count : 515
+Para + API count : 49
+Para: 
+	Hits Para count: 42
+	Hits Para : 
+		restore /network_mgr/bonding/enable scan /data/log/syslog list back system syslog /system_mgr/afp/enable sleep file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/nfs/enable /download_mgr/p2p/enable encoding reboot /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print main /network_mgr/ddns/enable username Status /bin/login enable power /app_mgr/itunesserver/enable error Manual /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable name center admin manual timeout time login Select 
+	Number of Para source files: 29
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade Auth upgrade /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/67
+Strings count : 405
+Para + API count : 48
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		restore /network_mgr/bonding/enable scan list back system /system_mgr/afp/enable sleep file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/nfs/enable /download_mgr/p2p/enable encoding reboot /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print save /network_mgr/ddns/enable username Status /bin/login enable power /app_mgr/itunesserver/enable time /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable name main center admin manual remove timeout error login Select 
+	Number of Para source files: 29
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade Auth upgrade /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/6
+Strings count : 391
+Para + API count : 59
+Para: 
+	Hits Para count: 52
+	Hits Para : 
+		/system_mgr/samba/server_string /network_mgr/bonding/enable restore list back system enable /system_mgr/samba/ads_realm file /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/samba/netbios_name /system_mgr/nfs/enable samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable /system_mgr/samba/ads_password reboot /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable print main /network_mgr/ddns/enable username Status /bin/login /system_mgr/samba/ads_pwd_server string power /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable error /system_mgr/samba/ads_username /var/system/last_wan /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup /syslog_server/enable /tmp/samba/private/smbpasswd name scan center admin manual encoding /system_mgr/samba/workgroup /system_mgr/afp/enable timeout time sleep login Select 
+	Number of Para source files: 28
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade Auth upgrade /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/68
+Strings count : 339
+Para + API count : 37
+Para: 
+	Hits Para count: 32
+	Hits Para : 
+		domain protocol sleep logo select string Enable ipaddr system /lang/ /network_mgr/ddns/domain print /network_mgr/dhcp_server/lease Password Channel lease /bin/login object complete time /var/system/last_wan password lang main name hour list timeout error login sys_log delete 
+	Number of Para source files: 34
+API: 
+	Hits API count: 5
+	Hits API : 
+		/login/Auth index login Auth /index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/1
+Strings count : 438
+Para + API count : 41
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		scan Custom sleep file Status network script reboot /lang/ print input save lease lang object string time /network_mgr/dhcp_server/lease undefined jquery account main name list timeout error action delete 
+	Number of Para source files: 38
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin index /cgi-bin/upgrade 20 Auth action upgrade 40 /index /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/86
+Strings count : 295
+Para + API count : 41
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		domain false scan Custom file logo Status ssid title system current /network_mgr/ddns/domain print /network_mgr/dhcp_server/lease main lease username /bin/login time /var/system/last_wan wireless password account /bin/false name success admin list error login delete 
+	Number of Para source files: 42
+API: 
+	Hits API count: 10
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade 20 Auth upgrade 40 /login/Auth login 20/40 /cgi-bin/UploadCfg 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/28
+Strings count : 307
+Para + API count : 49
+Para: 
+	Hits Para count: 42
+	Hits Para : 
+		restore /network_mgr/bonding/enable encoding list back system /block/ /system_mgr/afp/enable sleep /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/nfs/enable /download_mgr/p2p/enable scan reboot /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /block main /network_mgr/ddns/enable username Status /bin/login enable power /app_mgr/itunesserver/enable /var/system/last_wan print /network_mgr/snmp/enable /syslog_server/enable name account center admin manual remove Select timeout time login block 
+	Number of Para source files: 29
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade Auth upgrade /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/usr/sbin/udhcpc
+Strings count : 298
+Para + API count : 30
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		domain Disconnect background back warning sleep connect file select script media /router/ current /network_mgr/ddns/domain print /network_mgr/dhcp_server/lease main lease string error /var/etc/options name hour signal list Connect time router options delete 
+	Number of Para source files: 34
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/35
+Strings count : 384
+Para + API count : 30
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		scan back detail static file system virtual filename current black print /network_mgr/dhcp_server/lease white lease function object string normal time /var/system/last_wan name signal list callback error Select delete 
+	Number of Para source files: 28
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/51
+Strings count : 406
+Para + API count : 51
+Para: 
+	Hits Para count: 39
+	Hits Para : 
+		false /network_mgr/bonding/enable /system_mgr/afp/enable export connect file /system_mgr/quota/enable /backup_mgr/rsyncd/enable Status /download_mgr/p2p/enable script filename /system_mgr/nfs/enable /app_mgr/upnpavserver/enable /lang/ /backup_mgr/time_machine/enable print save /network_mgr/ddns/enable /bin/login enable string /app_mgr/itunesserver/enable object /network_mgr/snmp/enable /syslog_server/enable password Delete lang main /bin/false name admin signal list time action position login 
+	Number of Para source files: 43
+API: 
+	Hits API count: 12
+	Hits API : 
+		index 20 Auth action form-data 40 /index /login/Auth login 20/40 multipart/form-data multipart 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/99
+Strings count : 253
+Para + API count : 38
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		scan /data/log/syslog System syslog warning file table border onload style title ipaddr system filename content width /lang/ print main product_name function /tmp/product_name /var/system/last_wan lang name script error position 
+	Number of Para source files: 28
+API: 
+	Hits API count: 10
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade 20 40 form-data upgrade multipart 20/40 /cgi-bin/UploadCfg multipart/form-data 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/100
+Strings count : 195
+Para + API count : 37
+Para: 
+	Hits Para count: 37
+	Hits Para : 
+		/network_mgr/bonding/enable second /system_mgr/afp/enable sleep file /system_mgr/quota/enable /network_mgr/snmp/enable /download_mgr/p2p/enable /system_mgr/nfs/enable password /backup_mgr/rsyncd/enable checked media ipaddr system filename current /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print main /network_mgr/ddns/enable username Status enable string /app_mgr/itunesserver/enable /var/system/last_wan Enable /syslog_server/enable /network_mgr/lan0/dns1 Delete name dns1 Connect error signal 
+	Number of Para source files: 34
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/94
+Strings count : 269
+Para + API count : 54
+Para: 
+	Hits Para count: 47
+	Hits Para : 
+		/system_mgr/samba/server_string /network_mgr/bonding/enable restore list back system enable /system_mgr/samba/ads_realm /system_mgr/quota/enable table /backup_mgr/rsyncd/enable /system_mgr/samba/netbios_name /system_mgr/nfs/enable samba /download_mgr/p2p/enable /backup_mgr/time_machine/enable /system_mgr/samba/ads_password reboot /app_mgr/upnpavserver/enable /system_mgr/samba/ads_enable print main /network_mgr/ddns/enable username /bin/login /system_mgr/samba/ads_pwd_server power /app_mgr/itunesserver/enable /system_mgr/samba/dfs_enable /system_mgr/samba/ads_username /var/system/last_wan /network_mgr/snmp/enable /system_mgr/samba/ads_workgroup /syslog_server/enable /tmp/samba/private/smbpasswd name scan center admin manual /system_mgr/samba/workgroup /system_mgr/afp/enable timeout time sleep login Select 
+	Number of Para source files: 25
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade Auth upgrade /login/Auth login /cgi-bin/UploadCfg 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/93
+Strings count : 196
+Para + API count : 41
+Para: 
+	Hits Para count: 35
+	Hits Para : 
+		/network_mgr/bonding/enable scan system warning sleep file /system_mgr/quota/enable table /download_mgr/p2p/enable /system_mgr/nfs/enable style /backup_mgr/rsyncd/enable script ipaddr reboot filename content /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print main /network_mgr/ddns/enable function enable complete parent /app_mgr/itunesserver/enable object /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable name /system_mgr/afp/enable error position 
+	Number of Para source files: 22
+API: 
+	Hits API count: 6
+	Hits API : 
+		20 40 form-data multipart 20/40 multipart/form-data 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/95
+Strings count : 270
+Para + API count : 31
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		scan /data/log/syslog back syslog sleep file logo encoding system /lang/ print main username /bin/login time /var/system/last_wan name lang account center success admin list timeout error login 
+	Number of Para source files: 20
+API: 
+	Hits API count: 5
+	Hits API : 
+		/login/Auth index login Auth /index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/11
+Strings count : 259
+Para + API count : 41
+Para: 
+	Hits Para count: 36
+	Hits Para : 
+		/network_mgr/bonding/enable scan system warning sleep file /system_mgr/quota/enable /backup_mgr/rsyncd/enable /system_mgr/nfs/enable Enable /download_mgr/p2p/enable script ipaddr reboot filename content /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print /network_mgr/dhcp_server/lease save /network_mgr/ddns/enable lease enable complete /app_mgr/itunesserver/enable object /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable main name list /system_mgr/afp/enable error position 
+	Number of Para source files: 26
+API: 
+	Hits API count: 5
+	Hits API : 
+		index form-data /index multipart multipart/form-data 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/98
+Strings count : 249
+Para + API count : 38
+Para: 
+	Hits Para count: 35
+	Hits Para : 
+		/network_mgr/bonding/enable scan system warning sleep file /system_mgr/quota/enable table /download_mgr/p2p/enable select /system_mgr/nfs/enable /backup_mgr/rsyncd/enable script ipaddr reboot filename content /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print save /network_mgr/ddns/enable enable complete /app_mgr/itunesserver/enable object /var/system/last_wan /network_mgr/snmp/enable Enable /syslog_server/enable main name /system_mgr/afp/enable error position 
+	Number of Para source files: 26
+API: 
+	Hits API count: 3
+	Hits API : 
+		form-data multipart multipart/form-data 
+	Number of API source files: 41
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/sbin/iwlist
+Strings count : 356
+Para + API count : 27
+Para: 
+	Hits Para count: 22
+	Hits Para : 
+		scanning scan Unknown float argument Channel string select print /network_mgr/dhcp_server/lease main lease complete power time wireless name signal list timeout error Unknown/bug 
+	Number of Para source files: 28
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 /index 20/40 40 index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/38
+Strings count : 184
+Para + API count : 32
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		System Enable /data/log/syslog signal time ipaddr Select disable sleep syslog Disable Channel connect timeout error print /network_mgr/dhcp_server/lease main connected select lease 
+	Number of Para source files: 23
+API: 
+	Hits API count: 11
+	Hits API : 
+		index 20 Auth WPA/WPA2-PSK 40 /index /login/Auth WPA2-PSK login 20/40 WPA 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/usr/sbin/udhcpd
+Strings count : 260
+Para + API count : 27
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		domain second warning connect file select /router/ system /network_mgr/ddns/domain print /network_mgr/dhcp_server/lease main lease string error /var/system/last_wan /var/etc/options name signal list time router options delete 
+	Number of Para source files: 33
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/45
+Strings count : 224
+Para + API count : 25
+Para: 
+	Hits Para count: 19
+	Hits Para : 
+		system style complete success script object ipaddr reboot /var/system/last_wan filename content warning sleep file error print position main name 
+	Number of Para source files: 17
+API: 
+	Hits API count: 6
+	Hits API : 
+		Auth form-data multipart/form-data /login/Auth login multipart 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/sbin/iwevent
+Strings count : 297
+Para + API count : 24
+Para: 
+	Hits Para count: 19
+	Hits Para : 
+		error complete name scan Unknown signal float argument Custom wireless Channel timeout time print Unknown/bug main display select string 
+	Number of Para source files: 21
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 /index 20/40 40 index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/56
+Strings count : 232
+Para + API count : 24
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		username /bin/login timeout success scan /data/log/syslog encoding system /var/system/last_wan syslog sleep time file error print logo login main admin Channel name 
+	Number of Para source files: 17
+API: 
+	Hits API count: 3
+	Hits API : 
+		/login/Auth login Auth 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/74
+Strings count : 276
+Para + API count : 23
+Para: 
+	Hits Para count: 19
+	Hits Para : 
+		username account scan name encoding list error mask /bin/login remove system action /var/system/last_wan file time print login main delete 
+	Number of Para source files: 29
+API: 
+	Hits API count: 4
+	Hits API : 
+		/login/Auth action login Auth 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/sbin/iwconfig
+Strings count : 355
+Para + API count : 23
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		domain repeat string name scan float detail argument wireless power /network_mgr/ddns/domain timeout time print main error Channel ssid 
+	Number of Para source files: 23
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 /index 20/40 40 index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/82
+Strings count : 197
+Para + API count : 22
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		lang Status password scan string author admin float list System /lang/ file error print input main name 
+	Number of Para source files: 24
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 /index 20/40 40 index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/13
+Strings count : 137
+Para + API count : 31
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		/network_mgr/bonding/enable scan system warning sleep file /system_mgr/quota/enable /download_mgr/p2p/enable /system_mgr/nfs/enable /backup_mgr/rsyncd/enable ipaddr reboot filename content /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable print main /network_mgr/ddns/enable enable /backup_mgr/time_machine/enable /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable name /system_mgr/afp/enable error position 
+	Number of Para source files: 18
+API: 
+	Hits API count: 3
+	Hits API : 
+		form-data multipart multipart/form-data 
+	Number of API source files: 41
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/65
+Strings count : 263
+Para + API count : 17
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		password input list system remove name Disable sleep /var/system/last_wan file time print /network_mgr/dhcp_server/lease hidden main Delete lease 
+	Number of Para source files: 30
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/73
+Strings count : 203
+Para + API count : 24
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		object complete ipaddr error list system /var/system/last_wan switch sleep timeout time print /network_mgr/dhcp_server/lease main select lease 
+	Number of Para source files: 20
+API: 
+	Hits API count: 8
+	Hits API : 
+		index 20 Auth 40 /index /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/sbin/iwpriv
+Strings count : 298
+Para + API count : 31
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		/network_mgr/bonding/enable scan float argument /system_mgr/afp/enable /system_mgr/quota/enable /backup_mgr/rsyncd/enable Channel /system_mgr/nfs/enable /download_mgr/p2p/enable /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable print main /network_mgr/ddns/enable enable string /app_mgr/itunesserver/enable time wireless /network_mgr/snmp/enable /syslog_server/enable name disable timeout error 
+	Number of Para source files: 16
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 /index 20/40 40 index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/4
+Strings count : 402
+Para + API count : 34
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		domain /network_mgr/bonding/enable /system_mgr/afp/enable connect /system_mgr/quota/enable /backup_mgr/rsyncd/enable /system_mgr/nfs/enable /download_mgr/p2p/enable system /app_mgr/upnpavserver/enable /network_mgr/ddns/domain /backup_mgr/time_machine/enable print main /network_mgr/ddns/enable enable /app_mgr/itunesserver/enable /var/system/last_wan /network_mgr/snmp/enable /syslog_server/enable save name success disable Connect time action 
+	Number of Para source files: 22
+API: 
+	Hits API count: 7
+	Hits API : 
+		20 Auth action 40 /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/49
+Strings count : 469
+Para + API count : 21
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		Status /bin/login /sys/class/tty/console/active complete error Custom current active file time print logo login main name 
+	Number of Para source files: 14
+API: 
+	Hits API count: 6
+	Hits API : 
+		20 Auth 40 /login/Auth login 20/40 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/2
+Strings count : 179
+Para + API count : 18
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		username domain complete dns_set object list system /var/system/last_wan name /network_mgr/ddns/domain error print /network_mgr/dhcp_server/lease main ddns_set lease 
+	Number of Para source files: 19
+API: 
+	Hits API count: 2
+	Hits API : 
+		index /index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/sbin/iwspy
+Strings count : 244
+Para + API count : 17
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		error string scan float argument wireless timeout time print main Channel name 
+	Number of Para source files: 14
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 /index 20/40 40 index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/90
+Strings count : 208
+Para + API count : 18
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		save complete object list system /var/system/last_wan static sleep error print /network_mgr/dhcp_server/lease main lease 
+	Number of Para source files: 16
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 /index 20/40 40 index 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/Tenda/AC6/_US_AC6V2.0RTL_V15.03.06.23_multi_TD01.bin.extracted/squashfs-root/bin/52
+Strings count : 216
+Para + API count : 17
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		complete hour object list system /var/system/last_wan sleep error print /network_mgr/dhcp_server/lease main lease 
+	Number of Para source files: 14
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 /index 20/40 40 index 
+	Number of API source files: 46
+

@@ -1,0 +1,1 @@
+block lan1 file device service login lan2 filename comment mode password success username enable syslog port minute name 

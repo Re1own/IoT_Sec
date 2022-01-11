@@ -1,0 +1,610 @@
+Prar name : Disabled
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/natSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/portMapping.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/lanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/DNSForward.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/dnsHijack.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/portFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/js/ipMac.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/macFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/multiWan.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/js/qosManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : Enabled
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/natSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/portMapping.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/lanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/DNSForward.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/dnsHijack.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/portFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/js/ipMac.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/macFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/multiWan.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/js/qosManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : False
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/wirelessPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/pptpClient.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/ddnsConfig.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/sysTool.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/quickset/js/quickset.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/remoteManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/backupRecover.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/apManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/routeTable.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/js/dosLog.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/reboot.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/pptpServer.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/index/js/index.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/forceToFocus.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeBasicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/js/sysInfo.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/helpData.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/policyUpdate.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/sysTime.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/countryCode.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/multiWan.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/namePwd.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/DNSForward.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/js/qosCount.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/appFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/lanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/select.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiGuest.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipTimeGroup.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/dateTimePicker.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/advPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/macFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/update.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/portMapping.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanArgs.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/natSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/ipsec.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/js/qosManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/dnsHijack.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/webpage_showpic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/portFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/js/ipMac.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/USB/js/usbFileShare.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/login/js/login.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/js/portal_wewifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/plugAndPlay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wmmSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/portMirror.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : center
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/lanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/backtoInitial.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/index/js/index.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeBasicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/backupRecover.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/Chart.min.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/js/portal_wewifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/policyUpdate.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/update.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/reboot.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanArgs.js
+	Bin File: 
+
+Prar name : change
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/wirelessPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/userStatus.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/sysTool.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/backupRecover.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet-old.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/policyUpdate.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/forceToFocus.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/quickset/js/quickset.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/apManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/DNSForward.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/select.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiGuest.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/dateTimePicker.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/update.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/dnsSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanArgs.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wmmSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/placeholder.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : checked
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/appFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/userStatus.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/apManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/portMirror.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/advPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipTimeGroup.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/reboot.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanArgs.js
+	Bin File: 
+
+Prar name : click
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/wirelessPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/userStatus.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/backtoInitial.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/sysTool.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/preTimeout.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/backupRecover.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/dmzConfig.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/apManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/reboot.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/quickset/js/quickset.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/index/js/index.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/forceToFocus.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/dnsSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/policyUpdate.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/plugAndPlay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/js/userList.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/appFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/select.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiGuest.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/DNSForward.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/dateTimePicker.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet-old.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/update.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanArgs.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/webpage_showpic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wmmSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/js/slider.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/login/js/login.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/js/portal_wewifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : disabled
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/natSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/wirelessPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/userStatus.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/lanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/ipsec.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/webpage_showpic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/dateTimePicker.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/sysTool.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/apManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/js/ipMac.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/remoteManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/advPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/quickset/js/quickset.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipTimeGroup.js
+	Bin File: 
+
+Prar name : false
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/pptpClient.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/multiWan.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/portFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/remoteManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/dmzConfig.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/upnpConfig.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/js/qosManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/reboot.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/pptpServer.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/ddnsConfig.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/macFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/portMirror.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/appFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/lanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/DNSForward.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/dateTimePicker.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiGuest.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/portMapping.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/natSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/dnsHijack.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/js/ipMac.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/USB/js/usbFileShare.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : function
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/js/pcAuth.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/index/js/index.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/DNSForward.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/login/js/login.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/policyUpdate.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/dateTimePicker.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/backupRecover.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/Chart.min.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/apManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/update.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : input
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/wirelessPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/appFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/lanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/select.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/dnsHijack.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeBasicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/apManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/js/ipMac.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/advPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/namePwd.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/placeholder.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : renderer
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/namePwd.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/sysInfo.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/forceToFocus.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/ipFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/backtoInitial.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/wirelessPolicy.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/portMapping.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/sysTool.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/complete.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/natSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wmmSetting.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiGuest.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/wanArgs.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/lanSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/quickset/quickset.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/DNSForward.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/sysLog.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/USB/usbPrintShare.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/login.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/userStatus.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/dmzConfig.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/reboot.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/success.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/backupRecover.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/vlanSet-old.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/basicSetting.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/preTimeout.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/qosManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/pptpClient.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/dnsHijack.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/sysTime.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/timeout.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiAdvanced.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/ipsec.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/attackDefend.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/ddnsConfig.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/portFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/appFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/pppoeBasicSetting.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/update.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/dosLog.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/ipMac.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/policyUpdate.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/dnsSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/userManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/remoteManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/upnpConfig.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/multiWan.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/macFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/plugAndPlay.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/USB/usbFileShare.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/index.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/routeTable.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/pppoeCountManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiAdvanced.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/weWifi.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/ipTimeGroup.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/portMirror.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/portal_wewifi.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/webpage_showpic.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/userList.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/qosCount.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/vlanSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/pptpServer.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiRelay.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/advPolicy.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/urlFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiGuest.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiBasic.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiRelay.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiBasic.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/apManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiRadio.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/wanSet.html
+	Bin File: 
+
+Prar name : select
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/wirelessPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/dateTimePicker.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/ipFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/vlanSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/remoteManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/lanSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/dnsHijack.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/macFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanArgs.js
+	Bin File: 
+
+Prar name : tindex
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/appFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/portMapping.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/lanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/ipsec.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/multiWan.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeBasicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/portFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/apManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/js/ipMac.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/pptpServer.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/macFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/vlanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipTimeGroup.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/js/qosManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/userManage.js
+	Bin File: 
+
+Prar name : type
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/wirelessPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeCountManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/pptpClient.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeBasicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/qosCount.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/quickset/js/quickset.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/js/ipMac.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiGuest.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/routeTable.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/js/wanSet.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/js/qosManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/js/qosCount.js
+	Bin File: 
+
+Prar name : undefined
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/pptpClient.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/multiWan.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/portFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/js/qosManage.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/index/js/index.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/macFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/urlFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/countryCode.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/appFilter.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/js/pcAuth.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/common/js/Chart.min.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiGuest.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/js/ipTimeGroup.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRelay.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiGuest.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/pptpServer.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+	Bin File: 
+
+Prar name : viewport
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/namePwd.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/sysInfo.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/forceToFocus.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/ipFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/backtoInitial.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/wirelessPolicy.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/portMapping.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/sysTool.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/complete.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/natSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wmmSetting.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiGuest.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/wanArgs.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/lanSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/quickset/quickset.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/DNSForward.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/sysLog.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/USB/usbPrintShare.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/login.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/userStatus.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/dmzConfig.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/reboot.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/success.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/backupRecover.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/vlanSet-old.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/basicSetting.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/preTimeout.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/qos/qosManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/pptpClient.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/dnsHijack.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/sysTime.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/timeout.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiAdvanced.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/ipsec.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/attackDefend.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/ddnsConfig.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/portFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/appFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/pppoeBasicSetting.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/update.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/dosLog.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/security/ipMac.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/policyUpdate.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/dnsSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/userManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/remoteManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/upnpConfig.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/multiWan.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/macFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/plugAndPlay.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/USB/usbFileShare.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/index.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/routeTable.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/pppoeCountManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiAdvanced.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/weWifi.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/ipTimeGroup.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/portMirror.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wewifi/portal_wewifi.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/webpage_showpic.asp
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/userList.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysStatus/qosCount.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/vlanSet.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/pptpServer.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiRelay.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/advPolicy.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/behavior/urlFilter.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiGuest.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wireless/wifiBasic.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiRelay.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiBasic.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/apManage.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/wifiRadio.html
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/network/wanSet.html
+	Bin File: 
+
+Prar name : wrapElem
+Source File : 
+	Text File: 
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/wirelessPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiGuest.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/vpn/js/ipsec.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/pppoeAuth/js/pppoeBasicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/authServer/js/basicSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wmmSetting.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/sysManage/js/sysTool.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/quickset/js/quickset.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiBasic.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/USB/js/usbFileShare.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualServer/js/dmzConfig.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiAdvanced.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/virtualAC/js/advPolicy.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/weixin/js/weWifi.js
+		/home/satc/DataCon/Tenda/G1/_US_G1V1.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/webroot_ro/wifi/js/wifiRadio.js
+	Bin File: 
+

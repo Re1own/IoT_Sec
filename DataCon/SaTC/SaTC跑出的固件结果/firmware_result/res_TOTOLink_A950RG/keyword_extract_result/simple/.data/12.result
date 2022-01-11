@@ -1,0 +1,1 @@
+lanNetmask lanGateway dns2 WPA2PSK comment object ssid5g password lanPriDns gateway static WPAPSK dhcpStart ssid2 lanSecDns username channel mode enable wifi_ssid lan_ip pppoe mask INPUT ssid dhcpEnd ntpEnabled name admpass dns1 macCloneMac submit upnpEnabled WPAPSKWPA2PSK pppoe_pass macCloneEnabled opmode select 

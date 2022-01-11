@@ -1,0 +1,16 @@
+/uplink/dns	uplink
+0//TCP/0/TCP/0/Always	Always
+message/rfc822	message
+/runtime/onetouch/password	password
+/var/wps_status	wps_status
+/htdocs/mydlink	mydlink
+/uplink/loginusername	uplink
+/etc/passwd	passwd
+/uplink/ip	uplink
+/lang/	lang
+/usr/share/xt_ipp2p/appe_list	share
+/uplink/netmask	uplink
+Unknown/bug	Unknown
+/var/passwd	passwd
+/tmp/InternetStatus	InternetStatus
+/usr/share/xt_ipp2p/appo_web	share

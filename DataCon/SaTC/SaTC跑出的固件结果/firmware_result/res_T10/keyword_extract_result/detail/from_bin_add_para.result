@@ -1,0 +1,27 @@
+ADD Count : 25
+
+/network_mgr/bonding/enable
+/var/ddns/ddns_status
+/data/log/syslog
+/system_mgr/afp/enable
+application/class
+/system_mgr/quota/enable
+/system_mgr/nfs/enable
+/var/ddns_status
+/backup_mgr/rsyncd/enable
+/download_mgr/p2p/enable
+/device/fresetwizard
+/app_mgr/ftp/setting/port
+/etc/new_version
+/app_mgr/upnpavserver/enable
+/backup_mgr/time_machine/enable
+/network_mgr/ddns/enable
+/network_mgr/ddns/timestamp
+/app_mgr/itunesserver/enable
+WPA1PSKWPA2PSK/TKIPAES
+/network_mgr/snmp/enable
+/network_mgr/lan0/dns2
+/syslog_server/enable
+/network_mgr/lan0/dns1
+WPAPSK/TKIPAES
+WPA2PSK/TKIPAES

@@ -1,0 +1,25 @@
+Analysie Time: 2021-10-21 04:46:37
+
+Step1 Elapsed Time: 10.463005S
+Step2 Elapsed Time: 1.4e-05S
+Step3 Elapsed Time: 0.009615S
+Step4 Elapsed Time: 1110.881661S
+ALL Elapsed Time: 1121.411938S
+
+bin string toal : 452470
+
+Para : 
+	Step1: 	5473 
+	Step2: 	1813 
+	Step3: 	887 
+	Step4: 	486
+API : 
+	Step1: 	3686 
+	Step2: 	167 
+	Step3: 	131 
+	Step4: 	131
+Count : 
+	Step1: 	9159 
+	Step2: 	1980 
+	Step3: 	1018 
+	Step4: 	617
