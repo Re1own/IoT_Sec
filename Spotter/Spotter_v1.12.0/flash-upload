@@ -1,0 +1,125 @@
+#!/usr/bin/env python
+# Created By: Evan Shapiro 03/07/2017
+
+import argparse
+import glob
+import subprocess
+import os
+from time import sleep
+import platform
+import sys
+
+#TODO - add timeout to subprocess call
+
+if __name__ == '__main__':
+  '''Uploads hex and elf files to Spotter using avrdude bootloader utils'''
+  parser = argparse.ArgumentParser(
+    description='flash-upload arguments:'
+  )
+  parser.add_argument(
+    '--device', '-d', dest='device',
+    help='usb tty device'
+  )
+  args = parser.parse_args()
+  use_shell = False
+
+  script_dir = os.path.dirname(os.path.realpath(__file__))
+
+  device = args.device
+  system = platform.system()
+
+  if not device:
+    if system == 'Darwin': # OSX
+      dev_list = glob.glob('/dev/tty.usbserial*')
+      if len(dev_list):
+        device = dev_list[0]
+        if len(dev_list) > 1:
+          print('\n\033[33mWarning more than 1 usb serial device found. uploading to:' + device + '\033[0m')
+    elif system == 'Windows':
+      import serial.tools.list_ports as ser_ports
+      dev_list = ser_ports.comports()
+      for dev in dev_list:
+        if dev.vid == 1027 and dev.pid == 24577:
+          device = dev.device
+          break
+      use_shell = True
+    elif system == 'Linux':
+      dev_list = glob.glob('/dev/ttyUSB*')
+      if len(dev_list):
+        device = dev_list[0]
+        if len(dev_list) > 1:
+          print('\n\033[33mWarning more than 1 usb serial device found. uploading to:' + device + '\033[0m')
+    if getattr(sys, 'frozen', False): # This is triggered when using PyInstaller to create standalone apps (both Windows and OSX)
+      script_dir = sys._MEIPASS
+
+  if not device:
+    print('\n\033[31mNo device specified or found!\033[0m')
+    sleep(20)
+    sys.exit(1)
+
+  hex_file = os.path.realpath( glob.glob('{0}/dat/*.hex'.format(script_dir) )[0] )
+  if not hex_file:
+    print('\n\033[31mNo hex file found!\033[0m')
+    sleep(20)
+    sys.exit(1)
+
+  eep_file = os.path.realpath( glob.glob('{0}/dat/*.eep'.format(script_dir) )[0] )
+  if not eep_file:
+    print('\n\033[31mNo eep file found!\033[0m')
+    sleep(20)
+    sys.exit(1)
+
+  conf_file = os.path.realpath(glob.glob('{0}/dat/avrdude.conf'.format(script_dir) )[0])
+  if not conf_file:
+    print('\n\033[31mNo conf file found!\033[0m')
+    sleep(20)
+    sys.exit(1)
+
+  args_file = os.path.realpath( glob.glob('{0}/dat/*avrdude_args'.format(script_dir) )[0] )
+  with open(args_file) as f:
+    args = f.readlines()
+  args = [ arg.strip() for arg in args ]
+  if not args:
+    print('\n\033[31mNo args file found!\033[0m')
+    sleep(20)
+    sys.exit(1)
+
+  print('\n\033[34mUploading to\033[1;36m ' + device + '\033[0m')
+  print('\t\033[36m' + os.path.basename( hex_file ) + '\033[0m')
+  print('\t\033[36m' + os.path.basename( eep_file ) + '\033[0m')
+
+  arg_list = []
+  arg_list.append( str('-P' + device) )
+
+  for arg in args:
+    if arg.startswith('-U'): continue
+    if arg.startswith('-P'): continue
+    if arg.startswith('-C'): continue
+    if arg.startswith('-v'): continue
+    if arg.startswith('AVRDUDE'): continue
+    arg_list.append(arg)
+
+  if system == 'Darwin' or system == 'Linux':
+    arg_list.append( str('-U' + hex_file) )
+    arg_list.append( str('-U' + eep_file) )
+  elif system == 'Windows':
+    arg_list.append( str('-Uflash:w:' + hex_file + ':i') )
+    arg_list.append( str('-Uflash:w:' + eep_file + ':i') )
+  arg_list.append( str('-C' + conf_file) )
+
+  arg_list.insert( 0, '{0}/bin/avrdude'.format(script_dir) )
+
+  p = subprocess.Popen(arg_list, bufsize=1, universal_newlines=True, stdout=subprocess.PIPE, shell=use_shell)
+  try:
+    p.wait()
+    assert p.returncode == 0
+    print('\033[32mUpload succeeded\033[0m')
+    sleep(8)
+    sys.exit(0)
+  except Exception as err:
+    print( '\033[31mUpload FAILED!\033[0m' )
+    p.kill()
+    print( '\033[31m', err, '\033[0m' )
+    sleep(20)
+    sys.exit(1)
+
