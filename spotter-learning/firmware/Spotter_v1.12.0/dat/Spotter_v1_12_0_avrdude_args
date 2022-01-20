@@ -1,9 +1,0 @@
--C/Users/genton/Repos/WS_Apps/cmake/ArdJava/hardware/tools/avr/etc/avrdude.conf
--patmega2560
--cwiring
--b57600
--P/dev/tty.usbserial-AB0LE05L
--D
--V
--Uflash:w:/Users/genton/Repos/WS_Apps/cmake-build-avr/Release_Apps/WS_1_0_SAT_APP/WS_1_0_SAT_APP.hex:i
--Ueeprom:w:/Users/genton/Repos/WS_Apps/cmake-build-avr/Release_Apps/WS_1_0_SAT_APP/WS_1_0_SAT_APP.eep:i
