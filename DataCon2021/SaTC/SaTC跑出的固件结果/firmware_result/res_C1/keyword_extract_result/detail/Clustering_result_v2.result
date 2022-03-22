@@ -1,0 +1,1288 @@
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/prog.cgi
+Strings count : 2571
+Para + API count : 383
+Para: 
+	Hits Para count: 159
+	Hits Para : 
+		SERVER_ERROR code SetDDNSSettings video/quicktime spi_enable qos_type SetWLanACLSettings SetWifiDownSettings url_enable pointer /body/password SetNTPServerSettings GetWanErrorStatus ping_timeout /network_mgr/ddns/domain SetWebsiteFilterSettings hidden main SetDmzSettings SetVirtualServerSettings downloading SetSmartQoSSettings GetIfUpgrading /logout/Auth SetSPIFirewallSettings SpeedTest /network_mgr/lan0/dhcp_enable Problem_Conflict GetWifiDownSettings SetRebootSettings ddns_username Problem_success password SetWizardPasswd pppoe GetLanWanConflictInfo success manual GetMasterAdvWLanSettings SetRestoreSettings GetSysStatus SetAutoReboot dest_ip SetStaticRouteSettings Problem_WAN domain right FirmwareUpdate_Fail SetMasterAdvWLanSettings back /sys/block servicename video static_ SetStationSettings SetUpnpSettings Username wire /device/fresetwizard pppoe_ SetWANPingSettings reboot dos_enable access SetPasswdSettings dhcp offline SetWanSettings parentcontrol GetAutoReboot GetTelnetSettings logout DelStationSettings auto_reboot_enable url_ wait SetDOSSettings video/mp4 by_device GetIPv4FirewallSettings upnp_enable Static Result router block ping_time video/mpeg4 ping_enable path GetWanplugInfo table video/avi sys_uptime GetDDNSSettings SetTelnetSettings width SetLanWanConflict /router/ SetMasterWLanSettings destport attach Logout work_mode GetNewFirmwareInfo by_app GetNTPServerSettings start username sb/1/macaddr software_version dns_enable CheckPasswdSettings overflow PrivateKey SetIPv4FirewallSettings macaddr video/mpeg dmz_enable GetAutoUpgrade error static SetGuestWLanSettings result bridge wan_status SetIpMacBindSettings SetAutoUpgrade Wizard destip ddns_enable SetNetworkSettings date /sys/class/block ipaddr Mobile GetDhcpClientInfo product_name ping_ttl /home/software_version Problem_Cable normal Admin access_time GetNetworkModeSettings /tmp/product_name GetNetworkConnectStatus /var/wan_status HTTPS device Login access_enable aestkip SetBandSteering dhcp_enable request GetUpnpSettings allow GetDeviceDomainName GetWanDiagnosisStatus 
+	Number of Para source files: 47
+API: 
+	Hits API count: 224
+	Hits API : 
+		GetDmzSettingsResponse GetGuestNetworkSettings SetWifiDownSettings telnet_enabled SetDDNSSettings smartqos_express_devices ddns_password GetMultipleHNAPsResult del_type SetAutoReboot SetDownloadUpgradeFailCmdResult GetAutoRebootResponse GetDeviceDomainNameResponse speedtest_bw_upstream GetWifiDownSettingsResult wifidown_control_rule wireless_sta_5g_guest_list SetDOSSettings GetNetworkConnectStatusResponse SetStartUpgradeFirmwareCmdResult system_time_status current_client_mac GetWifiDownSettingsResponse GetWanDiagnosisStatusResponse dmz_ipaddr smartqos_mode SetWebsiteFilterSettings station_ext_name GetWanSettings SetDmzSettings GetStationSettings GetAutoRebootResult SetVirtualServerSettings GetDownLoadCfg upload_settings.cgi SetStartDownloadFirmwareCmdResponse GetWANPingSettingsResponse CheckPasswdSettingsResponse SetSmartQoSSettings start_time SetSPIFirewallSettings GetNetworkTomographySettingsResult GetGuestWLanSettings ddns_username firewall_filter_enable tomography_ping_timeout GetLanWanConflictInfoResult SetWizardPasswd firewall_filter_mode cgi-bin lan_unit smartqos_upstream_shapingrate GetCurrentInfoSettingsResponse GetCurrentFirmwareVersionResult GetVirtualServerSettings antiattack_antidos_enable GetTelnetSettingsResult GetMasterWLanSettings item parent_control_rule SetStartDownloadFirmwareCmdResult firewall_filter_rule tomography_ping_size SetStaticRouteSettings GetStaticRouteSettingsResponse smartqos_downstream_shapingrate current_firmware_version CheckPasswdSettings GetWanplugInfo dmz_enable GetPollingFirmwareDownloadResult ddns_provider GetSysStatusResponse GetDhcpClientInfoResult SetUpnpSettings GetSPIFirewallSettings GetIfUpgradingResponse GetDOSSettings wan_wan_duplex global_network_mode GetAutoUpgradeResponse SetWANPingSettings TCP GetWanSettingsResponse online_client_number SetPasswdSettings GetVirtualServerSettingsResponse GetStationSettingsResponse ddns_hostname offline_sta_list SetWanSettings GetNetworkConnectStatusResult global_elink avoided_ipaddr GetCurrentFirmwareVersionResponse GetLanWanConflictInfoResponse tomography_ping_number 20 GetNTPServerSettingsResult GetUpnpSettingsResult smartqos_enable DelStationSettings wifidown_control_mode SetNTPServerSettings GetWizardMasterWLanSettings wan_connect_status station_access_enable portforward_rule GetDownLoadSyslog GetNetworkTomographyResultResponse smartqos_type stad_info upnp_enable GetOnlineClientNumResponse GetDmzSettings Response/ GetWanErrorStatusResponse SetWizardConfigWithoutPasswd is_upgrading GetNewFirmwareInfoResult system_time_timezone system_root_password GetTelnetSettingsResponse GetPollingFirmwareDownloadResponse device_domain_name GetDhcpClientInfoResponse GetWebsiteFilterSettings GetMasterAdvWLanSettingsResult smartqos_priority_devices SetStationSettings GetIpMacBindSettings SpeedTestResult GetConnectStatusRealtimeResponse GetNetworkSettings CheckPasswdSettingsResult GetIPv4FirewallSettingsResult SetTelnetSettings tomography_ping_result GetDOSSettingsResponse speedtest_bw_downstream GetIPv4FirewallSettingsResponse GetCurrentInfoSettings serial_number firewall_spi_enable Response HNAP1 GetWLanACLSettings software_version GetSysStatusResult GetStaticRouteSettings GetOnlineClientNum GetIfUpgradingResult station_mac GetWanplugInfoResponse auto_reboot_enabled tomography_ping_ttl 20/40 wireless_sta_2g_list TCP/UDP network_connect_status GetNTPServerSettingsResponse LogoutResult SetIPv4FirewallSettings GetSPIFirewallSettingsResponse 40 enabled LogoutResponse GetNetworkTomographyResultResult GetSmartQoSSettingsResponse smartqos_normal_devices GetUpnpSettingsResponse upnp_rule GetWanplugInfoResult acl_wan_ping_enable upload_firmware.cgi wan_status SetIpMacBindSettings GetDDNSSettingsResponse SetAutoUpgrade new_firmware_version tomography_ping_address GetAutoUpgradeResult GetMultipleHNAPsResponse ddns_enable GetSmartQoSSettingsResult SetDownloadUpgradeFailCmdResponse system_time_time SetNetworkSettings GetDDNSSettingsResult SpeedTestResponse wireless_sta_2g_guest_list GetDeviceDomainNameResult GetSmartQoSSettings wireless_maclist_mode GetNetworkTomographySettingsResponse ota_status GetWLanDevInfoSettings GetDhcpClientInfo GetWanErrorStatusResult stop_time wire_sta_list GetWebsiteFilterSettingsResponse product_name wireless_maclist up_time GetMasterAdvWLanSettingsResponse wan_wan_speed GetNetworkModeSettings SetNetworkTomographySettings GetNewFirmwareInfoResponse GetNetworkConnectStatus GetBandSteering SetStartUpgradeFirmwareCmdResponse UDP GetConnectStatusRealtime GetSysStatus staticroute_list download_progress GetWANPingSettings GetMultipleHNAPs new_firmware_release_note GetWanDiagnosisStatusResult GetDeviceDomainName wireless_sta_5g_list 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/91
+Strings count : 12706
+Para + API count : 170
+Para: 
+	Hits Para count: 135
+	Hits Para : 
+		code error_10 error_11 video/quicktime macaddr guest2g pointer devicename title /network_mgr/ddns/domain auto_update_enable hidden main downloading /home/root Mobile /logout/Auth /network_mgr/lan0/dhcp_enable ddns_username wan_proto foot password select_service success manual firmware_downloading pppoe nowrap PPPoE domain right back /sys/block error_ dmz_enable video result home lan_ipaddr special description date1 date3 wire logout date4 /device/fresetwizard pppoe_ reboot access internet retry dhcp offline /tmp/home table_wireless description2 description3 description1 wlan_channel path url_ wait /body/password video/mp4 by_device Static Result router block video/mpeg4 height device table video/avi Login sys_uptime wlan_mode /router/ center attach work_mode Menu start more username sb/1/macaddr Wizard SUCCESS default_gateway dns_enable wan_ipaddr overflow guest5g download_app dns_server latest_version video/mpeg servicename error static display bridge wan_macaddr wan_status request lanIP destip ddns_enable border /sys/class/block new_password ipaddr static_ onclick editname /home/software_version normal Admin welcome date2 clear_ /var/wan_status HTTPS date /home/davinci guest_enable Bridge Apple dhcp_enable pcmac interval PrivateKey allow width 
+	Number of Para source files: 45
+API: 
+	Hits API count: 35
+	Hits API : 
+		upload_firmware.cgi SetDDNSSettings GetDDNSSettingsResponse SetAutoUpgrade TCP dmz_enable GetMultipleHNAPsResponse ddns_enable wan_status 20 GetDmzSettingsResponse GetAutoUpgradeResponse 20/40 40 GetWanDiagnosisStatusResponse dmz_ipaddr ddns_hostname SetDmzSettings Response GetAutoRebootResponse upload_settings.cgi new_firmware_version start_time GetNewFirmwareInfoResponse ddns_username SetWizardPasswd TCP/UDP cgi-bin UDP GetWanplugInfoResponse enabled item SetAutoReboot Response/ HNAP1 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/21
+Strings count : 274547
+Para + API count : 121
+Para: 
+	Hits Para count: 102
+	Hits Para : 
+		macaddr video/quicktime forbidden code StaticTable pointer lanmac title /network_mgr/ddns/domain listing hidden main downloading /home/root Mobile /logout/Auth foot password success manual static_ pinging dest_ip PPPoE domain right back /sys/block error_ relative video result home special /home/software_version Username retry /device/fresetwizard reboot access internet dhcp ipinfo /tmp/home list_enable logout path wait /body/password video/mp4 Static Result router block video/mpeg4 height date table video/avi /home/davinci width /router/ attach Logout start more username sb/1/macaddr SUCCESS undefined overflow sourceip PrivateKey center dns_server video/mpeg optimization error static display bridge Menu destip border /sys/class/block ipaddr pppoe description normal Admin welcome wire clear_ HTTPS device Login destport Bridge Apple interval request allow 
+	Number of Para source files: 42
+API: 
+	Hits API count: 19
+	Hits API : 
+		SetAutoReboot TCP UDP 20 GetAutoUpgradeResponse SetAutoUpgrade start_time enabled GetAutoRebootResponse station_mac item DelStationSettings 40 Response/ 20/40 SetStationSettings SetWizardPasswd Response TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/77
+Strings count : 6656
+Para + API count : 226
+Para: 
+	Hits Para count: 90
+	Hits Para : 
+		code macaddr /body/password /network_mgr/ddns/domain hidden main SetVirtualServerSettings ddns_username spi_enable foot password success manual static_ setrouter SetWanSettings PPPoE domain right back /sys/block error_ dmz_enable static result lan_ipaddr special Username wire /device/fresetwizard reboot access internet dhcp dest_ip wan_proto wlan_channel path url_ wait GetIPv4FirewallSettings upnp_enable Static Result router block height device table wlan_mode /router/ attach Logout start more username sb/1/macaddr SUCCESS default_gateway dns_enable wan_ipaddr overflow dns_server SetIPv4FirewallSettings pppoe_ error display bridge wan_status ddns_enable SetNetworkSettings /sys/class/block ipaddr pppoe description normal Admin retry clear_ /var/wan_status HTTPS date Login access_enable undefined pppoe_dynamic interval request allow width 
+	Number of Para source files: 45
+API: 
+	Hits API count: 136
+	Hits API : 
+		SetDDNSSettings smartqos_express_devices ddns_password GetMultipleHNAPsResult antiattack_antidos_enable SetAutoReboot GetAutoRebootResponse GetWANPingSettingsResponse SetVirtualServerSettingsResult wireless_sta_5g_guest_list stad_info current_client_mac GetWanDiagnosisStatusResponse dmz_ipaddr GetDeviceDomainNameResponse GetWebsiteFilterSettingsResponse wireless_sta_2g_list GetWanSettings SetDmzSettings GetStationSettings SetVirtualServerSettings GetDownLoadCfg upload_settings.cgi GetWebsiteFilterSettings GetGuestWLanSettings ddns_username firewall_filter_enable SetWizardPasswd SetVirtualServerSettingsResponse SetIPv4FirewallSettings cgi-bin GetSPIFirewallSettingsResponse GetCurrentInfoSettingsResponse device_domain_name GetGuestNetworkSettings GetMasterWLanSettings GetDmzSettingsResponse parent_control_rule SetWanSettingsResponse firewall_filter_rule GetVirtualServerSettings GetStaticRouteSettingsResponse smartqos_downstream_shapingrate enabled SetWanSettingsResult GetStaticRouteSettings smartqos_priority_devices dmz_enable GetSysStatusResponse SetUpnpSettings GetSPIFirewallSettings GetDOSSettings wan_wan_duplex item GetMultipleHNAPs TCP GetWanSettingsResponse online_client_number GetVirtualServerSettingsResponse GetStationSettingsResponse ddns_hostname offline_sta_list SetWanSettings smartqos_mode smartqos_enable 20 wan_connect_status portforward_rule GetDownLoadSyslog smartqos_type GetNetworkConnectStatusResponse upnp_enable GetOnlineClientNumResponse GetDmzSettings Response/ GetDhcpClientInfoResponse GetWanplugInfo GetIpMacBindSettings GetConnectStatusRealtimeResponse GetNetworkSettings GetIPv4FirewallSettingsResult GetDOSSettingsResponse GetDDNSSettingsResponse GetCurrentInfoSettings firewall_spi_enable Response HNAP1 GetWLanACLSettings GetOnlineClientNum GetWanplugInfoResponse lan_unit 20/40 TCP/UDP network_connect_status firewall_filter_mode smartqos_upstream_shapingrate SetIPv4FirewallSettingsResult SetIPv4FirewallSettingsResponse GetSmartQoSSettingsResponse smartqos_normal_devices GetUpnpSettingsResponse SetNetworkSettingsResponse GetWizardMasterWLanSettings acl_wan_ping_enable upload_firmware.cgi wan_status SetNetworkSettingsResult GetIPv4FirewallSettingsResponse SetAutoUpgrade GetMultipleHNAPsResponse ddns_enable GetWANPingSettings SetNetworkSettings wireless_sta_2g_guest_list GetSmartQoSSettings wireless_maclist_mode 40 GetWLanDevInfoSettings GetDhcpClientInfo wireless_sta_5g_list wire_sta_list start_time wireless_maclist up_time wan_wan_speed GetNetworkModeSettings GetNetworkConnectStatus GetBandSteering UDP GetConnectStatusRealtime GetSysStatus staticroute_list global_network_mode GetSmartQoSSettingsResult GetAutoUpgradeResponse GetDeviceDomainName 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/60
+Strings count : 4784
+Para + API count : 125
+Para: 
+	Hits Para count: 92
+	Hits Para : 
+		macaddr video/quicktime forbidden code guest2g /body/password /network_mgr/ddns/domain auto_update_enable hidden main downloading /home/root /logout/Auth /tmp/product_name password success manual static_ pppoe pinging nowrap PPPoE domain right back /sys/block error_ dmz_enable video result home lan_ipaddr special description retry /device/fresetwizard video/mpeg config_status reboot access internet dhcp /tmp/home logout path url_ wait video/mp4 upnp_enable Static router block video/mpeg4 height device table video/avi attach /router/ start username sb/1/macaddr dns_enable wan_ipaddr guest5g download_app dns_server pppoe_ error static display bridge wan_macaddr wan_status Wizard ddns_enable /sys/class/block ipaddr wlan_status product_name /home/software_version Admin wire clear_ /var/wan_status HTTPS date /home/davinci center interval allow width 
+	Number of Para source files: 41
+API: 
+	Hits API count: 33
+	Hits API : 
+		SetDDNSSettings GetDDNSSettingsResponse SetAutoUpgrade ddns_password TCP dmz_enable GetMultipleHNAPsResponse GetSysStatusResponse SetStationSettings ddns_enable SetUpnpSettings wan_status 20 GetAutoUpgradeResponse 20/40 40 GetWanDiagnosisStatusResponse SetDmzSettings product_name GetAutoRebootResponse up_time start_time station_mac GetWanplugInfoResponse DelStationSettings SetWizardPasswd TCP/UDP UDP enabled GetDmzSettingsResponse upnp_enable SetAutoReboot GetUpnpSettingsResponse 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/43
+Strings count : 7808
+Para + API count : 202
+Para: 
+	Hits Para count: 79
+	Hits Para : 
+		SetStaticRouteSettings Problem_WAN domain code SetDDNSSettings PrivateKey Wizard CheckPasswdSettings date right static result home GetWanplugInfo table pointer /home/davinci Username GetDDNSSettings wire SUCCESS /device/fresetwizard /body/password SetNTPServerSettings SetLanWanConflict /router/ Login reboot SetUpnpSettings access width GetUpnpSettings SetPasswdSettings /network_mgr/ddns/domain normal SetAutoUpgrade dhcp more main GetNTPServerSettings start Result username /tmp/home /home/software_version Problem_Cable /home/root Admin error SpeedTest Problem_Conflict GetWifiDownSettings SetWifiDownSettings SetNetworkSettings Problem_success device path overflow password SetWanSettings wait GetLanWanConflictInfo SetGuestWLanSettings SetIPv4FirewallSettings success GetIPv4FirewallSettings request static_ pppoe pppoe_ SetAutoReboot Static GetAutoUpgrade allow GetAutoReboot GetDeviceDomainName router SetVirtualServerSettings PPPoE 
+	Number of Para source files: 39
+API: 
+	Hits API count: 123
+	Hits API : 
+		SetWifiDownSettings SetDDNSSettings ddns_password GetGuestNetworkSettings SetAutoReboot 40 speedtest_bw_upstream wifidown_control_rule 20 SetNTPServerSettings system_time_status GetDeviceDomainNameResponse GetWanSettings GetWifiDownSettingsResponse SetVirtualServerSettings GetDownLoadCfg cgi-bin start_time GetNetworkTomographySettingsResult GetGuestWLanSettings ddns_username firewall_filter_enable tomography_ping_timeout GetLanWanConflictInfoResult SetWizardPasswd SetIPv4FirewallSettings wifidown_control_mode SetNetworkTomographySettingsResponse lan_unit device_domain_name GetVirtualServerSettings SetWanSettingsResponse SetNetworkTomographySettingsResult firewall_filter_rule SetNetworkTomographySettings SetStaticRouteSettings GetStaticRouteSettingsResponse speedtest_bw_downstream SetWanSettingsResult GetStaticRouteSettings CheckPasswdSettings ddns_provider SetUpnpSettings CheckPasswdSettingsResponse wan_wan_duplex GetMultipleHNAPs upload_settings.cgi TCP GetWanSettingsResponse SetPasswdSettings GetVirtualServerSettingsResponse ddns_hostname SetWanSettings avoided_ipaddr GetLanWanConflictInfoResponse tomography_ping_number GetNTPServerSettingsResult GetUpnpSettingsResult SetNTPServerSettingsResult SetStaticRouteSettingsResponse portforward_rule GetDownLoadSyslog GetNetworkTomographyResultResponse SetGuestWLanSettingsResult SetDDNSSettingsResult upnp_enable SetStaticRouteSettingsResult Response/ tomography_ping_size SetGuestWLanSettingsResponse system_time_timezone system_root_password GetWanplugInfo SetDDNSSettingsResponse SpeedTestResult SetWifiDownSettingsResponse GetNetworkSettings CheckPasswdSettingsResult GetIPv4FirewallSettingsResult tomography_ping_result SetNTPServerSettingsResponse GetIPv4FirewallSettingsResponse Response HNAP1 SetPasswdSettingsResponse GetWanplugInfoResponse auto_reboot_enabled tomography_ping_ttl SetWifiDownSettingsResult 20/40 TCP/UDP GetNTPServerSettingsResponse firewall_filter_mode enabled GetNetworkTomographyResultResult tomography_ping_address GetUpnpSettingsResponse SetNetworkSettingsResponse upnp_rule GetWanplugInfoResult upload_firmware.cgi wan_status SetNetworkSettingsResult GetDDNSSettingsResponse SetAutoUpgrade GetMultipleHNAPsResponse ddns_enable system_time_time SetNetworkSettings GetDDNSSettingsResult SpeedTestResponse GetDeviceDomainNameResult GetNetworkTomographySettingsResponse stop_time GetWifiDownSettingsResult SetUpnpSettingsResult SetUpnpSettingsResponse wan_wan_speed SetPasswdSettingsResult UDP staticroute_list GetAutoUpgradeResponse GetDeviceDomainName 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/75
+Strings count : 19585
+Para + API count : 111
+Para: 
+	Hits Para count: 89
+	Hits Para : 
+		macaddr video/quicktime forbidden code pointer /body/password /network_mgr/ddns/domain hidden main downloading /home/root /logout/Auth /network_mgr/lan0/dhcp_enable password success manual static_ PPPoE domain right back /sys/block error_ video result home special description Username retry /device/fresetwizard reboot access dhcp offline /tmp/home logout path url_ wait video/mp4 upnp_enable Static Result router block video/mpeg4 height device table video/avi Login start /router/ attach Logout Menu more username sb/1/macaddr SUCCESS dns_enable overflow PrivateKey undefined video/mpeg error static display bridge deviceinfo border /sys/class/block new_password ipaddr /home/software_version normal wire clear_ HTTPS date /home/davinci destport center dhcp_enable interval request allow width 
+	Number of Para source files: 40
+API: 
+	Hits API count: 22
+	Hits API : 
+		SetAutoUpgrade SetAutoReboot 40 GetSysStatusResponse SetUpnpSettings 20 GetAutoUpgradeResponse 20/40 TCP stop_time serial_number Response GetAutoRebootResponse start_time SetWizardPasswd TCP/UDP UDP enabled item upnp_enable GetUpnpSettingsResponse Response/ 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/34
+Strings count : 4153
+Para + API count : 117
+Para: 
+	Hits Para count: 82
+	Hits Para : 
+		bridge domain code ipaddr forbidden Wizard back /sys/block error_ foot right static result table home border /home/davinci special /home/software_version Username wire date /device/fresetwizard /body/password /sys/class/block /router/ end_hour reboot access attach Logout /network_mgr/ddns/domain normal internet url_ dhcp hidden main start dest_ip username /tmp/home sb/1/macaddr wlan_band description /home/root Admin low_ip /logout/Auth dns_enable ipfilter_mode wan_ipaddr display clear_ spi_enable router device path Login password wait pppoe center success ping_enable interval request dhcplist static_ PPPoE macaddr pppoe_ upnp_enable dmz_enable Static Result allow error logout SetWanSettings width block 
+	Number of Para source files: 38
+API: 
+	Hits API count: 35
+	Hits API : 
+		upload_firmware.cgi SetAutoUpgrade SetWanSettingsResult TCP dmz_enable 40 SetUpnpSettings 20 GetMultipleHNAPs SetWizardPasswd GetAutoRebootResponse GetWanSettings SetDmzSettings Response SetWanSettings GetDownLoadCfg upload_settings.cgi wan_wan_speed start_time wan_wan_duplex GetAutoUpgradeResponse 20/40 TCP/UDP cgi-bin UDP GetDownLoadSyslog enabled GetDmzSettingsResponse upnp_enable SetAutoReboot SetWanSettingsResponse GetUpnpSettingsResponse Response/ HNAP1 GetMultipleHNAPsResponse 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/24
+Strings count : 4325
+Para + API count : 121
+Para: 
+	Hits Para count: 75
+	Hits Para : 
+		wan_proto bridge domain code spi_enable PrivateKey back /sys/block error_ date dmz_enable static result table ddns_enable lan_ipaddr overflow special PPPoE Username wire /device/fresetwizard /body/password /sys/class/block /router/ ipaddr reboot access attach /network_mgr/ddns/domain wlan_status internet url_ dhcp main start SetWanSettings username sb/1/macaddr description SUCCESS default_gateway Admin normal /logout/Auth dns_enable wan_ipaddr display clear_ HTTPS router device path Login password wait manual dns_server ddns_username success pppoe_dynamic interval request static_ pppoe macaddr pppoe_ upnp_enable Static Result allow error logout width block 
+	Number of Para source files: 41
+API: 
+	Hits API count: 46
+	Hits API : 
+		upload_firmware.cgi SetDDNSSettings GetDDNSSettingsResponse SetAutoUpgrade SetWanSettingsResult TCP dmz_enable GetMultipleHNAPsResponse GetSysStatusResponse ddns_enable SetUpnpSettings 20 GetDmzSettingsResponse GetMultipleHNAPs 20/40 40 GetWanSettingsResponse dmz_ipaddr ddns_hostname GetWanSettings SetDmzSettings ddns_password SetWanSettings GetDownLoadCfg upload_settings.cgi wan_wan_speed start_time ddns_username GetAutoRebootResponse wan_wan_duplex GetAutoUpgradeResponse SetWizardPasswd TCP/UDP cgi-bin UDP GetDownLoadSyslog enabled Response product_name item upnp_enable SetAutoReboot SetWanSettingsResponse GetUpnpSettingsResponse Response/ HNAP1 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/40
+Strings count : 7012
+Para + API count : 104
+Para: 
+	Hits Para count: 76
+	Hits Para : 
+		bridge qos_type right PrivateKey back /sys/block Huawei lan_ipaddr macaddr static interval domain url_enable table ddns_enable pointer attach /home/software_version code wire date /device/fresetwizard start /sys/class/block /home/root ipaddr reboot access Admin /network_mgr/ddns/domain normal internet url_ dhcp main pppoe Apple more username /tmp/home sb/1/macaddr description SUCCESS Samsung Mobile /network_mgr/lan0/dhcp_enable dns_enable wan_ipaddr retry wan_proto HTTPS device /router/ /home/davinci password wait manual dns_server center success ddns_username home dhcp_enable /body/password request static_ by_device pppoe_ upnp_enable allow error router path width block result 
+	Number of Para source files: 38
+API: 
+	Hits API count: 28
+	Hits API : 
+		upload_firmware.cgi SetDDNSSettings SetIpMacBindSettings GetDDNSSettingsResponse SetAutoUpgrade 40 ddns_enable SetUpnpSettings SetNetworkSettings 20 GetAutoUpgradeResponse 20/40 TCP ddns_hostname Response upload_settings.cgi ddns_username lan_unit SetWizardPasswd TCP/UDP cgi-bin UDP enabled item upnp_enable GetUpnpSettingsResponse Response/ HNAP1 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/48
+Strings count : 3382
+Para + API count : 93
+Para: 
+	Hits Para count: 69
+	Hits Para : 
+		bridge qos_type macaddr wan_macaddr wan_status manual back /sys/block ping_enable lan_ipaddr dmz_enable static domain table nowrap border wire date start /device/fresetwizard /body/password /sys/class/block /router/ ipaddr reboot dos_enable access width ping_timeout /network_mgr/ddns/domain onclick internet dhcp hidden main product_name dest_ip username sb/1/macaddr normal devicelist /logout/Auth /tmp/product_name /network_mgr/lan0/dhcp_enable pcmac logout /var/wan_status device url_ password access_enable wait Bridge center dhcp_enable interval request static_ pppoe pppoe_ upnp_enable servicename Static allow error router PPPoE block ping_time 
+	Number of Para source files: 33
+API: 
+	Hits API count: 24
+	Hits API : 
+		wan_status SetAutoUpgrade dmz_enable GetMultipleHNAPsResponse GetSysStatusResponse SetUpnpSettings 20 item GetAutoUpgradeResponse 20/40 TCP GetWanDiagnosisStatusResponse dmz_ipaddr SetDmzSettings product_name GetWanplugInfoResponse SetWizardPasswd TCP/UDP UDP 40 enabled GetDmzSettingsResponse upnp_enable GetUpnpSettingsResponse 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/18
+Strings count : 3859
+Para + API count : 88
+Para: 
+	Hits Para count: 69
+	Hits Para : 
+		domain macaddr url_enable pppoe_ manual lanIP back /sys/block error_ /home/davinci date downloading static result home table pointer url_ PPPoE code devicename acess wire /device/fresetwizard /body/password /sys/class/block /router/ ipaddr reboot access attach /network_mgr/ddns/domain work_mode internet dhcp offline main start username /tmp/home sb/1/macaddr Wizard /home/software_version /home/root /logout/Auth ipinfo clear_ router device path overflow password bindlist guest_enable wait undefined success interval request static_ pppoe GetSysStatus band_5 Static allow error logout width block 
+	Number of Para source files: 36
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin up_time upload_firmware.cgi 20 40 GetAutoUpgradeResponse SetAutoUpgrade start_time enabled GetAutoRebootResponse GetMultipleHNAPs SetAutoReboot GetMultipleHNAPsResponse GetSysStatusResponse GetSysStatus upload_settings.cgi SetWizardPasswd 20/40 HNAP1 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/36
+Strings count : 3885
+Para + API count : 88
+Para: 
+	Hits Para count: 69
+	Hits Para : 
+		domain macaddr url_enable pppoe_ manual lanIP back /sys/block error_ /home/davinci date downloading static result home table pointer url_ PPPoE code devicename acess wire /device/fresetwizard /body/password /sys/class/block /router/ ipaddr reboot access attach /network_mgr/ddns/domain work_mode internet dhcp offline main start username /tmp/home sb/1/macaddr Wizard /home/software_version /home/root /logout/Auth ipinfo clear_ router device path overflow password bindlist guest_enable wait undefined success interval request static_ pppoe GetSysStatus band_5 Static allow error logout width block 
+	Number of Para source files: 36
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin up_time upload_firmware.cgi 20 40 GetAutoUpgradeResponse SetAutoUpgrade start_time enabled GetAutoRebootResponse GetMultipleHNAPs SetAutoReboot GetMultipleHNAPsResponse GetSysStatusResponse GetSysStatus upload_settings.cgi SetWizardPasswd 20/40 HNAP1 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/5
+Strings count : 3454
+Para + API count : 78
+Para: 
+	Hits Para count: 59
+	Hits Para : 
+		bridge code wan_status ipaddr Wizard back reboot lan_ipaddr band_5 right result table getValue border overflow retry title macaddr /router/ end_hour tbody access width static Logout internet url_ dhcp hidden main start username sb/1/macaddr Bridge Admin interval wan_ipaddr wire clear_ /var/wan_status date path Login password wait manual center success macaddress /body/password PrivateKey pppoe height pppoe_ Static allow error router PPPoE 
+	Number of Para source files: 37
+API: 
+	Hits API count: 19
+	Hits API : 
+		SetAutoReboot UDP 20 wan_status 40 GetAutoUpgradeResponse SetAutoUpgrade start_time enabled GetAutoRebootResponse TCP GetWanplugInfoResponse GetWanDiagnosisStatusResponse GetMultipleHNAPsResponse 20/40 Response/ SetWizardPasswd Response TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/22
+Strings count : 3840
+Para + API count : 84
+Para: 
+	Hits Para count: 66
+	Hits Para : 
+		macaddr manual Wizard back /sys/block height date lan_ipaddr code static home table pointer /home/davinci access wire /device/fresetwizard title /sys/class/block border /router/ ipaddr reboot start Login attach Logout internet url_ dhcp hidden main pppoe username /tmp/home sb/1/macaddr /home/software_version software_version /home/root access_time /logout/Auth center interval wan_ipaddr logout HTTPS device path overflow password tips wait Bridge undefined success /body/password request static_ pppoe_ Static Result allow error router width block 
+	Number of Para source files: 37
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin UDP upload_firmware.cgi 20 software_version GetAutoUpgradeResponse SetAutoUpgrade enabled 40 Response TCP GetSysStatusResponse Response/ upload_settings.cgi SetWizardPasswd 20/40 TCP/UDP HNAP1 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/10
+Strings count : 3124
+Para + API count : 87
+Para: 
+	Hits Para count: 61
+	Hits Para : 
+		code wan_status manual Wizard sb/1/macaddr /sys/block error_ date right static table ddns_enable lan_ipaddr url_ sys_uptime wire /device/fresetwizard /body/password /sys/class/block /router/ ipaddr reboot start access attach Logout dhcp main pppoe username Username connecttime description normal Admin SpeedTest dns_enable wan_ipaddr wan_proto /var/wan_status device Login password wait Bridge lan_macaddr Apple success request static_ PPPoE macaddr pppoe_ Static Result back error router wlan_channel width block 
+	Number of Para source files: 30
+API: 
+	Hits API count: 26
+	Hits API : 
+		wan_status GetDDNSSettingsResponse SetAutoUpgrade TCP SetAutoReboot 40 ddns_enable SpeedTestResult SetDDNSSettings 20 SpeedTestResponse GetAutoUpgradeResponse 20/40 GetAutoRebootResponse GetWanDiagnosisStatusResponse LogoutResult Response start_time GetWanplugInfoResponse SetWizardPasswd TCP/UDP UDP enabled LogoutResponse Response/ GetMultipleHNAPsResponse 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/76
+Strings count : 3256
+Para + API count : 81
+Para: 
+	Hits Para count: 65
+	Hits Para : 
+		domain macaddr url_enable pppoe_ manual Wizard back /sys/block error_ /home/davinci date band_5 static result home table /home/software_version pointer url_ PPPoE code devicename acess /device/fresetwizard /body/password /sys/class/block normal ipaddr reboot access attach /network_mgr/ddns/domain work_mode internet dhcp main start username /tmp/home sb/1/macaddr description /home/root /logout/Auth ipinfo clear_ device path overflow password bindlist guest_enable wait undefined success interval request static_ pppoe GetSysStatus Static allow error logout width block 
+	Number of Para source files: 35
+API: 
+	Hits API count: 16
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 GetSysStatus GetAutoUpgradeResponse SetAutoUpgrade start_time enabled GetAutoRebootResponse GetMultipleHNAPs SetAutoReboot 40 20/40 upload_settings.cgi SetWizardPasswd HNAP1 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/54
+Strings count : 2819
+Para + API count : 81
+Para: 
+	Hits Para count: 60
+	Hits Para : 
+		code wan_status manual Wizard back /sys/block date right static result table ddns_enable lan_ipaddr url_ sys_uptime wire /device/fresetwizard /body/password /sys/class/block new_password /router/ ipaddr reboot start access width Logout dhcp main pppoe username Username sb/1/macaddr description Admin dns_enable wan_ipaddr clear_ /var/wan_status router device Login password wait Bridge lan_macaddr success request static_ getValue macaddr pppoe_ Static Result error wan_proto connecttime wlan_channel PPPoE block 
+	Number of Para source files: 31
+API: 
+	Hits API count: 21
+	Hits API : 
+		TCP UDP 20 wan_status GetDDNSSettingsResponse 20/40 enabled 40 Response SetAutoUpgrade GetWanplugInfoResponse GetWanDiagnosisStatusResponse GetMultipleHNAPsResponse Response/ LogoutResult ddns_enable GetAutoUpgradeResponse SetWizardPasswd LogoutResponse TCP/UDP SetDDNSSettings 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/25
+Strings count : 2619
+Para + API count : 84
+Para: 
+	Hits Para count: 58
+	Hits Para : 
+		code wan_status manual Wizard back /sys/block date right static table ddns_enable lan_ipaddr url_ sys_uptime wire /device/fresetwizard /body/password /sys/class/block /router/ ipaddr reboot start access attach Logout dhcp main pppoe username Username sb/1/macaddr description Admin SpeedTest dns_enable wan_ipaddr wan_proto /var/wan_status auto_update_enable device Login password wait lan_macaddr success request static_ PPPoE macaddr pppoe_ Static Result error router connecttime wlan_channel width block 
+	Number of Para source files: 31
+API: 
+	Hits API count: 26
+	Hits API : 
+		wan_status GetDDNSSettingsResponse SetAutoUpgrade TCP SetAutoReboot 40 ddns_enable SpeedTestResult SetDDNSSettings 20 SpeedTestResponse GetAutoUpgradeResponse 20/40 GetAutoRebootResponse GetWanDiagnosisStatusResponse LogoutResult Response start_time GetWanplugInfoResponse SetWizardPasswd TCP/UDP UDP enabled LogoutResponse Response/ GetMultipleHNAPsResponse 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/55
+Strings count : 4261
+Para + API count : 87
+Para: 
+	Hits Para count: 65
+	Hits Para : 
+		domain macaddr url_enable wan_status Menu back video/mpeg4 height code video result table home video/avi border url_ description wire title /sys/class/block /router/ ipaddr reboot access attach static /network_mgr/ddns/domain video/quicktime dhcp offline main start dest_ip username /tmp/home sb/1/macaddr PPPoE /home/software_version SUCCESS /home/root error_ dns_enable video/mp4 date path /home/davinci password tips guest_enable pppoe_ manual dns_server ipinfo /body/password request /sys/block static_ pppoe video/mpeg upnp_enable error router width block /var/wan_status 
+	Number of Para source files: 34
+API: 
+	Hits API count: 22
+	Hits API : 
+		wan_status SetAutoUpgrade SetAutoReboot TCP GetSysStatusResponse SetUpnpSettings 20 GetAutoUpgradeResponse SetWizardPasswd GetAutoRebootResponse GetWanDiagnosisStatusResponse up_time start_time GetWanplugInfoResponse 20/40 TCP/UDP UDP 40 item upnp_enable GetUpnpSettingsResponse GetMultipleHNAPsResponse 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/33
+Strings count : 2411
+Para + API count : 84
+Para: 
+	Hits Para count: 55
+	Hits Para : 
+		bridge domain macaddr wan_macaddr wan_status back /sys/block date dmz_enable static upgrade_fail table ddns_enable lan_ipaddr sb/1/macaddr PPPoE wire /device/fresetwizard /body/password /sys/class/block /router/ ipaddr reboot access attach /network_mgr/ddns/domain internet dhcp hidden main start username select_channel /logout/Auth dns_enable retry clear_ /var/wan_status router device path password Bridge center manual static_ pppoe pppoe_ upnp_enable Static allow error logout width block 
+	Number of Para source files: 36
+API: 
+	Hits API count: 29
+	Hits API : 
+		SetDDNSSettings GetDDNSSettingsResponse SetAutoUpgrade ddns_password TCP dmz_enable 40 GetSysStatusResponse ddns_enable SetUpnpSettings wan_status 20 GetAutoUpgradeResponse 20/40 GetAutoRebootResponse GetWanDiagnosisStatusResponse SetDmzSettings up_time start_time GetWanplugInfoResponse SetWizardPasswd TCP/UDP UDP enabled GetDmzSettingsResponse upnp_enable SetAutoReboot GetUpnpSettingsResponse GetMultipleHNAPsResponse 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/hnap
+Strings count : 796
+Para + API count : 72
+Para: 
+	Hits Para count: 55
+	Hits Para : 
+		code parentcontrol video/quicktime ipaddr request video/mpeg4 HUAWEI date macaddr video result upgrade_fail url_enable video/avi lan_ipaddr pppoe_plus wire /device/fresetwizard /body/password pppoe_other1 /router/ pppoe_ reboot access start static normal download_success dhcp main pppoe username sb/1/macaddr downloading pppoe_other2 SAMSUNG /logout/Auth XIAOMI logout by_app device url_ password wait LENOVO success pppoe_dynamic interval video/mp4 by_device video/mpeg allow error router download_fail 
+	Number of Para source files: 28
+API: 
+	Hits API count: 17
+	Hits API : 
+		SetAutoReboot 20 40 GetAutoUpgradeResponse SetAutoUpgrade start_time enabled GetAutoRebootResponse GetPollingFirmwareDownloadResponse GetWebsiteFilterSettingsResponse parent_control_rule stop_time SetWebsiteFilterSettings 20/40 SetWizardPasswd ota_status GetMultipleHNAPsResponse 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/9
+Strings count : 7092
+Para + API count : 68
+Para: 
+	Hits Para count: 56
+	Hits Para : 
+		bridge domain code request forbidden back video/mpeg4 error_ ping_enable video table video/avi special Username retry date /device/fresetwizard /body/password /sys/class/block /router/ reboot access width static /network_mgr/ddns/domain normal video/quicktime dhcp main start more description SUCCESS Bridge Admin dns_enable clear_ /sys/block HTTPS device path Login password wait manual success interval video/mp4 static_ video/mpeg Static Result allow error router block 
+	Number of Para source files: 31
+API: 
+	Hits API count: 12
+	Hits API : 
+		UDP 20 GetAutoUpgradeResponse SetAutoUpgrade enabled 40 TCP 20/40 Response/ SetWizardPasswd Response TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/70
+Strings count : 1782
+Para + API count : 51
+Para: 
+	Hits Para count: 48
+	Hits Para : 
+		bridge domain macaddr manual back /sys/block error_ date code static result table Login date1 devicename /device/fresetwizard title /sys/class/block ipaddr reboot start access attach /network_mgr/ddns/domain dhcp main pppoe username Username sb/1/macaddr /logout/Auth interval logout HTTPS device path url_ password wait success /body/password request static_ pppoe_ allow error PPPoE block 
+	Number of Para source files: 30
+API: 
+	Hits API count: 3
+	Hits API : 
+		GetSysStatusResponse item serial_number 
+	Number of API source files: 42
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/81
+Strings count : 5082
+Para + API count : 51
+Para: 
+	Hits Para count: 39
+	Hits Para : 
+		domain code PrivateKey back /sys/block error_ relative date static result table pointer Username retry /device/fresetwizard /body/password /sys/class/block access start /network_mgr/ddns/domain dhcp main pppoe username SUCCESS normal clear_ device path url_ password wait success request static_ pppoe_ allow error block 
+	Number of Para source files: 26
+API: 
+	Hits API count: 12
+	Hits API : 
+		UDP 20 GetAutoUpgradeResponse 20/40 enabled 40 TCP SetAutoUpgrade GetSysStatusResponse serial_number SetWizardPasswd TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/59
+Strings count : 2336
+Para + API count : 52
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		code ipaddr /sys/block error_ date static result table home pointer url_ special wire /device/fresetwizard title /sys/class/block /router/ end_hour reboot access attach normal dhcp main start more /tmp/home /home/software_version /home/root retry clear_ device path /home/davinci wait static_ display error router width block 
+	Number of Para source files: 25
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin UDP upload_firmware.cgi 20 TCP item 40 upload_settings.cgi 20/40 TCP/UDP HNAP1 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/pppd
+Strings count : 1986
+Para + API count : 50
+Para: 
+	Hits Para count: 38
+	Hits Para : 
+		domain code back /sys/block error_ date table Username retry /device/fresetwizard /body/password /sys/class/block ipaddr attach /network_mgr/ddns/domain listing hidden main start more username ip_domain normal /logout/Auth welcome internet logout device path Login password wait success interval request allow error block 
+	Number of Para source files: 25
+API: 
+	Hits API count: 12
+	Hits API : 
+		UDP 20 GetAutoUpgradeResponse SetAutoUpgrade enabled 40 TCP 20/40 Response/ SetWizardPasswd Response TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/bin/openssl
+Strings count : 4511
+Para + API count : 40
+Para: 
+	Hits Para count: 34
+	Hits Para : 
+		code request back /sys/block error_ date static result table retry /device/fresetwizard /body/password /sys/class/block ipaddr access start main more username description clear_ device path overflow password PrivateKey undefined success interval manual allow error display block 
+	Number of Para source files: 26
+API: 
+	Hits API count: 6
+	Hits API : 
+		20 40 item Response/ 20/40 Response 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/85
+Strings count : 1013
+Para + API count : 83
+Para: 
+	Hits Para count: 37
+	Hits Para : 
+		domain code PrivateKey request video/mpeg4 date right video result table video/avi Username /device/fresetwizard /body/password /router/ reboot access attach Logout /network_mgr/ddns/domain video/quicktime main start username SUCCESS /logout/Auth logout device path Login password wait success video/mp4 video/mpeg error router 
+	Number of Para source files: 20
+API: 
+	Hits API count: 46
+	Hits API : 
+		upload_firmware.cgi Response SetAutoUpgrade GetStaticRouteSettings GetGuestNetworkSettings GetWebsiteFilterSettings GetWanplugInfo GetIpMacBindSettings GetOnlineClientNum GetSPIFirewallSettings GetDOSSettings 20 GetMultipleHNAPs 20/40 GetSmartQoSSettings 40 GetWLanDevInfoSettings GetDhcpClientInfo GetCurrentInfoSettings GetWanSettings LogoutResult GetNetworkSettings LogoutResponse HNAP1 GetDownLoadCfg upload_settings.cgi GetWLanACLSettings GetNetworkModeSettings GetGuestWLanSettings GetDeviceDomainName GetBandSteering GetAutoUpgradeResponse SetWizardPasswd cgi-bin GetConnectStatusRealtime GetNetworkConnectStatus GetDownLoadSyslog GetVirtualServerSettings enabled GetWANPingSettings GetMasterWLanSettings GetSysStatus GetDmzSettings Response/ GetStationSettings GetWizardMasterWLanSettings 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/dnsmasq
+Strings count : 1197
+Para + API count : 45
+Para: 
+	Hits Para count: 35
+	Hits Para : 
+		bridge domain right back /sys/block code static result home /home/davinci retry /sys/class/block /router/ ipaddr access start /network_mgr/ddns/domain dhcp main more username /tmp/home /home/software_version /home/root welcome date path overflow wait interval request allow error router block 
+	Number of Para source files: 25
+API: 
+	Hits API count: 10
+	Hits API : 
+		UDP 20 GetAutoUpgradeResponse 20/40 enabled 40 TCP SetAutoUpgrade SetWizardPasswd TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/88
+Strings count : 645
+Para + API count : 38
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		code back /sys/block error_ Admin table Username wire title /sys/class/block error_time access width main start username description Mobile /logout/Auth logout HTTPS path Login password wait center success /body/password allow error block 
+	Number of Para source files: 22
+API: 
+	Hits API count: 7
+	Hits API : 
+		20 GetAutoUpgradeResponse 20/40 enabled 40 SetAutoUpgrade SetWizardPasswd 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/14
+Strings count : 1144
+Para + API count : 81
+Para: 
+	Hits Para count: 35
+	Hits Para : 
+		domain code PrivateKey request video/mpeg4 date right video result table video/avi Username /device/fresetwizard /body/password reboot access attach Logout /network_mgr/ddns/domain video/quicktime main start username SUCCESS /logout/Auth logout device path Login password wait success video/mp4 video/mpeg error 
+	Number of Para source files: 19
+API: 
+	Hits API count: 46
+	Hits API : 
+		upload_firmware.cgi Response SetAutoUpgrade GetStaticRouteSettings GetGuestNetworkSettings GetWebsiteFilterSettings GetWanplugInfo GetIpMacBindSettings GetOnlineClientNum GetSPIFirewallSettings GetDOSSettings 20 GetMultipleHNAPs 20/40 GetSmartQoSSettings 40 GetWLanDevInfoSettings GetDhcpClientInfo GetCurrentInfoSettings GetWanSettings LogoutResult GetNetworkSettings LogoutResponse HNAP1 GetDownLoadCfg upload_settings.cgi GetWLanACLSettings GetNetworkModeSettings GetGuestWLanSettings GetDeviceDomainName GetBandSteering GetAutoUpgradeResponse SetWizardPasswd cgi-bin GetConnectStatusRealtime GetNetworkConnectStatus GetDownLoadSyslog GetVirtualServerSettings enabled GetWANPingSettings GetMasterWLanSettings GetSysStatus GetDmzSettings Response/ GetStationSettings GetWizardMasterWLanSettings 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/iw
+Strings count : 1374
+Para + API count : 41
+Para: 
+	Hits Para count: 29
+	Hits Para : 
+		domain back /sys/block relative device result table special wire /device/fresetwizard start /sys/class/block width /network_mgr/ddns/domain wait more retry date path center main undefined success interval request Static allow error block 
+	Number of Para source files: 24
+API: 
+	Hits API count: 12
+	Hits API : 
+		UDP 20 GetAutoUpgradeResponse SetAutoUpgrade enabled 40 TCP 20/40 Response/ SetWizardPasswd Response TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/30
+Strings count : 1072
+Para + API count : 80
+Para: 
+	Hits Para count: 33
+	Hits Para : 
+		right video/quicktime request video/mpeg4 date code video result table video/avi Username /device/fresetwizard /body/password /router/ reboot access attach Logout main start SUCCESS /logout/Auth logout device Login password PrivateKey wait success video/mp4 video/mpeg error router 
+	Number of Para source files: 19
+API: 
+	Hits API count: 47
+	Hits API : 
+		upload_firmware.cgi Response SetAutoUpgrade GetStaticRouteSettings GetGuestNetworkSettings GetWebsiteFilterSettings GetWanplugInfo GetIpMacBindSettings GetOnlineClientNum GetSPIFirewallSettings GetDOSSettings 20 GetSysStatus GetMultipleHNAPs 20/40 GetSmartQoSSettings 40 GetWLanDevInfoSettings GetDhcpClientInfo GetCurrentInfoSettings GetWanSettings LogoutResult GetNetworkSettings LogoutResponse HNAP1 GetDownLoadCfg upload_settings.cgi GetWLanACLSettings GetNetworkModeSettings GetGuestWLanSettings GetDeviceDomainName GetBandSteering GetAutoUpgradeResponse SetWizardPasswd cgi-bin GetConnectStatusRealtime GetNetworkConnectStatus GetDownLoadSyslog GetVirtualServerSettings enabled GetWANPingSettings GetMasterWLanSettings item GetDmzSettings Response/ GetStationSettings GetWizardMasterWLanSettings 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/8
+Strings count : 902
+Para + API count : 80
+Para: 
+	Hits Para count: 34
+	Hits Para : 
+		right video/quicktime request video/mpeg4 date code video result table video/avi Username /device/fresetwizard /body/password /sys/class/block reboot access attach Logout main start SUCCESS /logout/Auth logout /sys/block device Login password PrivateKey wait success video/mp4 video/mpeg error block 
+	Number of Para source files: 19
+API: 
+	Hits API count: 46
+	Hits API : 
+		upload_firmware.cgi Response SetAutoUpgrade GetStaticRouteSettings GetGuestNetworkSettings GetWebsiteFilterSettings GetWanplugInfo GetIpMacBindSettings GetOnlineClientNum GetSPIFirewallSettings GetDOSSettings 20 GetMultipleHNAPs 20/40 GetSmartQoSSettings 40 GetWLanDevInfoSettings GetDhcpClientInfo GetCurrentInfoSettings GetWanSettings LogoutResult GetNetworkSettings LogoutResponse HNAP1 GetDownLoadCfg upload_settings.cgi GetWLanACLSettings GetNetworkModeSettings GetGuestWLanSettings GetDeviceDomainName GetBandSteering GetAutoUpgradeResponse SetWizardPasswd cgi-bin GetConnectStatusRealtime GetNetworkConnectStatus GetDownLoadSyslog GetVirtualServerSettings enabled GetWANPingSettings GetMasterWLanSettings GetSysStatus GetDmzSettings Response/ GetStationSettings GetWizardMasterWLanSettings 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/96
+Strings count : 688
+Para + API count : 42
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		domain code back /sys/block device static result table /device/fresetwizard /body/password /sys/class/block reboot access start /network_mgr/ddns/domain dhcp main username /network_mgr/lan0/dhcp_enable ddns_username clear_ date password dns_server center dhcp_enable manual error ddns_domain block 
+	Number of Para source files: 20
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 SetDDNSSettings ddns_username GetDDNSSettingsResponse ddns_password 40 item HNAP1 20/40 upload_settings.cgi 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/lighttpd
+Strings count : 1443
+Para + API count : 38
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		right PrivateKey back /sys/block error_ code static result table title /sys/class/block access start listing main more username clear_ date path wait request allow error block 
+	Number of Para source files: 21
+API: 
+	Hits API count: 13
+	Hits API : 
+		UDP 20 GetAutoUpgradeResponse 20/40 enabled 40 item TCP SetAutoUpgrade Response/ SetWizardPasswd Response TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/29
+Strings count : 957
+Para + API count : 36
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		code back /sys/block device result table special /device/fresetwizard /body/password /sys/class/block reboot access attach dhcp main start username description /network_mgr/lan0/dhcp_enable clear_ date url_ password center success dhcp_enable manual block 
+	Number of Para source files: 20
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 item upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/63
+Strings count : 817
+Para + API count : 39
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		domain right back /sys/block date code table home special /device/fresetwizard /sys/class/block Apple reboot access start /network_mgr/ddns/domain main username /tmp/home /home/software_version /home/root clear_ device path /home/davinci wait center manual allow error block 
+	Number of Para source files: 20
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 item upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/72
+Strings count : 735
+Para + API count : 37
+Para: 
+	Hits Para count: 32
+	Hits Para : 
+		code video/quicktime back video/mpeg4 date video result table video/avi retry /device/fresetwizard /body/password /sys/class/block reboot access attach main start username clear_ video/mp4 device path password Apple center interval manual video/mpeg block error /sys/block 
+	Number of Para source files: 19
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/19
+Strings count : 509
+Para + API count : 30
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		right request back error_ device static table devicename /device/fresetwizard /body/password ipaddr access start dhcp main pppoe more username description date password interval PrivateKey static_ error 
+	Number of Para source files: 21
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 20/40 Response 40 Response/ 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/32
+Strings count : 1037
+Para + API count : 76
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		code video/quicktime request video/mpeg4 date right video result table video/avi /device/fresetwizard /body/password reboot access attach Logout main start SUCCESS /logout/Auth logout device Login password PrivateKey wait success video/mp4 video/mpeg error 
+	Number of Para source files: 18
+API: 
+	Hits API count: 46
+	Hits API : 
+		upload_firmware.cgi Response SetAutoUpgrade GetStaticRouteSettings GetGuestNetworkSettings GetWebsiteFilterSettings GetWanplugInfo GetIpMacBindSettings GetOnlineClientNum GetSPIFirewallSettings GetDOSSettings 20 GetMultipleHNAPs 20/40 GetSmartQoSSettings 40 GetWLanDevInfoSettings GetDhcpClientInfo GetCurrentInfoSettings GetWanSettings LogoutResult GetNetworkSettings LogoutResponse HNAP1 GetDownLoadCfg upload_settings.cgi GetWLanACLSettings GetNetworkModeSettings GetGuestWLanSettings GetDeviceDomainName GetBandSteering GetAutoUpgradeResponse SetWizardPasswd cgi-bin GetConnectStatusRealtime GetNetworkConnectStatus GetDownLoadSyslog GetVirtualServerSettings enabled GetWANPingSettings GetMasterWLanSettings GetSysStatus GetDmzSettings Response/ GetStationSettings GetWizardMasterWLanSettings 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/62
+Strings count : 980
+Para + API count : 36
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		code video/quicktime back video/mpeg4 device video result table video/avi attach special /device/fresetwizard title reboot access start main username access_time clear_ video/mp4 date path Apple center manual video/mpeg error 
+	Number of Para source files: 17
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 item upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/92
+Strings count : 669
+Para + API count : 39
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		domain code request video/mpeg4 video result table video/avi pointer Login sys_uptime /body/password access start /network_mgr/ddns/domain video/quicktime main username date path overflow password wait success video/mp4 video/mpeg Result error 
+	Number of Para source files: 16
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 GetAutoUpgradeResponse 20/40 enabled 40 SetAutoUpgrade HNAP1 SetWizardPasswd upload_settings.cgi 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/42
+Strings count : 862
+Para + API count : 29
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		code back account_status table attach /device/fresetwizard /body/password reboot access start hidden main username Admin clear_ device path password center Apple manual error /tmp/account_status display 
+	Number of Para source files: 18
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/12
+Strings count : 497
+Para + API count : 26
+Para: 
+	Hits Para count: 23
+	Hits Para : 
+		bridge wlan_channel static lan_ipaddr /body/password /router/ ipaddr reboot access start dhcp main pppoe username wan_ipaddr date path Login password static_ pppoe_ error router 
+	Number of Para source files: 20
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/87
+Strings count : 473
+Para + API count : 33
+Para: 
+	Hits Para count: 22
+	Hits Para : 
+		code back table ddns_enable /device/fresetwizard reboot access start dhcp main username description /network_mgr/lan0/dhcp_enable dns_enable clear_ device center Apple dhcp_enable manual upnp_enable error 
+	Number of Para source files: 18
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin upload_firmware.cgi SetDDNSSettings GetDDNSSettingsResponse item upnp_enable GetUpnpSettingsResponse ddns_enable upload_settings.cgi SetUpnpSettings HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/66
+Strings count : 1032
+Para + API count : 39
+Para: 
+	Hits Para count: 29
+	Hits Para : 
+		code video/quicktime /sys/block date video result table video/avi special /device/fresetwizard title /sys/class/block access start main description normal access_time video/mpeg4 device path url_ password Apple success /body/password video/mp4 video/mpeg block 
+	Number of Para source files: 17
+API: 
+	Hits API count: 10
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 item GetSysStatusResponse serial_number upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/sbin/netifd
+Strings count : 714
+Para + API count : 27
+Para: 
+	Hits Para count: 23
+	Hits Para : 
+		bridge domain code date macaddr static table wire /device/fresetwizard ipaddr start /network_mgr/ddns/domain main sb/1/macaddr retry clear_ device path wait Bridge dns_server request error 
+	Number of Para source files: 18
+API: 
+	Hits API count: 4
+	Hits API : 
+		GetAutoUpgradeResponse SetWizardPasswd enabled SetAutoUpgrade 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/47
+Strings count : 653
+Para + API count : 25
+Para: 
+	Hits Para count: 22
+	Hits Para : 
+		PrivateKey back error_ device static devicename /device/fresetwizard /body/password ipaddr reboot access start main username description Admin date password interval request static_ error 
+	Number of Para source files: 18
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/tc
+Strings count : 2011
+Para + API count : 24
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		devicename code date undefined success start normal interval request back error width static /device/fresetwizard allow table device dhcp overflow main more 
+	Number of Para source files: 20
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/7
+Strings count : 524
+Para + API count : 36
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		code back result table home /home/davinci /device/fresetwizard width reboot access start main username /tmp/home downloading /home/software_version /home/root clear_ device path url_ center manual error 
+	Number of Para source files: 20
+API: 
+	Hits API count: 12
+	Hits API : 
+		cgi-bin upload_firmware.cgi GetAutoUpgradeResponse SetAutoUpgrade start_time GetAutoRebootResponse item SetAutoReboot stop_time upload_settings.cgi SetWizardPasswd HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/scopd
+Strings count : 1107
+Para + API count : 30
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		username main code date /device/fresetwizard success Admin request interval ipaddr error_ start allow error device path overflow more special wait 
+	Number of Para source files: 19
+API: 
+	Hits API count: 10
+	Hits API : 
+		UDP 20 GetAutoUpgradeResponse 20/40 enabled 40 TCP SetAutoUpgrade SetWizardPasswd TCP/UDP 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/71
+Strings count : 773
+Para + API count : 29
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		result username main date description success /body/password manual back reboot access start code clear_ /device/fresetwizard device url_ password attach special center 
+	Number of Para source files: 17
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 item upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/80
+Strings count : 728
+Para + API count : 32
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		code back table home url_ special /device/fresetwizard reboot access start main username /tmp/home /home/software_version /home/root clear_ device path /home/davinci Apple center manual allow error 
+	Number of Para source files: 17
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 item upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/86
+Strings count : 295
+Para + API count : 31
+Para: 
+	Hits Para count: 23
+	Hits Para : 
+		domain code error_ date Login Username wire /device/fresetwizard title access start /network_mgr/ddns/domain main username /logout/Auth logout device url_ password wait success /body/password error 
+	Number of Para source files: 13
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 item upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/53
+Strings count : 508
+Para + API count : 27
+Para: 
+	Hits Para count: 22
+	Hits Para : 
+		code PrivateKey back /sys/block error_ device table /device/fresetwizard /sys/class/block reboot access start main username clear_ date path center Apple manual error block 
+	Number of Para source files: 17
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/78
+Strings count : 272
+Para + API count : 21
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		height error center pppoe width lan_ipaddr title ipaddr reboot back access start table date dhcp main border display 
+	Number of Para source files: 25
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/sbin/fw3
+Strings count : 1308
+Para + API count : 34
+Para: 
+	Hits Para count: 19
+	Hits Para : 
+		retry date /device/fresetwizard start ipaddr /router/ request back more code error allow table device router path main dest_ip wait 
+	Number of Para source files: 19
+API: 
+	Hits API count: 15
+	Hits API : 
+		SetAutoReboot UDP firewall_filter_mode GetAutoUpgradeResponse SetAutoUpgrade start_time enabled GetAutoRebootResponse TCP GetIPv4FirewallSettingsResponse firewall_filter_enable stop_time SetWizardPasswd TCP/UDP SetIPv4FirewallSettings 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/97
+Strings count : 535
+Para + API count : 26
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		username code date description /device/fresetwizard center manual back reboot access start clear_ error device path main table Apple 
+	Number of Para source files: 16
+API: 
+	Hits API count: 8
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 item upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/61
+Strings count : 519
+Para + API count : 23
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		username code Apple /device/fresetwizard manual back reboot access start clear_ allow error device path hidden main table center 
+	Number of Para source files: 17
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/69
+Strings count : 638
+Para + API count : 26
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		username main code Apple /device/fresetwizard /body/password /sys/class/block manual back /sys/block reboot access start clear_ error device path password table block center 
+	Number of Para source files: 15
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/41
+Strings count : 705
+Para + API count : 30
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		code request video/mpeg4 error_ right video result video/avi /sys/class/block access start video/quicktime main product_name /tmp/product_name /sys/block HTTPS video/mp4 path wait interval PrivateKey video/mpeg error block 
+	Number of Para source files: 16
+API: 
+	Hits API count: 5
+	Hits API : 
+		GetSysStatusResponse 20 20/40 product_name 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/dropbear
+Strings count : 1231
+Para + API count : 27
+Para: 
+	Hits Para count: 21
+	Hits Para : 
+		username main date /device/fresetwizard /body/password /sys/class/block normal request back /sys/block more allow error device table Login password pointer start block wait 
+	Number of Para source files: 18
+API: 
+	Hits API count: 6
+	Hits API : 
+		UDP 20 TCP 40 20/40 TCP/UDP 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/46
+Strings count : 796
+Para + API count : 114
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		username main code date success /body/password Username request Admin Result HTTPS error foot Login password start wait 
+	Number of Para source files: 13
+API: 
+	Hits API count: 97
+	Hits API : 
+		smartqos_express_devices GetMultipleHNAPsResult GetGuestNetworkSettings GetWANPingSettingsResponse wireless_sta_5g_guest_list stad_info current_client_mac online_client_number dmz_ipaddr GetDeviceDomainNameResponse wireless_sta_2g_list GetWanSettings GetStationSettings GetDownLoadCfg upload_settings.cgi GetWebsiteFilterSettings GetGuestWLanSettings cgi-bin GetSPIFirewallSettingsResponse device_domain_name GetVirtualServerSettings antiattack_antidos_enable GetMasterWLanSettings GetSysStatus parent_control_rule GetStaticRouteSettingsResponse smartqos_downstream_shapingrate GetStaticRouteSettings GetWanplugInfo dmz_enable GetSysStatusResponse GetSPIFirewallSettings GetDOSSettings wan_wan_duplex GetDmzSettingsResponse GetMultipleHNAPs GetWanSettingsResponse GetWebsiteFilterSettingsResponse GetVirtualServerSettingsResponse GetStationSettingsResponse offline_sta_list smartqos_mode smartqos_enable 20 wan_connect_status portforward_rule GetDownLoadSyslog smartqos_type GetNetworkConnectStatusResponse GetOnlineClientNumResponse GetDmzSettings Response/ GetDhcpClientInfoResponse smartqos_priority_devices GetIpMacBindSettings GetConnectStatusRealtimeResponse GetNetworkSettings GetDOSSettingsResponse GetCurrentInfoSettings firewall_spi_enable Response HNAP1 GetWLanACLSettings GetOnlineClientNum GetWanplugInfoResponse 20/40 network_connect_status smartqos_upstream_shapingrate GetSmartQoSSettingsResponse smartqos_normal_devices GetWizardMasterWLanSettings acl_wan_ping_enable upload_firmware.cgi wan_status item GetMultipleHNAPsResponse GetSmartQoSSettingsResult wireless_sta_2g_guest_list GetSmartQoSSettings wireless_maclist_mode 40 GetWLanDevInfoSettings GetDhcpClientInfo wireless_sta_5g_list wire_sta_list GetCurrentInfoSettingsResponse wireless_maclist up_time wan_wan_speed GetNetworkModeSettings GetNetworkConnectStatus GetBandSteering GetConnectStatusRealtime staticroute_list global_network_mode GetWANPingSettings GetDeviceDomainName 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/79
+Strings count : 394
+Para + API count : 22
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		username code Apple /device/fresetwizard manual back reboot access start clear_ onclick error device path main table center 
+	Number of Para source files: 15
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/xtables-multi
+Strings count : 1177
+Para + API count : 20
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		code request path /router/ ipaddr back start error allow listing date router more main table display wait 
+	Number of Para source files: 17
+API: 
+	Hits API count: 3
+	Hits API : 
+		UDP TCP/UDP TCP 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/84
+Strings count : 690
+Para + API count : 30
+Para: 
+	Hits Para count: 23
+	Hits Para : 
+		code video/quicktime /sys/block date video video/avi special /device/fresetwizard /sys/class/block reboot access start main video/mpeg4 device path center Apple success video/mp4 video/mpeg error block 
+	Number of Para source files: 13
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin upload_firmware.cgi item GetSysStatusResponse serial_number upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/58
+Strings count : 515
+Para + API count : 21
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		username code date Apple /device/fresetwizard manual back reboot access start clear_ error device table main center 
+	Number of Para source files: 14
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/6
+Strings count : 391
+Para + API count : 21
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		username code Apple /device/fresetwizard manual back reboot access start clear_ error device path main table center 
+	Number of Para source files: 14
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/67
+Strings count : 405
+Para + API count : 21
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		username code Apple /device/fresetwizard manual back reboot access start clear_ error device path main table center 
+	Number of Para source files: 14
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/miniupnpd
+Strings count : 977
+Para + API count : 27
+Para: 
+	Hits Para count: 18
+	Hits Para : 
+		Bridge /router/ description /device/fresetwizard /sys/class/block interval request back /sys/block access start allow HTTPS error device router main block 
+	Number of Para source files: 16
+API: 
+	Hits API count: 9
+	Hits API : 
+		20 GetAutoUpgradeResponse 20/40 enabled 40 SetAutoUpgrade Response/ SetWizardPasswd Response 
+	Number of API source files: 46
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/39
+Strings count : 447
+Para + API count : 19
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		domain macaddr width interval ipaddr sb/1/macaddr access start wire /network_mgr/ddns/domain error date path hidden main lan_ipaddr 
+	Number of Para source files: 15
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/44
+Strings count : 400
+Para + API count : 14
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		wan_ipaddr request error ipaddr static_ dhcp access start Static internet static path main lan_ipaddr 
+	Number of Para source files: 12
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/28
+Strings count : 307
+Para + API count : 21
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		username code center /device/fresetwizard /sys/class/block manual back /sys/block reboot access start clear_ device table main block 
+	Number of Para source files: 14
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/sbin/upload_firmware.cgi
+Strings count : 364
+Para + API count : 22
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		right success clear_config_enable /sys/class/block /sys/block access start clear_ allow error overflow main pointer block wait 
+	Number of Para source files: 14
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 upload_settings.cgi 20/40 HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/100
+Strings count : 195
+Para + API count : 14
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		username main wan_ipaddr /body/password ipaddr interval start wan_proto error date dhcp password pppoe pppoe_ 
+	Number of Para source files: 17
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/99
+Strings count : 253
+Para + API count : 24
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		width lan_ipaddr border title ipaddr /tmp/product_name start error dhcp main table product_name wait 
+	Number of Para source files: 13
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 product_name GetSysStatusResponse Response/ upload_settings.cgi 20/40 Response HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/94
+Strings count : 269
+Para + API count : 18
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		username code center /device/fresetwizard manual back reboot access start clear_ device table main 
+	Number of Para source files: 13
+API: 
+	Hits API count: 5
+	Hits API : 
+		cgi-bin item upload_firmware.cgi upload_settings.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/17
+Strings count : 469
+Para + API count : 17
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		success wan_ipaddr /sys/class/block ipaddr /sys/block access start result error dhcp table main lan_ipaddr block 
+	Number of Para source files: 14
+API: 
+	Hits API count: 3
+	Hits API : 
+		UDP TCP/UDP TCP 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/27
+Strings count : 729
+Para + API count : 19
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		domain retry date /device/fresetwizard success /sys/class/block /sys/block start code /network_mgr/ddns/domain error device table offline main block 
+	Number of Para source files: 13
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/35
+Strings count : 384
+Para + API count : 15
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		code normal back static_ error_ start static result error date url_ wait 
+	Number of Para source files: 10
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/bin/ab
+Strings count : 294
+Para + API count : 16
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		username password /body/password normal request wait start result error path main table more 
+	Number of Para source files: 13
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/sbin/upload_settings.cgi
+Strings count : 341
+Para + API count : 17
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		right success /sys/class/block /sys/block access start allow error date overflow main pointer block 
+	Number of Para source files: 13
+API: 
+	Hits API count: 4
+	Hits API : 
+		cgi-bin upload_settings.cgi upload_firmware.cgi HNAP1 
+	Number of API source files: 43
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/bin/uci2dat
+Strings count : 648
+Para + API count : 17
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		devicename wire /device/fresetwizard /sys/class/block interval /sys/block start allow error device path hidden main block 
+	Number of Para source files: 14
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/68
+Strings count : 339
+Para + API count : 17
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		/tmp/home domain main /home/software_version /home/root /body/password ipaddr access start /network_mgr/ddns/domain error path home /home/davinci password lan_ipaddr Login 
+	Number of Para source files: 12
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/1
+Strings count : 438
+Para + API count : 19
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		undefined Menu request reboot start result error path main more 
+	Number of Para source files: 13
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin upload_firmware.cgi 20 40 Response/ upload_settings.cgi 20/40 Response HNAP1 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/51
+Strings count : 406
+Para + API count : 17
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		password lanmac /device/fresetwizard start /body/password access attach code date device path main 
+	Number of Para source files: 12
+API: 
+	Hits API count: 5
+	Hits API : 
+		20 20/40 Response 40 Response/ 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/95
+Strings count : 270
+Para + API count : 12
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		username center success /logout/Auth back access start logout error main Apple 
+	Number of Para source files: 10
+API: 
+	Hits API count: 1
+	Hits API : 
+		item 
+	Number of API source files: 42
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/sbin/iwconfig
+Strings count : 437
+Para + API count : 14
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		code /device/fresetwizard request start wire result error device hidden main more 
+	Number of Para source files: 12
+API: 
+	Hits API count: 3
+	Hits API : 
+		20 20/40 40 
+	Number of API source files: 44
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/bin/45
+Strings count : 224
+Para + API count : 10
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		success request ipaddr reboot access start error date main lan_ipaddr 
+	Number of Para source files: 12
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/sbin/procd
+Strings count : 530
+Para + API count : 12
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		retry description /sys/class/block reboot /sys/block start code error date path main block 
+	Number of Para source files: 13
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+

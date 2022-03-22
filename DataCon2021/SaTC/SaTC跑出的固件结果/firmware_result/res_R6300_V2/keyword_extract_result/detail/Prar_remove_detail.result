@@ -1,0 +1,1754 @@
+Prar name : Apply
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_umount.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_top.htm
+	Bin File: 
+
+Prar name : Cancel
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_check_uplink_band_width.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LED_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WiFi_HiddenPage.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_umount.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_download.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkAnswer.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/wifisettings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkSerialAgain.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/CheckNewFW.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_access_unauthorized_checkSerial.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_password.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_accessUnauthorized_checkAnswerAgain.htm
+	Bin File: 
+
+Prar name : DAddr1
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : DAddr2
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : DAddr3
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : DAddr4
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : DNSAssign
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+	Bin File: 
+
+Prar name : Next
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pptp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_ph_fail.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_bpa2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_otherissue.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pptp.htm
+	Bin File: 
+
+Prar name : PDAddr1
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : PDAddr2
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : PDAddr3
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : PDAddr4
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : Test
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+	Bin File: 
+
+Prar name : WANAssign
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+	Bin File: 
+
+Prar name : WPethr1
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : WPethr2
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : WPethr3
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : WPethr4
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+	Bin File: 
+
+Prar name : apply
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LED_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_IP_SUBNET2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pptp2.htm
+	Bin File: 
+
+Prar name : buttonHit
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_failed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/NoInternet.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_ErrorPIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_write2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_interval.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_routes.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_cfm.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_log.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_interval.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_backup.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_result.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_check_uplink_band_width.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_password.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_access_login_frame.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_umount.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_folderBrowse.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_fw_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fw_not_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Add_WPS_Client.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_no_connection.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fw_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_OK_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless2_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot_wireless.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/NoInternetConn.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_ph_fail.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_not_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_err.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_download.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless3_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless1_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_cfm.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless1_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless3_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_poe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/openvpn_crt_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LED_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_OK.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fwlang_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/SRV_response.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless2_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot4.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+	Bin File: 
+
+Prar name : buttonValue
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_failed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/NoInternet.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_ErrorPIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_write2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_interval.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_routes.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_cfm.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_log.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_interval.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_backup.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_result.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_check_uplink_band_width.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_password.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_access_login_frame.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_umount.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_folderBrowse.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_fw_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fw_not_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Add_WPS_Client.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_no_connection.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fw_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_OK_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless2_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot_wireless.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/NoInternetConn.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_ph_fail.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_not_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_err.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_download.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless3_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless1_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_cfm.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless1_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless3_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_poe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/openvpn_crt_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LED_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_OK.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fwlang_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/SRV_response.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless2_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot4.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+	Bin File: 
+
+Prar name : cancel
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_port_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_domain_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_domain_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_ip_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_port_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_ip_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+	Bin File: 
+
+Prar name : close
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_poe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_folderBrowse.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_login.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_wtest_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_wtest_l.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_wtest_d.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_warning.htm
+	Bin File: 
+
+Prar name : enable_apmode
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless3_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/start.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless2_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless2_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless1_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/ADV_home2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless1_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless3_2.htm
+	Bin File: 
+
+Prar name : formname
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_start.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_ping.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_failed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_domain_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/NoInternet.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_ping2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_check_redirect.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_write2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_result.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_write.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_check_uplink_band_width.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fw_not_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_download.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_ip_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_ph_fail.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_detwan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_IP_SUBNET2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_fw_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_det_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_check_redirect2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_ping3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_no_connection.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fw_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_detwan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_port_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/NoInternetConn.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_ph_fail.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/close_process.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_otherissue.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_result.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_not_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_download.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_port_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_cfm.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_write.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/INT_statistics.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_domain_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LED_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fwlang_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Congratulations2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_bpa2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/pppoe2_ip_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LGO_logout.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_no_con.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_check_top2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/CheckNewFW.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_check_top.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/auto_block.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pptp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_lang.htm
+	Bin File: 
+
+Prar name : full-page-container
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_routes.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_log.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_backup.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_password.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Add_WPS_Client.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LED_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LGO_logout.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+	Bin File: 
+
+Prar name : help-button
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_password.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_routes.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_log.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_backup.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Add_WPS_Client.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+	Bin File: 
+
+Prar name : helpframe
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_routes.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_log.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_backup.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_password.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Add_WPS_Client.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/cgi-bin/RMT_invite_unreg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/cgi-bin/RMT_invite_reg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+	Bin File: 
+
+Prar name : helpframe-anchor
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_password.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_routes.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_log.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_backup.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Add_WPS_Client.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+	Bin File: 
+
+Prar name : login_type
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+	Bin File: 
+
+Prar name : next_file
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/SRV_response.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_err.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_restoring.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot4.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot_wireless.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_detecting.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot_guestNetwork.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_apply.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot2.htm
+	Bin File: 
+
+Prar name : only_mode
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless3_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless2_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless2_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_5g_wireless1_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless3_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_2g_wireless1_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+	Bin File: 
+
+Prar name : pppoe_passwd
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+	Bin File: 
+
+Prar name : pppoe_servicename
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+	Bin File: 
+
+Prar name : pppoe_username
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pppoe2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_bpa2.htm
+	Bin File: 
+
+Prar name : progress
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_fw_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/CheckNewFW.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_restoring.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot4.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot_wireless.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot_guestNetwork.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_detwan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_write.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/openvpn_crt_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot2.htm
+	Bin File: 
+
+Prar name : runtest
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletwest.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pptp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fletother.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_bpa2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_pptp.htm
+	Bin File: 
+
+Prar name : show_wps_alert
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+	Bin File: 
+
+Prar name : sourcecode
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_routes_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_2_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_lang_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_fix_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_cfm_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_status_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/openvpn_help.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_det_fix_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_passwd_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_bpa_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_check_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_ph_fail_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_log_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_sel_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device2_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_upgrade_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_backup_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_download_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band_h.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule_h.htm
+	Bin File: 
+
+Prar name : target
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_r10.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_dyn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_failed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DNS_ddns.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_passthrough.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_admin_account.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_ruletab.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/NoInternet.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_ErrorPIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_write2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_fixed.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_interval.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/STR_routes.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN_hidden.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_cfm.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_media.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_log.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WAN_wan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_bridge_status.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_interval.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAK_backup.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_result.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_check_uplink_band_width.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/PWD_password.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_access_login_frame.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/advanced_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_schedule_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless1.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/OPENVPN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_umount.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band_2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_autoconfig.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_folderBrowse.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPG_fw_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Timeout.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_dhcp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fw_not_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_pt_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Add_WPS_Client.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_no_connection.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_email.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/UPNP_upnp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fw_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/fbwifi.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_auto.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_OK_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_sel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_add.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_disable.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot_wireless.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/NoInternetConn.html
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_ph_fail.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_reg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_bpa.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_reserv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_meter.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_basictop.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PBC.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LANG_not_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_err.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_download.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_bridge_wireless_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_keyword_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_printing.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_control.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_cfm.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_ppp2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_vault.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_poe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_remote.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WIZ_pppoe_fleteast.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wireless3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_Cancel_Change.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/openvpn_crt_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BKS_service_edit.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LED_settings.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DEV_device2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/IPV6_tunnel.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_OK.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_ap_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_basic_remote_unreg.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/VER_fwlang_found.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/auto_block.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/RST_st_fix.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PBC_Conflict.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/SRV_response.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot4.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Congratulations2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_adv_dual_band2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/DIG_reboot3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wifi_sche_set_warn.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WPS_Add_Client_FAIL_PIN.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/FW_forward_service3.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/LAN_lan.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_acl.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/Adv_USB.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/QOS_main.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/WLG_wds_dual_band.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/USB_adv.htm
+	Bin File: 
+
+Prar name : topframe
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_flet.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/openvpn_crt_check.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_ether.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe_other.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_access_login2.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_l2tp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pptp.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/MNU_access_setRecovery_index.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/BAS_pppoe.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/traffic_start_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/start_update.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/genie_index.htm
+		/home/satc/DataCon/_R6300v2-V1.0.4.34_10.0.92.chk.extracted/squashfs-root/www/CheckNewFirmware.htm
+	Bin File: 
+

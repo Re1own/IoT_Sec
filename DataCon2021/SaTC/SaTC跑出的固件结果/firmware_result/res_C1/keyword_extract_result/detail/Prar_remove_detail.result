@@ -1,0 +1,910 @@
+Prar name : Commom_Apply
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_Conflict.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : Commom_Cancel
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : Commom_Confirm
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_Conflict.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : Commom_Save
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : CreateOnloadMessage
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+	Bin File: 
+
+Prar name : CreatePopAlertMessage
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/footer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+	Bin File: 
+
+Prar name : DetectRouterConnection
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/footer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+	Bin File: 
+
+Prar name : ERROR
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/priv_mgt.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+	Bin File: 
+
+Prar name : False
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/header.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Index.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/priv_mgt.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileLogin.html
+	Bin File: 
+
+Prar name : GetMultipleHNAPs
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : Login_Router_Name
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileIndex.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_WAN.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_WAN.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_Cable.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_Conflict.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/header.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_Cable.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_Conflict.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileLogin.html
+	Bin File: 
+
+Prar name : basiccontent
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/priv_mgt.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+	Bin File: 
+
+Prar name : checkbox_off
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/priv_mgt.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : checkbox_on
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/priv_mgt.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : content
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/lib/lua/luci/view/sysauth.htm
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/lib/lua/luci/view/cbi/map.htm
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/lib/lua/luci/view/error404.htm
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/lib/lua/luci/view/error500.htm
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/usr/lib/lua/luci/view/cbi/simpleform.htm
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/priv_mgt.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+	Bin File: 
+
+Prar name : detach
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : error_1
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileLogin.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+	Bin File: 
+
+Prar name : error_2
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+	Bin File: 
+
+Prar name : error_3
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+	Bin File: 
+
+Prar name : error_4
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+	Bin File: 
+
+Prar name : errorinfo_1
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileLogin.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+	Bin File: 
+
+Prar name : errorinfo_2
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+	Bin File: 
+
+Prar name : errorinfo_3
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+	Bin File: 
+
+Prar name : errorinfo_4
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+	Bin File: 
+
+Prar name : footer
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+	Bin File: 
+
+Prar name : header
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+	Bin File: 
+
+Prar name : html
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_WAN.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_Conflict.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_WAN.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_Cable.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_success.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_Cable.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/priv_mgt.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_Conflict.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_success.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileLogin.html
+	Bin File: 
+
+Prar name : inline
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+	Bin File: 
+
+Prar name : right_content
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : savebutton
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Problem_Conflict.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileLogin.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : savebutton5
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : sub_menu_container
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+
+Prar name : viewport
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_WAN.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Network.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Home.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileIndex.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWorkMode.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Login.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Guestwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/FirmwareUpdate.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileWireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_Cable.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/priv_mgt.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/RouterInfo.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_success.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileProblem_Conflict.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Backup.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Advwireless.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileNetwork.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileLogin.html
+	Bin File: 
+
+Prar name : waitSettingFinish
+Source File : 
+	Text File: 
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Parentcontrol.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MacFilter.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/PortForward.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/SNTP.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Diagnosis.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvMacBindIp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/account.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/reboot.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/WiFiTimer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Devices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/QoSControl.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Dmz.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Ddns.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/footer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/MobileDevices.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Firewall.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Upnp.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/DhcpServer.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Wizard.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/Staticroute.html
+		/home/satc/DataCon/_AP-MTKH8-0004_81440.bin.extracted/squashfs-root/www/web/AdvWlanAccess.html
+	Bin File: 
+

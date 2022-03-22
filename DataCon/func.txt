@@ -1,7 +1,0 @@
-危险函数名称：
-命令注入：
-popen、system、doSystemCmd、doSystembk、doSystem、COMMAND、_popen、_system、_doSystemCmd、_doSystembk、_doSystem、_COMMAND
-密码学误用：
-AES_set_encrypt_key、AES_set_decrypt_key、EVP_DecryptInit_ex、EVP_EncryptInit_ex、DES_set_key_checked、AES_cbc_encrypt、_AES_set_encrypt_key、_AES_set_decrypt_key、_EVP_DecryptInit_ex、_EVP_EncryptInit_ex、_DES_set_key_checked、_AES_cbc_encrypt
-格式化字符串：
-sprintf、snprintf、_sprintf、_snprintf

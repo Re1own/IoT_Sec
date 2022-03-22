@@ -1,0 +1,1260 @@
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/21
+Strings count : 274547
+Para + API count : 227
+Para: 
+	Hits Para count: 205
+	Hits Para : 
+		restore checkbox /network_mgr/bonding/enable lanSet Width bandwidth /system_mgr/afp/enable /usr/syno/etc/private/domain_user /system_mgr/nfs/enable pointer before style upgrade title black /network_mgr/ddns/domain connecting hidden save Optional hostName string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable Register fileName readOnly background RSSI model/iges /private/ password above netNum success settings authServer button manual Obtain refresh model/mesh default continue /usr/syno/etc/private/domain_group timeout security PPPoE Transport upper domain right formObj status_ relative cancel static remove /etc/version /backup_mgr/rsyncd/enable Disconnected index macAddr ssid bottom selected reboot UserTable label current version Connected template Upstream dhcp /network_mgr/ddns/enable notice after /usr/share/xt_ipp2p/appo_web iframe power Tunnel /proc/version Manual offset active lanMask Delete remark status6 status1 status0 status3 admin country message/rfc822 status9 disable Static model/vrml wired login backup Automatical block dhcps /mydlink/version color float private height visible /system_mgr/quota/enable Shared message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script transfer custom start /app_mgr/upnpavserver/enable ackEnable white username enable option form tr12 visibility wireless phone timeOut Error /syslog_server/enable general Start account Custom disconnected tunnel VlanId Height below /disk/syslogd_audit/index behavior error display transition moveIn ipMac share Plugged middle single application/class ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo Downstream Radar lanIp ping detail readonly Disable dnsSave auto /usr/syno/etc/private/diagnose ordinary Expired pppoe channel IPSec broadcast description normal /app_mgr/itunesserver/enable object update unused Enable connected value infinite auth_mode_ Login expired class network Exclusive lower required Bound inherit Gateway Permanent callback switch green model Speed width 
+	Number of Para source files: 88
+API: 
+	Hits API count: 22
+	Hits API : 
+		restore text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/91
+Strings count : 12706
+Para + API count : 219
+Para: 
+	Hits Para count: 194
+	Hits Para : 
+		Canada restore checkbox /network_mgr/bonding/enable pwd0 focus addName bandwidth /system_mgr/afp/enable ssid2 /system_mgr/nfs/enable pointer before style upgrade message/rfc822 black /network_mgr/ddns/domain Others Connected hidden save Spain Netherlands string /usr/syno/etc/private/workgroup auto Register overLogin /private/ iPhone channel_5g model/iges password ipsec success settings button manual refresh model/mesh tunnel continue /usr/syno/etc/private/domain_group timeout ssid_ security netMode PPPoE upper domain right India status_ France /system_mgr/quota/enable static remove /etc/version /backup_mgr/rsyncd/enable Pppoe description index Enable ssid /backup_mgr/time_machine/enable natSet selected reboot label current version connecting dhcp /network_mgr/ddns/enable notice /usr/share/xt_ipp2p/appo_web power Tunnel Indonesia /network_mgr/snmp/enable model/vrml active Russia Delete status5 status4 status7 status6 status1 status0 status3 status2 admin country title status8 Static wired login backup block Brazil dhcps /mydlink/version color private height Start Online cancel Shared message nowrap /usr/share/xt_ipp2p/appe_list Status Australia guest script ddnsStatus custom width /app_mgr/upnpavserver/enable Thailand white start writeable enable tr11 tr10 form tr12 wireless phone Error /syslog_server/enable vlan_id_ wanStatus account disconnected default value cursor below /disk/syslogd_audit/index /usr/syno/etc/private/domain_user error rssi Taiwan display username required lanIP share general middle single application/class ascii everyday option /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping detail Disable Germany online /usr/syno/etc/private/diagnose pppoe channel IPSec Disconnected normal /app_mgr/itunesserver/enable wpapsk after update unused disable connected Login class network broadcast lower /proc/version wifi password_ switch China green model Gateway 
+	Number of Para source files: 92
+API: 
+	Hits API count: 25
+	Hits API : 
+		restore text image/png getLan Write 65 /cgi-bin/UploadCfg upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/75
+Strings count : 19585
+Para + API count : 188
+Para: 
+	Hits Para count: 165
+	Hits Para : 
+		restore /network_mgr/bonding/enable focus Width bandwidth Permanent /usr/syno/etc/private/domain_user /system_mgr/nfs/enable pointer before upgrade message/rfc822 black /network_mgr/ddns/domain Connected hidden save string /usr/syno/etc/private/workgroup auto Register readOnly background model/iges /private/ password success settings manual refresh model/mesh /system_mgr/afp/enable continue /usr/syno/etc/private/domain_group timeout codeType ssid_ security PPPoE Transport upper domain right status_ /system_mgr/quota/enable static remove /etc/version /backup_mgr/rsyncd/enable index macAddr network /backup_mgr/time_machine/enable reboot label current version connecting above Upstream dhcp /network_mgr/ddns/enable notice after /usr/share/xt_ipp2p/appo_web iframe power /proc/version Manual model/vrml active Delete admin country script Static wired login backup block /mydlink/version color float private height Start Online cancel message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable start transfer offset custom width /app_mgr/upnpavserver/enable ackEnable white username enable tr11 option form tr12 wireless phone timeOut Error /syslog_server/enable account disconnected default value Height below /disk/syslogd_audit/index behavior error rssi display wifi share Custom middle single application/class Offline ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo Downstream ping detail readonly Disable Enable online /usr/syno/etc/private/diagnose channel description normal /app_mgr/itunesserver/enable object update unused disable connected timeZone Login expired class ssid broadcast lower required Bound password_ callback switch model Speed Gateway apsd 
+	Number of Para source files: 86
+API: 
+	Hits API count: 23
+	Hits API : 
+		restore text image/png Write 65 upgrade Read TW reboot Auth Read/Write getNetwork image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/36
+Strings count : 3885
+Para + API count : 208
+Para: 
+	Hits Para count: 163
+	Hits Para : 
+		restore /network_mgr/bonding/enable /mydlink/version Width bandwidth /system_mgr/afp/enable /usr/syno/etc/private/domain_user ssid0 ssid1 /system_mgr/nfs/enable pointer dmzEn upgrade message/rfc822 multiWan black /network_mgr/ddns/domain /sys/bus/usb/devices/usb1/idVendor connecting save /sys/bus/usb/devices/usb1/idProduct string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable Register fileName /private/ iPhone channel_5g sysTime password ipsec success auto ddnsDomain namePwd button manual remove continue /usr/syno/etc/private/domain_group timeout ssid_ security PPPoE wanMask upper domain status_ wanNum static refresh /etc/version /backup_mgr/rsyncd/enable index Enable network connectType selected reboot current version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable localhost notice after /usr/share/xt_ipp2p/appo_web usb3 power usb1 /proc/version Manual timeType offset lanMask Delete remark admin country script Static virtualServer wired login block dhcps upnpEn hostName private ipMacBindEn Start Online /system_mgr/quota/enable message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest start Gateway ddnsStatus wifiEn vpnClientUser /app_mgr/upnpavserver/enable white loginPwd power_5g username enable option form Upgrading wireless wanType Error /syslog_server/enable pppoes wanStatus account default newVersion value macFilter behavior error onlineUpgrade required Tenda ipMac lanIP share remoteEn middle application/class /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo lanIp ping detail wanGateway online /usr/syno/etc/private/diagnose pppoe channel /app_mgr/itunesserver/enable wpapsk object update disable connected timeZone expired class ssid lower wifi password_ callback switch Speed width 
+	Number of Para source files: 82
+API: 
+	Hits API count: 45
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan Write uploadPolicy delStaticRoute getWanConnectStatus /cgi-bin/UploadCfg setDMZ /cgi-bin/upgrade delPortMapping setLan Read TW reboot Auth getQos Read/Write getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable KR login text/css 65 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/18
+Strings count : 3859
+Para + API count : 207
+Para: 
+	Hits Para count: 162
+	Hits Para : 
+		restore /network_mgr/bonding/enable /mydlink/version Width bandwidth /system_mgr/afp/enable /usr/syno/etc/private/domain_user ssid0 ssid1 /system_mgr/nfs/enable pointer dmzEn upgrade message/rfc822 multiWan black /network_mgr/ddns/domain /sys/bus/usb/devices/usb1/idVendor connecting save /sys/bus/usb/devices/usb1/idProduct string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable Register /private/ iPhone channel_5g sysTime password ipsec success auto ddnsDomain namePwd button manual remove continue /usr/syno/etc/private/domain_group timeout ssid_ security PPPoE wanMask upper domain status_ wanNum static refresh /etc/version /backup_mgr/rsyncd/enable index Enable network connectType selected reboot current version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable localhost notice after /usr/share/xt_ipp2p/appo_web usb3 power usb1 /proc/version Manual timeType offset lanMask Delete remark admin country script Static virtualServer wired login block dhcps upnpEn hostName private ipMacBindEn Start Online /system_mgr/quota/enable message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest start Gateway ddnsStatus wifiEn vpnClientUser /app_mgr/upnpavserver/enable white loginPwd power_5g username enable option form Upgrading wireless wanType Error /syslog_server/enable pppoes wanStatus account default newVersion value macFilter behavior error onlineUpgrade required Tenda ipMac lanIP share remoteEn middle application/class /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo lanIp ping detail wanGateway online /usr/syno/etc/private/diagnose pppoe channel /app_mgr/itunesserver/enable wpapsk object update disable connected timeZone expired class ssid lower wifi password_ callback switch Speed width 
+	Number of Para source files: 80
+API: 
+	Hits API count: 45
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan Write uploadPolicy delStaticRoute getWanConnectStatus /cgi-bin/UploadCfg setDMZ /cgi-bin/upgrade delPortMapping setLan Read TW reboot Auth getQos Read/Write getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable KR login text/css 65 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/77
+Strings count : 6656
+Para + API count : 172
+Para: 
+	Hits Para count: 150
+	Hits Para : 
+		restore /network_mgr/bonding/enable Width ssid4 /system_mgr/afp/enable ssid2 ssid3 ssid1 /system_mgr/nfs/enable before upgrade message/rfc822 /network_mgr/ddns/domain Others /disk/syslogd_audit/index hidden save Spain string /usr/syno/etc/private/workgroup auto Register bandwidth dhcp model/iges password ipsec success Start button settings manual Obtain remove model/mesh tunnel Connected /usr/syno/etc/private/domain_group timeout ssid_ security PPPoE upper domain right /system_mgr/quota/enable static /etc/version /backup_mgr/rsyncd/enable Pppoe Disconnected index Enable ssid /backup_mgr/time_machine/enable selected reboot current netAccess version connecting RSSI /network_mgr/ddns/enable notice after /usr/share/xt_ipp2p/appo_web usb3 power Tunnel /proc/version Manual model/vrml active Russia Delete admin country Static login block dhcps /mydlink/version float private height visible cancel Shared message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script offset start /app_mgr/upnpavserver/enable username enable option form wireless phone Error /syslog_server/enable account default value Height behavior error rssi SSIDIndex display share width application/class Offline /usr/syno/etc/private/domain_user ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping Disable dyndns online /usr/syno/etc/private/diagnose pppoe channel IPSec description normal /app_mgr/itunesserver/enable object update disable connected Login class network broadcast lower required /private/ password_ switch ssid_id model Speed Gateway 
+	Number of Para source files: 77
+API: 
+	Hits API count: 22
+	Hits API : 
+		restore text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/60
+Strings count : 4784
+Para + API count : 166
+Para: 
+	Hits Para count: 144
+	Hits Para : 
+		Canada restore checkbox pwd2 pwd1 ssid_list Width ssid4 /system_mgr/afp/enable ssid2 ssid3 ssid1 /system_mgr/nfs/enable before style upgrade message/rfc822 dyndns /network_mgr/ddns/domain /disk/syslogd_audit/index hidden save string auto Register model/iges password ipsec success settings button manual bandwidth refresh model/mesh timeout ssid_ security PPPoE upper domain right status_ France /system_mgr/quota/enable static remove /etc/version /backup_mgr/rsyncd/enable Disconnected index Enable ssid /backup_mgr/time_machine/enable bottom selected reboot label current sysLog version Connected dhcp /network_mgr/ddns/enable /usr/share/xt_ipp2p/appo_web power /proc/version /network_mgr/snmp/enable model/vrml active Russia Delete admin country disable Static connected login backup block /mydlink/version float height Start cancel message nowrap /usr/share/xt_ipp2p/appe_list Status Australia guest script custom start /app_mgr/upnpavserver/enable username enable option form wireless phone Error /syslog_server/enable account disconnected default value error display share middle single width application/class Offline /network_mgr/bonding/enable /download_mgr/p2p/enable ping Disable Germany online pppoe channel description /app_mgr/itunesserver/enable wpapsk after update connecting wired infinite expired class network broadcast lower wifi password_ switch China green professional model Gateway 
+	Number of Para source files: 82
+API: 
+	Hits API count: 22
+	Hits API : 
+		restore text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/76
+Strings count : 3256
+Para + API count : 182
+Para: 
+	Hits Para count: 137
+	Hits Para : 
+		restore /network_mgr/bonding/enable /mydlink/version Width bandwidth /system_mgr/afp/enable wanMask ssid0 ssid1 /system_mgr/nfs/enable pointer dmzEn upgrade message/rfc822 black /network_mgr/ddns/domain /sys/bus/usb/devices/usb1/idVendor /disk/syslogd_audit/index save /sys/bus/usb/devices/usb1/idProduct string auto Register iPhone channel_5g sysTime password ipsec success ddnsDomain button manual remove ssid_ security PPPoE upper domain status_ wanNum static /etc/version /backup_mgr/rsyncd/enable index Enable ssid /backup_mgr/time_machine/enable connectType selected reboot current version connecting dhcp /network_mgr/ddns/enable localhost after /usr/share/xt_ipp2p/appo_web power usb1 /proc/version Manual timeType lanMask Delete remark admin country script Static timeZone login block dhcps upnpEn hostName Start Online /system_mgr/quota/enable message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest start Gateway wifiEn vpnClientUser /app_mgr/upnpavserver/enable white loginPwd power_5g username enable option form share wanType Error /syslog_server/enable pppoes wanStatus account default value behavior error onlineUpgrade required Tenda Upgrading middle application/class /download_mgr/p2p/enable lanIp ping online pppoe channel description normal /app_mgr/itunesserver/enable wpapsk object update disable connected expired class network lower wifi password_ callback switch Speed width 
+	Number of Para source files: 78
+API: 
+	Hits API count: 45
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan Write uploadPolicy delStaticRoute getWanConnectStatus /cgi-bin/UploadCfg setDMZ /cgi-bin/upgrade delPortMapping setLan Read TW reboot Auth getQos Read/Write getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable KR login text/css 65 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/5
+Strings count : 3454
+Para + API count : 182
+Para: 
+	Hits Para count: 139
+	Hits Para : 
+		restore pwd2 /mydlink/version Width bandwidth /system_mgr/afp/enable ssid1 /system_mgr/nfs/enable before style upgrade title version /disk/syslogd_audit/index hidden save string /usr/syno/etc/private/workgroup auto Register fileName /private/ RSSI password ipsec success settings manual remove /usr/syno/etc/private/domain_group channel24 ssid_ security remoteManage PPPoE upper right static /etc/version /backup_mgr/rsyncd/enable index Enable ssid /backup_mgr/time_machine/enable bottom selected reboot current sysLog setWireless Connected dhcp /network_mgr/ddns/enable /usr/share/xt_ipp2p/appo_web timeout power Tunnel /proc/version Manual offset active Delete remark status1 status2 admin country Static guest wired login backup upnpEn color float private height Start Online /system_mgr/quota/enable Shared /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable wmmEn width custom start /app_mgr/upnpavserver/enable pptpServer thead username enable option form wireless channel5 Error extChannel wirelessBasic default value /usr/syno/etc/private/domain_user error share Custom single application/class /network_mgr/bonding/enable /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo lanIp ping tbody wirelessAdvanced Disable dyndns online /usr/syno/etc/private/diagnose pppoe channel Disconnected urlFilter /app_mgr/itunesserver/enable after update disable connected Login /syslog_server/enable class network broadcast lower wifi password_ switch Gateway apsd 
+	Number of Para source files: 80
+API: 
+	Hits API count: 43
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan Write 65 delStaticRoute getWanConnectStatus setDMZ /cgi-bin/upgrade delPortMapping setLan Read TW reboot Auth getQos Read/Write getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/34
+Strings count : 4153
+Para + API count : 180
+Para: 
+	Hits Para count: 137
+	Hits Para : 
+		checkbox /network_mgr/bonding/enable lanSet Width bandwidth /system_mgr/afp/enable /system_mgr/nfs/enable before dmzEn style upgrade /network_mgr/ddns/domain Connected hidden save string /usr/syno/etc/private/workgroup auto Register doReboot /private/ model/iges password ipsec success ddnsDomain button settings refresh model/mesh continue /usr/syno/etc/private/domain_group timeout security PPPoE upper domain right dmzHost /system_mgr/quota/enable static remove /etc/version /backup_mgr/rsyncd/enable description index Enable ssid /backup_mgr/time_machine/enable reboot label current version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable /usr/share/xt_ipp2p/appo_web power /mydlink/version /proc/version Manual model/vrml active Delete admin country disable Static login block Brazil upnpEn hostName private Start cancel /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script transfer ddnsStatus offset start /app_mgr/upnpavserver/enable pptpServer username enable option form wireless wanType Error /syslog_server/enable wanStatus account disconnected default value /usr/syno/etc/private/domain_user error display share Custom middle single width application/class ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping Disable dyndns online /usr/syno/etc/private/diagnose pppoe channel Disconnected normal /app_mgr/itunesserver/enable after update macAddr connected Login class network broadcast lower wifi Bound password_ model Speed Gateway 
+	Number of Para source files: 83
+API: 
+	Hits API count: 43
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan Write 65 delStaticRoute getWanConnectStatus setDMZ /cgi-bin/upgrade delPortMapping setLan Read TW reboot Auth getQos Read/Write getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/24
+Strings count : 4325
+Para + API count : 156
+Para: 
+	Hits Para count: 134
+	Hits Para : 
+		Canada restore /network_mgr/bonding/enable Width bandwidth /system_mgr/afp/enable /system_mgr/nfs/enable before upgrade message/rfc822 /network_mgr/ddns/domain /disk/syslogd_audit/index save string /usr/syno/etc/private/workgroup auto Register /private/ channel_5g model/iges password ipsec success settings button manual Obtain remove model/mesh tunnel Connected /usr/syno/etc/private/domain_group timeout ssid_ security PPPoE upper domain status_ France static /etc/version /backup_mgr/rsyncd/enable Pppoe description index Enable ssid /backup_mgr/time_machine/enable reboot current version connecting dhcp /network_mgr/ddns/enable localhost notice /usr/share/xt_ipp2p/appo_web usb3 power Tunnel /proc/version Manual /network_mgr/snmp/enable model/vrml Delete admin country Static login block /mydlink/version private Start /system_mgr/quota/enable Shared message /usr/share/xt_ipp2p/appe_list Status Australia guest script transfer custom start /app_mgr/upnpavserver/enable username enable option form wireless phone Error /syslog_server/enable disconnected default value Height /usr/syno/etc/private/domain_user error rssi display share width application/class Offline ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping Disable dyndns online /usr/syno/etc/private/diagnose pppoe channel Disconnected normal /app_mgr/itunesserver/enable after update disable connected Login expired class broadcast lower required password_ switch model Speed Gateway 
+	Number of Para source files: 72
+API: 
+	Hits API count: 22
+	Hits API : 
+		restore text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/40
+Strings count : 7012
+Para + API count : 159
+Para: 
+	Hits Para count: 135
+	Hits Para : 
+		restore qos_type /network_mgr/bonding/enable bandwidth /system_mgr/afp/enable /system_mgr/nfs/enable pointer before upgrade message/rfc822 /network_mgr/ddns/domain /sys/bus/usb/devices/usb1/idVendor save /sys/bus/usb/devices/usb1/idProduct string /usr/syno/etc/private/workgroup auto Register /private/ RSSI model/iges password ipsec success settings button manual remove model/mesh tunnel continue /usr/syno/etc/private/domain_group timeout ssid_ upper domain right status_ /system_mgr/quota/enable static /usr/share/xt_ipp2p/appo_web /etc/version /backup_mgr/rsyncd/enable index Enable ssid reboot label current version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable localhost notice after usb2 usb3 power usb1 Tunnel /proc/version model/vrml active admin country constructor connected login backup Automatical block /mydlink/version offset private Start cancel message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script transfer custom start /app_mgr/upnpavserver/enable username enable option form wireless phone Error /syslog_server/enable account disconnected default value /usr/syno/etc/private/domain_user error rssi wifi share single width application/class ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping detail Disable dyndns /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose pppoe channel description normal /app_mgr/itunesserver/enable wpapsk object update disable wired auth_mode_ class network broadcast lower required switch model Gateway 
+	Number of Para source files: 76
+API: 
+	Hits API count: 24
+	Hits API : 
+		restore text image/png Write 65 /cgi-bin/UploadCfg upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/22
+Strings count : 3840
+Para + API count : 172
+Para: 
+	Hits Para count: 127
+	Hits Para : 
+		checkbox background /mydlink/version bandwidth /system_mgr/afp/enable /system_mgr/nfs/enable pointer /network_mgr/bonding/enable style upgrade title black hidden save string /usr/syno/etc/private/workgroup auto Register doReboot /private/ channel_5g password ipsec success settings button manual remove portFilter form2 continue /usr/syno/etc/private/domain_group timeout ssid_ security remoteManage upper /system_mgr/quota/enable static wanIP /etc/version /backup_mgr/rsyncd/enable Pppoe index Enable ssid selected reboot label version /disk/syslogd_audit/index urlFilterEn dhcp /network_mgr/ddns/enable localhost /usr/share/xt_ipp2p/appo_web /usr/syno/etc/private/domain_user power /proc/version Delete remark admin Static login tunnel block dhcps upnpEn color float private height Start cancel Shared /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable script transfer custom start /app_mgr/upnpavserver/enable pptpServer username enable option form wireless remoteIP Error /syslog_server/enable pppoes account default value iframe error portFilterEn share Custom single width application/class /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo lanIp ping Disable /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose pppoe channel IPSec urlFilter /app_mgr/itunesserver/enable wpapsk update unused disable Login class lower Whitelist wifi switch Gateway 
+	Number of Para source files: 79
+API: 
+	Hits API count: 45
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan Write uploadPolicy delStaticRoute getWanConnectStatus /cgi-bin/UploadCfg setDMZ /cgi-bin/upgrade delPortMapping setLan Read TW reboot Auth getQos Read/Write getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable KR login text/css 65 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/9
+Strings count : 7092
+Para + API count : 150
+Para: 
+	Hits Para count: 128
+	Hits Para : 
+		restore /network_mgr/bonding/enable bandwidth /system_mgr/afp/enable /system_mgr/nfs/enable before style upgrade nodeName message/rfc822 black /network_mgr/ddns/domain save Optional string /usr/syno/etc/private/workgroup auto Register fileName /private/ model/iges password success manual refresh model/mesh tunnel continue /usr/syno/etc/private/domain_group timeout security upper domain status_ static remove /usr/share/xt_ipp2p/appo_web /etc/version /backup_mgr/rsyncd/enable index Enable network connectType reboot current version /disk/syslogd_audit/index template dhcp /network_mgr/ddns/enable notice usb2 power Tunnel /proc/version Manual portMirror model/vrml active lanMask Delete remark admin disable Static login backup block /mydlink/version offset private Start /system_mgr/quota/enable Shared message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script transfer Blacklist start /app_mgr/upnpavserver/enable enable option form broadcast phone Error /syslog_server/enable account disconnected default value below /usr/syno/etc/private/domain_user error share remoteEn single width application/class everyday /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping Disable /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose channel description normal /app_mgr/itunesserver/enable after update macAddr connected infinite Login class lower Bound password_ switch model Speed Gateway 
+	Number of Para source files: 82
+API: 
+	Hits API count: 22
+	Hits API : 
+		restore text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/usr/sbin/smbd
+Strings count : 9997
+Para + API count : 140
+Para: 
+	Hits Para count: 121
+	Hits Para : 
+		restore /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/nfs/enable pointer before upgrade message/rfc822 /network_mgr/ddns/domain hidden save string /usr/syno/etc/private/workgroup auto Register /private/ password success Start settings manual remove /usr/syno/etc/private/domain_group timeout security Transport upper domain right status_ relative /system_mgr/quota/enable static refresh /etc/version /backup_mgr/rsyncd/enable index Enable network bottom selected reboot label current version /disk/syslogd_audit/index template dhcp /network_mgr/ddns/enable localhost after /usr/share/xt_ipp2p/appo_web error offset active Delete remark admin country script login backup block /mydlink/version color private height visible cancel Shared message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest start transfer custom width /app_mgr/upnpavserver/enable writeable enable option form Error /syslog_server/enable account default value /usr/syno/etc/private/domain_user /proc/version display username share general application/class ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping readonly Disable /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose channel description normal /app_mgr/itunesserver/enable object update unused disable connected expired class lower required inherit password_ callback switch 
+	Number of Para source files: 76
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin restore upgrade Read TW 50 goform reboot Write KR Read/Write /cgi-bin/upgrade 65 Auth text login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/10
+Strings count : 3124
+Para + API count : 138
+Para: 
+	Hits Para count: 115
+	Hits Para : 
+		/network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/nfs/enable upgrade message/rfc822 setWireless Connected save string /usr/syno/etc/private/workgroup auto Register /private/ iPhone model/iges password success settings manual remove model/mesh /usr/syno/etc/private/domain_group timeout ssid_ security PPPoE upper right /system_mgr/quota/enable pingInfo /etc/version /backup_mgr/rsyncd/enable description index Enable ssid reboot current version connecting dhcp /network_mgr/ddns/enable /usr/share/xt_ipp2p/appo_web error Manual model/vrml active Russia Delete script Static connected login backup block /mydlink/version offset private Start Online cancel Shared message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest width start /app_mgr/upnpavserver/enable username enable option form wireless phone Error /syslog_server/enable default value /disk/syslogd_audit/index /usr/syno/etc/private/domain_user /proc/version static share Custom application/class ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping detail Disable /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose pppoe channel Disconnected normal /app_mgr/itunesserver/enable update disable wired infinite Login class network broadcast lower wifi password_ callback model Speed Gateway 
+	Number of Para source files: 71
+API: 
+	Hits API count: 23
+	Hits API : 
+		getPortMapping text image/png Write 65 upgrade delPortMapping Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/48
+Strings count : 3382
+Para + API count : 127
+Para: 
+	Hits Para count: 103
+	Hits Para : 
+		qos_type /network_mgr/bonding/enable bandwidth /system_mgr/afp/enable macAddr /system_mgr/nfs/enable upgrade message/rfc822 /network_mgr/ddns/domain Germany hidden save string /backup_mgr/time_machine/enable Register password ipsec settings button manual refresh timeout ssid_ security PPPoE upper domain France cancel static remove /etc/version /backup_mgr/rsyncd/enable Pppoe index Enable ssid selected reboot sysLog version /disk/syslogd_audit/index Upstream dhcp /network_mgr/ddns/enable power /proc/version /network_mgr/snmp/enable active Delete status1 status2 admin Static login backup block dhcps /mydlink/version color float /system_mgr/quota/enable message nowrap Status Australia width start /app_mgr/upnpavserver/enable username enable form broadcast channel5 Error /syslog_server/enable account default value error middle single application/class /download_mgr/p2p/enable Downstream ping Disable dyndns auto pppoe channel normal /app_mgr/itunesserver/enable wpapsk after update disable connected class network wireless wifi Gateway 
+	Number of Para source files: 70
+API: 
+	Hits API count: 24
+	Hits API : 
+		text image/png Write 65 upgrade Read TW reboot Auth Read/Write getWan image css goform /cgi-bin/upgrade png cgi-bin setQos /goform/getWan 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/25
+Strings count : 2619
+Para + API count : 132
+Para: 
+	Hits Para count: 110
+	Hits Para : 
+		/network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/nfs/enable upgrade setWireless Connected save string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable Register /private/ model/iges password success manual remove model/mesh natSet /usr/syno/etc/private/domain_group timeout ssid_ security PPPoE upper right cancel static /etc/version /backup_mgr/rsyncd/enable Disconnected index Enable network reboot current version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable /usr/share/xt_ipp2p/appo_web /proc/version Manual offset active Russia Delete Static wired login backup block /mydlink/version model/vrml private Start Online /system_mgr/quota/enable Shared /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script start /app_mgr/upnpavserver/enable username enable option form wireless Error /syslog_server/enable default value /usr/syno/etc/private/domain_user error pingInfo connecting share Custom width application/class ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping detail Disable auto /usr/syno/etc/private/diagnose pppoe channel description /app_mgr/itunesserver/enable update disable connected infinite Login class ssid broadcast lower wifi password_ callback model Speed Gateway 
+	Number of Para source files: 71
+API: 
+	Hits API count: 22
+	Hits API : 
+		getPortMapping text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/usr/sbin/nmbd
+Strings count : 4569
+Para + API count : 126
+Para: 
+	Hits Para count: 108
+	Hits Para : 
+		restore /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/nfs/enable pointer before upgrade message/rfc822 /network_mgr/ddns/domain hidden save string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable Register /private/ password success manual refresh /usr/syno/etc/private/domain_group timeout security upper domain right status_ cancel static remove /etc/version /backup_mgr/rsyncd/enable index Enable network label current version /disk/syslogd_audit/index template /network_mgr/ddns/enable localhost object /usr/share/xt_ipp2p/appo_web /proc/version offset active Delete admin login backup block /mydlink/version private Start /system_mgr/quota/enable Shared message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script transfer custom start /app_mgr/upnpavserver/enable writeable enable option form broadcast Error /syslog_server/enable account default value /usr/syno/etc/private/domain_user error display username share general application/class ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping readonly auto /usr/syno/etc/private/diagnose channel description normal /app_mgr/itunesserver/enable after update unused disable connected expired class lower required inherit password_ callback switch 
+	Number of Para source files: 72
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin restore upgrade Read TW 50 goform Auth Write KR Read/Write /cgi-bin/upgrade 65 text login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/43
+Strings count : 7808
+Para + API count : 151
+Para: 
+	Hits Para count: 106
+	Hits Para : 
+		/network_mgr/bonding/enable lanSet Width /system_mgr/afp/enable /system_mgr/nfs/enable pointer before style upgrade message/rfc822 black /network_mgr/ddns/domain Connected save string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable Register /private/ password success /usr/syno/etc/private/domain_group timeout ssid_ PPPoE upper domain right static /etc/version /backup_mgr/rsyncd/enable Pppoe index Enable ssid selected reboot netAccess version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable localhost /usr/share/xt_ipp2p/appo_web /proc/version Manual offset Delete admin country Static timeZone login /mydlink/version private Start Online /system_mgr/quota/enable message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable script start /app_mgr/upnpavserver/enable white newVersion username enable form broadcast Error /syslog_server/enable account default wifiSecurity value /usr/syno/etc/private/domain_user error share width application/class Offline /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping Disable dyndns auto /usr/syno/etc/private/diagnose pppoe IPSec Disconnected normal /app_mgr/itunesserver/enable after update disable connected Login class wireless lower wifi Speed Gateway 
+	Number of Para source files: 68
+API: 
+	Hits API count: 45
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan Write uploadPolicy delStaticRoute getWanConnectStatus /cgi-bin/UploadCfg setDMZ /cgi-bin/upgrade delPortMapping setLan Read TW reboot Auth getQos Read/Write getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable KR login text/css 65 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/70
+Strings count : 1782
+Para + API count : 132
+Para: 
+	Hits Para count: 110
+	Hits Para : 
+		restore /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/nfs/enable upgrade title black /network_mgr/ddns/domain /sys/bus/usb/devices/usb1/idVendor Others save /sys/bus/usb/devices/usb1/idProduct string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable online fileName /private/ model/iges password ipsec success button manual refresh model/mesh tunnel /usr/syno/etc/private/domain_group timeout PPPoE domain status_ static remove /usr/share/xt_ipp2p/appo_web /etc/version /backup_mgr/rsyncd/enable Enable ssid selected reboot label version dhcp /network_mgr/ddns/enable usb2 usb1 Tunnel error Manual model/vrml admin country message/rfc822 login backup block /mydlink/version private /system_mgr/quota/enable message /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script custom start /app_mgr/upnpavserver/enable white loginPwd username enable option form phone remoteIP Error /syslog_server/enable pppoes account default value /usr/syno/etc/private/domain_user /proc/version share general single application/class /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping detail Disable auto /usr/syno/etc/private/diagnose pppoe IPSec Register /app_mgr/itunesserver/enable object update disable connected Login class network lower password_ model 
+	Number of Para source files: 76
+API: 
+	Hits API count: 22
+	Hits API : 
+		restore text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/54
+Strings count : 2819
+Para + API count : 128
+Para: 
+	Hits Para count: 106
+	Hits Para : 
+		/network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/nfs/enable upgrade Connected save string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable Register /private/ model/iges password success settings manual remove model/mesh /usr/syno/etc/private/domain_group timeout ssid_ remoteManage PPPoE upper right static /etc/version /backup_mgr/rsyncd/enable Disconnected index Enable ssid reboot current version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable /usr/share/xt_ipp2p/appo_web /proc/version Manual offset active Russia Delete Static wired login backup block /mydlink/version hostName private Start Online /system_mgr/quota/enable Shared /usr/share/xt_ipp2p/appe_list Status /network_mgr/snmp/enable guest script start /app_mgr/upnpavserver/enable username enable form model/vrml wireless Error /syslog_server/enable default value /usr/syno/etc/private/domain_user error pingInfo connecting share Custom width application/class ascii /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping detail Disable auto /usr/syno/etc/private/diagnose pppoe channel description /app_mgr/itunesserver/enable update disable connected infinite Login class network broadcast lower password_ callback model Gateway 
+	Number of Para source files: 71
+API: 
+	Hits API count: 22
+	Hits API : 
+		getPortMapping text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/55
+Strings count : 4261
+Para + API count : 121
+Para: 
+	Hits Para count: 104
+	Hits Para : 
+		restore /network_mgr/bonding/enable /system_mgr/afp/enable unconnected /system_mgr/nfs/enable before upgrade title black /network_mgr/ddns/domain connecting save string /usr/syno/etc/private/workgroup weixin /backup_mgr/time_machine/enable online /private/ background password ipsec manual refresh /usr/syno/etc/private/domain_group ssid_ PPPoE upper domain status_ static remove /etc/version /backup_mgr/rsyncd/enable index ssid reboot onresize version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable notice /usr/share/xt_ipp2p/appo_web macFilter /proc/version Delete admin login backup block /mydlink/version color float private height /system_mgr/quota/enable /usr/share/xt_ipp2p/appe_list /network_mgr/snmp/enable guest script custom start /app_mgr/upnpavserver/enable white username enable option form wireless phone channel5 Error /syslog_server/enable resize account default value /usr/syno/etc/private/domain_user error share application/class /download_mgr/p2p/enable /usr/syno/etc/private/adsinfo ping detail dyndns auto /usr/syno/etc/private/diagnose pppoe channel Register description /app_mgr/itunesserver/enable update disable connected channel_5g class network broadcast lower wifi switch width 
+	Number of Para source files: 77
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin restore image/png upgrade TW image 50 goform reboot Auth /cgi-bin/upgrade png text login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/33
+Strings count : 2411
+Para + API count : 117
+Para: 
+	Hits Para count: 95
+	Hits Para : 
+		Canada restore checkbox /network_mgr/bonding/enable /system_mgr/afp/enable macAddr /system_mgr/nfs/enable upgrade message/rfc822 /network_mgr/ddns/domain Germany hidden save /backup_mgr/time_machine/enable Register model/iges password settings manual model/mesh Connected timeout ssid_ security PPPoE upper domain status_ France static /etc/version /backup_mgr/rsyncd/enable index Enable ssid selected reboot current sysLog version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable error Australia model/vrml Delete country Static login backup block dhcps /mydlink/version float Start /system_mgr/quota/enable message Status /network_mgr/snmp/enable start custom width /app_mgr/upnpavserver/enable username enable option form broadcast Error /syslog_server/enable account default value /proc/version single ascii /download_mgr/p2p/enable ping Disable dyndns auto pppoe channel /app_mgr/itunesserver/enable wpapsk update disable expired network wireless wifi green model Gateway 
+	Number of Para source files: 68
+API: 
+	Hits API count: 22
+	Hits API : 
+		restore text image/png Write 65 upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/81
+Strings count : 5082
+Para + API count : 103
+Para: 
+	Hits Para count: 91
+	Hits Para : 
+		restore /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/nfs/enable pointer message/rfc822 black /network_mgr/ddns/domain save string /usr/syno/etc/private/workgroup /backup_mgr/time_machine/enable Register fileName /private/ password success settings refresh /usr/syno/etc/private/domain_group timeout upper domain status_ relative static remove /etc/version /backup_mgr/rsyncd/enable index Enable current version /disk/syslogd_audit/index dhcp /network_mgr/ddns/enable localhost after /usr/share/xt_ipp2p/appo_web /proc/version offset Delete login backup block /mydlink/version float visible private Start /system_mgr/quota/enable message /usr/share/xt_ipp2p/appe_list /network_mgr/snmp/enable start /app_mgr/upnpavserver/enable username enable option /usr/syno/etc/private/adsinfo broadcast Error /syslog_server/enable resize default value /usr/syno/etc/private/domain_user error share general ascii /download_mgr/p2p/enable form ping detail auto /usr/syno/etc/private/diagnose pppoe normal /app_mgr/itunesserver/enable object update unused disable connected expired lower required inherit password_ callback 
+	Number of Para source files: 62
+API: 
+	Hits API count: 12
+	Hits API : 
+		goform restore TW 50 Auth KR login/Auth text login text/css css 65 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/59
+Strings count : 2336
+Para + API count : 100
+Para: 
+	Hits Para count: 82
+	Hits Para : 
+		/usr/syno/etc/private/diagnose /mydlink/version Delete /network_mgr/bonding/enable restore status_ offset remove private detail middle single /system_mgr/afp/enable static value application/class cancel /network_mgr/snmp/enable /etc/version /backup_mgr/rsyncd/enable ascii message /system_mgr/quota/enable string /system_mgr/nfs/enable index /download_mgr/p2p/enable power /backup_mgr/time_machine/enable message/rfc822 pointer ssid_ ping reboot label current start version /disk/syslogd_audit/index /app_mgr/itunesserver/enable dhcp save /usr/syno/etc/private/workgroup channel rssi enable /usr/syno/etc/private/domain_user form normal auto Register update model/vrml broadcast /private/ disable Error model/iges /syslog_server/enable class ssid wireless lower /proc/version /usr/syno/etc/private/adsinfo default /network_mgr/ddns/enable login wifi bandwidth refresh model/mesh /app_mgr/upnpavserver/enable switch width /usr/syno/etc/private/domain_group timeout error title model display block 
+	Number of Para source files: 64
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin restore upgrade css TW 50 goform reboot KR /cgi-bin/upgrade 65 Auth text login/Auth login text/css /cgi-bin/UploadCfg uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/usr/sbin/xtables-multi
+Strings count : 2206
+Para + API count : 62
+Para: 
+	Hits Para count: 52
+	Hits Para : 
+		upper /mydlink/version restore option Start single remove application/class /etc/version message network before Status index Register upgrade ssid message/rfc822 ping detail label current start version /disk/syslogd_audit/index above save Optional Delete notice after string form auto /proc/version update broadcast Error expired class ipsec admin lower default required value tunnel timeout error security display block 
+	Number of Para source files: 57
+API: 
+	Hits API count: 10
+	Hits API : 
+		cgi-bin restore /cgi-bin/upgrade text goform KR upgrade 65 text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/47
+Strings count : 653
+Para + API count : 75
+Para: 
+	Hits Para count: 61
+	Hits Para : 
+		upgrade /mydlink/version /usr/syno/etc/private/workgroup version restore remove private general Start /system_mgr/afp/enable static value /system_mgr/quota/enable Shared /etc/version /download_mgr/p2p/enable ssid_ /network_mgr/bonding/enable /system_mgr/nfs/enable Register /backup_mgr/rsyncd/enable ssid /backup_mgr/time_machine/enable script description reboot start /app_mgr/upnpavserver/enable Enable auto /usr/syno/etc/private/diagnose save /network_mgr/ddns/enable channel username enable option /usr/syno/etc/private/adsinfo /app_mgr/itunesserver/enable error update broadcast /network_mgr/snmp/enable /private/ disable connected channel_5g RSSI /syslog_server/enable password string Delete admin object network /usr/syno/etc/private/domain_group /usr/syno/etc/private/domain_user /proc/version rssi backup Disable 
+	Number of Para source files: 53
+API: 
+	Hits API count: 14
+	Hits API : 
+		cgi-bin restore upgrade TW 50 goform reboot Auth /cgi-bin/upgrade login/Auth text login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/19
+Strings count : 509
+Para + API count : 74
+Para: 
+	Hits Para count: 61
+	Hits Para : 
+		upgrade /mydlink/version right /network_mgr/bonding/enable restore share private general Start enable static /usr/syno/etc/private/domain_user Online /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list description /system_mgr/nfs/enable Register /download_mgr/p2p/enable form /backup_mgr/time_machine/enable script start version /app_mgr/itunesserver/enable /usr/syno/etc/private/diagnose save /usr/syno/etc/private/workgroup pppoe IPSec username object /usr/share/xt_ipp2p/appo_web option /usr/syno/etc/private/adsinfo auto error Offline /private/ disable connected value dhcp /syslog_server/enable ipsec password string Delete tunnel /network_mgr/ddns/enable remove /app_mgr/upnpavserver/enable network /system_mgr/afp/enable /usr/syno/etc/private/domain_group timeout /proc/version backup 
+	Number of Para source files: 55
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin restore /cgi-bin/upgrade text 50 goform Auth upgrade login/Auth TW login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/88
+Strings count : 645
+Para + API count : 73
+Para: 
+	Hits Para count: 59
+	Hits Para : 
+		/mydlink/version /network_mgr/bonding/enable color private Start bandwidth Permanent value cancel /etc/version /backup_mgr/rsyncd/enable /system_mgr/quota/enable description /system_mgr/nfs/enable Register /download_mgr/p2p/enable /usr/syno/etc/private/workgroup start custom width version Enable template /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose /network_mgr/ddns/enable username after /usr/syno/etc/private/domain_user /usr/syno/etc/private/adsinfo /app_mgr/itunesserver/enable enable error style wireless /private/ /network_mgr/snmp/enable background Error /syslog_server/enable Login password expired string guest account success admin script remove password_ /app_mgr/upnpavserver/enable /system_mgr/afp/enable /usr/syno/etc/private/domain_group timeout /proc/version title login block 
+	Number of Para source files: 50
+API: 
+	Hits API count: 14
+	Hits API : 
+		image/png png Read text image 50 Auth Write Read/Write login/Auth TW login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/29
+Strings count : 957
+Para + API count : 80
+Para: 
+	Hits Para count: 59
+	Hits Para : 
+		restore /mydlink/version /network_mgr/bonding/enable manual share detail Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status index Register /download_mgr/p2p/enable guest /backup_mgr/time_machine/enable script reboot /system_mgr/nfs/enable start version /disk/syslogd_audit/index /app_mgr/itunesserver/enable dhcp /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web description power auto online update phone /network_mgr/snmp/enable background model/vrml model/iges /syslog_server/enable password login success settings default country message message/rfc822 India remove model/mesh /app_mgr/upnpavserver/enable admin timeout /proc/version model backup block 
+	Number of Para source files: 48
+API: 
+	Hits API count: 21
+	Hits API : 
+		cgi-bin restore upgrade css Read TW 50 goform reboot Write KR Read/Write /cgi-bin/upgrade 65 Auth text login/Auth login text/css /cgi-bin/UploadCfg uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/96
+Strings count : 688
+Para + API count : 75
+Para: 
+	Hits Para count: 56
+	Hits Para : 
+		restore /mydlink/version checkbox /network_mgr/bonding/enable share domain Start /system_mgr/afp/enable static application/class /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status index Register /download_mgr/p2p/enable network /backup_mgr/time_machine/enable reboot /system_mgr/nfs/enable start version /disk/syslogd_audit/index /network_mgr/ddns/domain /app_mgr/itunesserver/enable dhcp /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power auto /proc/version update disable Error /syslog_server/enable password class guest admin default backup manual remove /app_mgr/upnpavserver/enable tunnel continue timeout error login Speed block 
+	Number of Para source files: 47
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin restore upgrade css Read TW 50 goform reboot Write Auth Read/Write /cgi-bin/upgrade uploadPolicy text login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/12
+Strings count : 497
+Para + API count : 58
+Para: 
+	Hits Para count: 47
+	Hits Para : 
+		upgrade upnpEn /network_mgr/bonding/enable Start ssid5 ssid2 remove /system_mgr/quota/enable /backup_mgr/rsyncd/enable /system_mgr/nfs/enable index Register /download_mgr/p2p/enable ssid /backup_mgr/time_machine/enable ping reboot start /app_mgr/upnpavserver/enable /disk/syslogd_audit/index Enable /app_mgr/itunesserver/enable dhcp save /network_mgr/ddns/enable pppoe channel username enable form auto object Manual /network_mgr/snmp/enable Error /syslog_server/enable Login password settings default wifi value /system_mgr/afp/enable timeout error static Gateway 
+	Number of Para source files: 49
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade text reboot goform Auth upgrade login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/85
+Strings count : 1013
+Para + API count : 95
+Para: 
+	Hits Para count: 57
+	Hits Para : 
+		upgrade domain right /network_mgr/bonding/enable Error /mydlink/version private model/iges /system_mgr/afp/enable /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version Status Register /download_mgr/p2p/enable form message/rfc822 reboot power start /app_mgr/upnpavserver/enable /network_mgr/ddns/domain version /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose white /usr/syno/etc/private/workgroup username enable string /usr/syno/etc/private/adsinfo /app_mgr/itunesserver/enable object update /private/ /network_mgr/snmp/enable model/vrml infinite /syslog_server/enable Login password login guest /proc/version success /system_mgr/nfs/enable /network_mgr/ddns/enable wifi remove model/mesh network /usr/syno/etc/private/domain_group /usr/syno/etc/private/domain_user error model Gateway 
+	Number of Para source files: 51
+API: 
+	Hits API count: 38
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan delStaticRoute getWanConnectStatus setDMZ /cgi-bin/upgrade delPortMapping setLan TW reboot Auth getQos getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/63
+Strings count : 817
+Para + API count : 75
+Para: 
+	Hits Para count: 51
+	Hits Para : 
+		restore /mydlink/version right /network_mgr/bonding/enable float share domain Start /system_mgr/afp/enable remove /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version Status index Register /download_mgr/p2p/enable guest message/rfc822 transfer reboot label current start version /disk/syslogd_audit/index /network_mgr/ddns/domain /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web string power /app_mgr/itunesserver/enable error slider /network_mgr/snmp/enable /system_mgr/nfs/enable /syslog_server/enable default manual refresh /app_mgr/upnpavserver/enable admin /proc/version login backup block /usr/share/xt_ipp2p/appe_list 
+	Number of Para source files: 45
+API: 
+	Hits API count: 24
+	Hits API : 
+		restore text image/png Write 65 /cgi-bin/UploadCfg upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth KR login text/css uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/7
+Strings count : 524
+Para + API count : 72
+Para: 
+	Hits Para count: 52
+	Hits Para : 
+		restore /mydlink/version /network_mgr/bonding/enable share detail Start bandwidth /system_mgr/afp/enable /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status index Register /download_mgr/p2p/enable guest /backup_mgr/time_machine/enable start reboot /system_mgr/nfs/enable current width version /disk/syslogd_audit/index /app_mgr/itunesserver/enable save /network_mgr/ddns/enable username custom enable /usr/share/xt_ipp2p/appo_web power auto error disable model/vrml model/iges /syslog_server/enable login settings default manual remove model/mesh /app_mgr/upnpavserver/enable admin timeout /proc/version model backup 
+	Number of Para source files: 46
+API: 
+	Hits API count: 20
+	Hits API : 
+		cgi-bin restore image/png upgrade png Read text image reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/usr/sbin/pppoe-server
+Strings count : 356
+Para + API count : 59
+Para: 
+	Hits Para count: 48
+	Hits Para : 
+		upgrade /mydlink/version right Tenda offset /system_mgr/afp/enable remove /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version /network_mgr/bonding/enable /system_mgr/nfs/enable index Register /download_mgr/p2p/enable network /backup_mgr/time_machine/enable message/rfc822 Pppoe current start version /disk/syslogd_audit/index /app_mgr/itunesserver/enable dhcp save /network_mgr/ddns/enable pppoe username enable option form auto error /network_mgr/snmp/enable Error /syslog_server/enable Login pppoes Delete default value /app_mgr/upnpavserver/enable timeout /proc/version login PPPoE 
+	Number of Para source files: 47
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin /cgi-bin/upgrade text login/Auth Auth KR upgrade 65 login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/92
+Strings count : 669
+Para + API count : 91
+Para: 
+	Hits Para count: 48
+	Hits Para : 
+		upper /mydlink/version /network_mgr/bonding/enable domain Start /system_mgr/afp/enable application/class /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /backup_mgr/rsyncd/enable pointer message /system_mgr/nfs/enable Register /download_mgr/p2p/enable script selected start version /network_mgr/ddns/domain /backup_mgr/time_machine/enable save /network_mgr/ddns/enable localhost username enable form /app_mgr/itunesserver/enable error update upgrade disable Error /syslog_server/enable Login password class Delete lower success default message/rfc822 Bound remove /app_mgr/upnpavserver/enable /proc/version login 
+	Number of Para source files: 44
+API: 
+	Hits API count: 43
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan Write uploadPolicy delStaticRoute getWanConnectStatus /cgi-bin/UploadCfg setDMZ /cgi-bin/upgrade delPortMapping setLan Read TW reboot Auth getQos Read/Write getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/42
+Strings count : 862
+Para + API count : 67
+Para: 
+	Hits Para count: 50
+	Hits Para : 
+		restore /mydlink/version checkbox /network_mgr/bonding/enable Register share Start /system_mgr/afp/enable remove application/class /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version Status index style /download_mgr/p2p/enable guest message/rfc822 reboot /usr/share/xt_ipp2p/appe_list start version /disk/syslogd_audit/index /backup_mgr/time_machine/enable hidden save /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web string power /app_mgr/itunesserver/enable error /network_mgr/snmp/enable /system_mgr/nfs/enable /syslog_server/enable password class account default manual value /app_mgr/upnpavserver/enable admin /proc/version backup display 
+	Number of Para source files: 52
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin restore image/png upgrade png Read text image reboot goform Write Read/Write /cgi-bin/upgrade uploadPolicy css text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/66
+Strings count : 1032
+Para + API count : 69
+Para: 
+	Hits Para count: 51
+	Hits Para : 
+		upper /mydlink/version /network_mgr/bonding/enable share model/iges /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable ascii /usr/share/xt_ipp2p/appe_list string /system_mgr/nfs/enable index Enable /download_mgr/p2p/enable script label start version /disk/syslogd_audit/index /backup_mgr/time_machine/enable /network_mgr/ddns/enable enable /usr/share/xt_ipp2p/appo_web description form normal /app_mgr/itunesserver/enable Register Manual lower unused /network_mgr/snmp/enable model/vrml active /syslog_server/enable password Delete account success default title remove model/mesh /app_mgr/upnpavserver/enable admin /proc/version model Disable block 
+	Number of Para source files: 50
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin image/png upgrade png Read text image reboot goform Write KR Read/Write /cgi-bin/upgrade 65 css text/css /cgi-bin/UploadCfg uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/30
+Strings count : 1072
+Para + API count : 71
+Para: 
+	Hits Para count: 55
+	Hits Para : 
+		upgrade /mydlink/version right /network_mgr/bonding/enable model/vrml private detail model/iges /system_mgr/afp/enable /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version string Status Register /download_mgr/p2p/enable form message/rfc822 reboot power start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose white /usr/syno/etc/private/workgroup enable /usr/syno/etc/private/domain_user /usr/syno/etc/private/adsinfo /app_mgr/itunesserver/enable object update /private/ /network_mgr/snmp/enable Error infinite /syslog_server/enable Login password login network /proc/version success /system_mgr/nfs/enable /network_mgr/ddns/enable wifi remove model/mesh /usr/syno/etc/private/domain_group timeout error model Gateway 
+	Number of Para source files: 49
+API: 
+	Hits API count: 16
+	Hits API : 
+		cgi-bin image/png upgrade text image 50 goform reboot Auth /cgi-bin/upgrade png TW login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/80
+Strings count : 728
+Para + API count : 67
+Para: 
+	Hits Para count: 46
+	Hits Para : 
+		restore /mydlink/version /network_mgr/bonding/enable float share Start /system_mgr/afp/enable remove /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status error /download_mgr/p2p/enable guest transfer delTime reboot label current start version /backup_mgr/time_machine/enable save /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web string power /app_mgr/itunesserver/enable Register /network_mgr/snmp/enable /system_mgr/nfs/enable /syslog_server/enable lower default manual refresh /app_mgr/upnpavserver/enable admin timeout /proc/version login backup 
+	Number of Para source files: 45
+API: 
+	Hits API count: 21
+	Hits API : 
+		cgi-bin restore upgrade css Read TW 50 goform reboot Write KR Read/Write /cgi-bin/upgrade 65 Auth text login/Auth login text/css /cgi-bin/UploadCfg uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/14
+Strings count : 1144
+Para + API count : 86
+Para: 
+	Hits Para count: 48
+	Hits Para : 
+		upgrade domain right /network_mgr/bonding/enable Error /mydlink/version model/iges /system_mgr/afp/enable /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version Status Register /download_mgr/p2p/enable power message/rfc822 reboot start /app_mgr/upnpavserver/enable /network_mgr/ddns/domain version /backup_mgr/time_machine/enable white /network_mgr/ddns/enable username enable string form /app_mgr/itunesserver/enable object update /network_mgr/snmp/enable model/vrml infinite /syslog_server/enable Login password login guest /proc/version success /system_mgr/nfs/enable remove model/mesh network error model 
+	Number of Para source files: 49
+API: 
+	Hits API count: 38
+	Hits API : 
+		restore setWan getPortMapping setNetwork text image/png getLan delStaticRoute getWanConnectStatus setDMZ /cgi-bin/upgrade delPortMapping setLan TW reboot Auth getQos getWan getSysLog /goform/getWanConnectStatus getNetwork image css getMacFilter getUSB goform upgrade getDDNS png cgi-bin setQos setMacFilter /goform/getWan 50 login/Auth getRoutingTable login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/71
+Strings count : 773
+Para + API count : 65
+Para: 
+	Hits Para count: 46
+	Hits Para : 
+		restore /mydlink/version /network_mgr/bonding/enable manual share /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status index /download_mgr/p2p/enable guest script reboot /system_mgr/nfs/enable start version /disk/syslogd_audit/index /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web description power /app_mgr/itunesserver/enable Register update phone /network_mgr/snmp/enable /syslog_server/enable password success settings default country India remove /app_mgr/upnpavserver/enable admin timeout /proc/version login backup 
+	Number of Para source files: 42
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin restore upgrade css Read TW 50 goform reboot Write Auth Read/Write /cgi-bin/upgrade uploadPolicy text login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/usr/sbin/pppdv2
+Strings count : 415
+Para + API count : 49
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		restore /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/quota/enable /network_mgr/snmp/enable /backup_mgr/rsyncd/enable /system_mgr/nfs/enable index Register /download_mgr/p2p/enable network /backup_mgr/time_machine/enable start /app_mgr/upnpavserver/enable /disk/syslogd_audit/index /app_mgr/itunesserver/enable dhcp hidden /network_mgr/ddns/enable pppoe channel username enable option auto online update disable connected active /syslog_server/enable Login password expired disconnected default timeout callback behavior error login 
+	Number of Para source files: 45
+API: 
+	Hits API count: 8
+	Hits API : 
+		restore text goform Auth login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/39
+Strings count : 447
+Para + API count : 50
+Para: 
+	Hits Para count: 42
+	Hits Para : 
+		domain /network_mgr/bonding/enable /system_mgr/quota/enable /system_mgr/afp/enable value cancel /network_mgr/snmp/enable /backup_mgr/rsyncd/enable Enable Status index Register /download_mgr/p2p/enable ssid start /system_mgr/nfs/enable width /app_mgr/upnpavserver/enable /disk/syslogd_audit/index /network_mgr/ddns/domain /backup_mgr/time_machine/enable hidden /network_mgr/ddns/enable channel enable option power /app_mgr/itunesserver/enable wpapsk object update wireless disable Error /syslog_server/enable settings default button wifi remove timeout error 
+	Number of Para source files: 41
+API: 
+	Hits API count: 8
+	Hits API : 
+		text 50 login/Auth Auth TW login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/86
+Strings count : 295
+Para + API count : 50
+Para: 
+	Hits Para count: 37
+	Hits Para : 
+		domain model/vrml private Custom Status ssid title current start /network_mgr/ddns/domain /usr/syno/etc/private/diagnose /usr/syno/etc/private/workgroup username /usr/syno/etc/private/adsinfo Register lower wireless /private/ Error model/iges Login password expired login account success default required value model/mesh admin form /usr/syno/etc/private/domain_group /usr/syno/etc/private/domain_user error ssid_ model 
+	Number of Para source files: 33
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin upgrade css TW 50 login/Auth Auth /cgi-bin/upgrade uploadPolicy text login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/78
+Strings count : 272
+Para + API count : 60
+Para: 
+	Hits Para count: 46
+	Hits Para : 
+		/mydlink/version /network_mgr/bonding/enable Register color share height /system_mgr/afp/enable application/class /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list /system_mgr/nfs/enable index style /download_mgr/p2p/enable /backup_mgr/time_machine/enable script reboot label start version /disk/syslogd_audit/index /app_mgr/itunesserver/enable dhcp /network_mgr/ddns/enable pppoe enable /usr/share/xt_ipp2p/appo_web form auto error update /network_mgr/snmp/enable background Error /syslog_server/enable class button title refresh display /app_mgr/upnpavserver/enable /proc/version login width 
+	Number of Para source files: 53
+API: 
+	Hits API count: 14
+	Hits API : 
+		image/png TW image getLan 50 goform reboot Auth png text login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/72
+Strings count : 735
+Para + API count : 66
+Para: 
+	Hits Para count: 44
+	Hits Para : 
+		restore /mydlink/version /network_mgr/bonding/enable share remove Start /system_mgr/afp/enable refresh /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status index Register Enable /download_mgr/p2p/enable guest script reboot /system_mgr/nfs/enable start version /disk/syslogd_audit/index /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web option power /app_mgr/itunesserver/enable error /network_mgr/snmp/enable /syslog_server/enable password default manual value /app_mgr/upnpavserver/enable admin /proc/version backup block 
+	Number of Para source files: 42
+API: 
+	Hits API count: 22
+	Hits API : 
+		restore text image/png Write uploadPolicy /cgi-bin/UploadCfg upgrade Read TW reboot Auth Read/Write image css goform /cgi-bin/upgrade png cgi-bin 50 login/Auth login text/css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/69
+Strings count : 638
+Para + API count : 63
+Para: 
+	Hits Para count: 43
+	Hits Para : 
+		restore /mydlink/version version share Start /system_mgr/afp/enable /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list /network_mgr/bonding/enable Status Register /download_mgr/p2p/enable guest ping reboot /system_mgr/nfs/enable start Disable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power /app_mgr/itunesserver/enable error Manual disable /syslog_server/enable password default manual remove /app_mgr/upnpavserver/enable admin timeout /proc/version login backup block 
+	Number of Para source files: 39
+API: 
+	Hits API count: 20
+	Hits API : 
+		cgi-bin restore image/png upgrade png Read text image reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/61
+Strings count : 519
+Para + API count : 64
+Para: 
+	Hits Para count: 44
+	Hits Para : 
+		restore /mydlink/version /network_mgr/bonding/enable share reboot Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status index Register /download_mgr/p2p/enable guest detail /system_mgr/nfs/enable start version /disk/syslogd_audit/index /backup_mgr/time_machine/enable hidden save /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power /app_mgr/itunesserver/enable error fileName /network_mgr/snmp/enable /syslog_server/enable account default manual value /app_mgr/upnpavserver/enable admin timeout /proc/version login backup 
+	Number of Para source files: 45
+API: 
+	Hits API count: 20
+	Hits API : 
+		cgi-bin restore image/png upgrade png Read text image reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/97
+Strings count : 535
+Para + API count : 63
+Para: 
+	Hits Para count: 43
+	Hits Para : 
+		restore /mydlink/version /backup_mgr/rsyncd/enable version share detail Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /download_mgr/p2p/enable /usr/share/xt_ipp2p/appe_list /network_mgr/bonding/enable Status Register /network_mgr/snmp/enable power script reboot /system_mgr/nfs/enable start /app_mgr/upnpavserver/enable Enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web description form /app_mgr/itunesserver/enable error update disable /syslog_server/enable guest default manual admin timeout /proc/version login backup 
+	Number of Para source files: 45
+API: 
+	Hits API count: 20
+	Hits API : 
+		cgi-bin restore image/png upgrade png Read text image reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/8
+Strings count : 902
+Para + API count : 61
+Para: 
+	Hits Para count: 45
+	Hits Para : 
+		upgrade /mydlink/version right /network_mgr/bonding/enable model/vrml infinite /system_mgr/afp/enable /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version Status Register /download_mgr/p2p/enable power message/rfc822 reboot start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable white /network_mgr/ddns/enable enable string form /app_mgr/itunesserver/enable object update /network_mgr/snmp/enable offset model/iges /syslog_server/enable Login password login network /proc/version success /system_mgr/nfs/enable remove model/mesh error model block 
+	Number of Para source files: 46
+API: 
+	Hits API count: 16
+	Hits API : 
+		cgi-bin image/png upgrade text image 50 goform reboot Auth /cgi-bin/upgrade png TW login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/32
+Strings count : 1037
+Para + API count : 61
+Para: 
+	Hits Para count: 45
+	Hits Para : 
+		upgrade /mydlink/version right /network_mgr/bonding/enable infinite /system_mgr/afp/enable /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version Status Register /download_mgr/p2p/enable power message/rfc822 reboot start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable white /network_mgr/ddns/enable enable string form /app_mgr/itunesserver/enable object update /network_mgr/snmp/enable model/vrml model/iges /syslog_server/enable Login password login network /proc/version success /system_mgr/nfs/enable wifi remove model/mesh error model Gateway 
+	Number of Para source files: 48
+API: 
+	Hits API count: 16
+	Hits API : 
+		cgi-bin image/png upgrade text image 50 goform reboot Auth /cgi-bin/upgrade png TW login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/46
+Strings count : 796
+Para + API count : 49
+Para: 
+	Hits Para count: 36
+	Hits Para : 
+		upper /mydlink/version private Custom Start Shared /etc/version message string Status Enable /usr/syno/etc/private/workgroup script start version Connected /usr/syno/etc/private/diagnose username Register /usr/syno/etc/private/domain_user /usr/syno/etc/private/adsinfo error Manual /private/ Login password network lower success Width admin message/rfc822 /usr/syno/etc/private/domain_group timeout /proc/version login 
+	Number of Para source files: 32
+API: 
+	Hits API count: 13
+	Hits API : 
+		Read TW 50 Auth Write KR Read/Write login/Auth text login text/css css 65 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/41
+Strings count : 705
+Para + API count : 52
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		/mydlink/version right color model/vrml private Start /usr/syno/etc/private/domain_user application/class /etc/version message string Status index style /usr/syno/etc/private/workgroup message/rfc822 class start version /disk/syslogd_audit/index /usr/syno/etc/private/diagnose option /usr/syno/etc/private/adsinfo error /private/ Error model/iges Transport guest lower admin required value model/mesh script /usr/syno/etc/private/domain_group timeout /proc/version login model block 
+	Number of Para source files: 32
+API: 
+	Hits API count: 11
+	Hits API : 
+		text image 50 login/Auth text/css Auth css TW login image/png png 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/44
+Strings count : 400
+Para + API count : 45
+Para: 
+	Hits Para count: 39
+	Hits Para : 
+		/network_mgr/bonding/enable Custom Start /system_mgr/afp/enable static value /system_mgr/quota/enable /backup_mgr/rsyncd/enable /system_mgr/nfs/enable index Register /download_mgr/p2p/enable ping custom start /app_mgr/upnpavserver/enable /disk/syslogd_audit/index Enable /backup_mgr/time_machine/enable dhcp Delete /network_mgr/ddns/enable enable string form /app_mgr/itunesserver/enable object /network_mgr/snmp/enable Error /syslog_server/enable ipsec settings default wifi remove Static timeout error Gateway 
+	Number of Para source files: 37
+API: 
+	Hits API count: 6
+	Hits API : 
+		text login/Auth Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/62
+Strings count : 980
+Para + API count : 63
+Para: 
+	Hits Para count: 43
+	Hits Para : 
+		upper /mydlink/version /network_mgr/bonding/enable restore share Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable ascii /usr/share/xt_ipp2p/appe_list Status index Register /download_mgr/p2p/enable guest script reboot /system_mgr/nfs/enable start version /disk/syslogd_audit/index /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power /app_mgr/itunesserver/enable error Manual /network_mgr/snmp/enable /syslog_server/enable default title manual /app_mgr/upnpavserver/enable admin timeout /proc/version login backup 
+	Number of Para source files: 44
+API: 
+	Hits API count: 20
+	Hits API : 
+		cgi-bin restore image/png upgrade png Read text image reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/17
+Strings count : 469
+Para + API count : 50
+Para: 
+	Hits Para count: 44
+	Hits Para : 
+		portFilterEn /network_mgr/bonding/enable dhcp private single enable /system_mgr/quota/enable /network_mgr/snmp/enable /backup_mgr/rsyncd/enable /system_mgr/nfs/enable index /download_mgr/p2p/enable /usr/syno/etc/private/workgroup ping start /app_mgr/upnpavserver/enable /disk/syslogd_audit/index Enable /backup_mgr/time_machine/enable /usr/syno/etc/private/diagnose /network_mgr/ddns/enable portFilter object timeout /usr/syno/etc/private/adsinfo /app_mgr/itunesserver/enable Register /private/ disable Error /syslog_server/enable Delete success settings default wifi value /system_mgr/afp/enable /usr/syno/etc/private/domain_group /usr/syno/etc/private/domain_user error remoteManage Gateway block 
+	Number of Para source files: 34
+API: 
+	Hits API count: 6
+	Hits API : 
+		text login/Auth Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/87
+Strings count : 473
+Para + API count : 59
+Para: 
+	Hits Para count: 40
+	Hits Para : 
+		restore /mydlink/version /network_mgr/bonding/enable share Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status Register /download_mgr/p2p/enable guest script reboot /system_mgr/nfs/enable start version /backup_mgr/time_machine/enable dhcp /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web description power /app_mgr/itunesserver/enable error /network_mgr/snmp/enable /syslog_server/enable default manual remove /app_mgr/upnpavserver/enable admin timeout /proc/version login backup 
+	Number of Para source files: 39
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin restore upgrade Read text reboot goform Auth Write KR Read/Write /cgi-bin/upgrade 65 css login/Auth login text/css /cgi-bin/UploadCfg uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/79
+Strings count : 394
+Para + API count : 58
+Para: 
+	Hits Para count: 41
+	Hits Para : 
+		restore /mydlink/version checkbox /network_mgr/bonding/enable share Start /system_mgr/afp/enable /system_mgr/quota/enable message /backup_mgr/rsyncd/enable /etc/version Status Register /download_mgr/p2p/enable guest message/rfc822 reboot /usr/share/xt_ipp2p/appe_list start version /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power /app_mgr/itunesserver/enable error /network_mgr/snmp/enable /system_mgr/nfs/enable /syslog_server/enable account default manual value /app_mgr/upnpavserver/enable admin timeout /proc/version login backup 
+	Number of Para source files: 37
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin restore upgrade Read text reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/67
+Strings count : 405
+Para + API count : 58
+Para: 
+	Hits Para count: 39
+	Hits Para : 
+		restore /mydlink/version version share Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list /network_mgr/bonding/enable Status Register /download_mgr/p2p/enable guest /backup_mgr/time_machine/enable reboot /system_mgr/nfs/enable start /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable save /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power auto error /network_mgr/snmp/enable /syslog_server/enable default manual remove admin timeout /proc/version login backup 
+	Number of Para source files: 40
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin restore upgrade Read text reboot goform Auth Write KR Read/Write /cgi-bin/upgrade 65 css login/Auth login text/css /cgi-bin/UploadCfg uploadPolicy 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/58
+Strings count : 515
+Para + API count : 56
+Para: 
+	Hits Para count: 39
+	Hits Para : 
+		restore /mydlink/version version share Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list /network_mgr/bonding/enable Status Register /download_mgr/p2p/enable guest /backup_mgr/time_machine/enable reboot /system_mgr/nfs/enable start /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power auto error Manual update /network_mgr/snmp/enable /syslog_server/enable default manual admin timeout /proc/version login backup 
+	Number of Para source files: 37
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin restore upgrade Read text reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/1
+Strings count : 438
+Para + API count : 42
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		upper Custom Start message Status index network script reboot start /disk/syslogd_audit/index save object string form Register lower Error account message/rfc822 value timeout error Gateway 
+	Number of Para source files: 34
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin upgrade css Read TW 50 goform reboot Write Auth Read/Write /cgi-bin/upgrade uploadPolicy text login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/84
+Strings count : 690
+Para + API count : 59
+Para: 
+	Hits Para count: 43
+	Hits Para : 
+		/mydlink/version /network_mgr/bonding/enable share /system_mgr/afp/enable remove /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status index Register /download_mgr/p2p/enable /backup_mgr/time_machine/enable reboot /system_mgr/nfs/enable start version /disk/syslogd_audit/index /app_mgr/itunesserver/enable /network_mgr/ddns/enable enable /usr/share/xt_ipp2p/appo_web option form auto error lower update unused /network_mgr/snmp/enable model/vrml model/iges /syslog_server/enable account success admin refresh model/mesh /app_mgr/upnpavserver/enable /proc/version model block 
+	Number of Para source files: 37
+API: 
+	Hits API count: 16
+	Hits API : 
+		cgi-bin image/png upgrade png Read text image reboot goform Write Read/Write /cgi-bin/upgrade uploadPolicy css text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/51
+Strings count : 406
+Para + API count : 53
+Para: 
+	Hits Para count: 40
+	Hits Para : 
+		/mydlink/version /network_mgr/bonding/enable share /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /backup_mgr/rsyncd/enable /usr/share/xt_ipp2p/appe_list Status index Register /download_mgr/p2p/enable /backup_mgr/time_machine/enable script /system_mgr/nfs/enable start version /disk/syslogd_audit/index template /app_mgr/itunesserver/enable save /network_mgr/ddns/enable enable /usr/share/xt_ipp2p/appo_web string form auto object update /network_mgr/snmp/enable /syslog_server/enable password Delete settings default value /app_mgr/upnpavserver/enable admin /proc/version login 
+	Number of Para source files: 41
+API: 
+	Hits API count: 13
+	Hits API : 
+		Read TW 50 Auth Write KR Read/Write login/Auth text login text/css css 65 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/53
+Strings count : 508
+Para + API count : 58
+Para: 
+	Hits Para count: 38
+	Hits Para : 
+		restore /mydlink/version /backup_mgr/rsyncd/enable /network_mgr/bonding/enable share Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /system_mgr/nfs/enable /usr/share/xt_ipp2p/appe_list Status Register /download_mgr/p2p/enable guest reboot start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power /app_mgr/itunesserver/enable /proc/version Manual /network_mgr/snmp/enable /syslog_server/enable admin manual default timeout error login backup block 
+	Number of Para source files: 36
+API: 
+	Hits API count: 20
+	Hits API : 
+		cgi-bin restore image/png upgrade png Read text image reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/28
+Strings count : 307
+Para + API count : 55
+Para: 
+	Hits Para count: 38
+	Hits Para : 
+		restore /mydlink/version /backup_mgr/rsyncd/enable /network_mgr/bonding/enable share Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /system_mgr/nfs/enable /usr/share/xt_ipp2p/appe_list Status /download_mgr/p2p/enable guest reboot start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power /app_mgr/itunesserver/enable Register /network_mgr/snmp/enable /syslog_server/enable account admin manual remove default timeout /proc/version login backup block 
+	Number of Para source files: 34
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin restore upgrade Read text reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/6
+Strings count : 391
+Para + API count : 54
+Para: 
+	Hits Para count: 37
+	Hits Para : 
+		restore /mydlink/version /backup_mgr/rsyncd/enable /network_mgr/bonding/enable share Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /system_mgr/nfs/enable /usr/share/xt_ipp2p/appe_list Status Register /download_mgr/p2p/enable guest reboot start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web string power /app_mgr/itunesserver/enable /proc/version /network_mgr/snmp/enable /syslog_server/enable admin manual default timeout error login backup 
+	Number of Para source files: 35
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin restore upgrade Read text reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/27
+Strings count : 729
+Para + API count : 48
+Para: 
+	Hits Para count: 34
+	Hits Para : 
+		upper domain /backup_mgr/rsyncd/enable /network_mgr/bonding/enable Start /system_mgr/afp/enable /system_mgr/quota/enable /network_mgr/snmp/enable /system_mgr/nfs/enable index /download_mgr/p2p/enable network ping current start /app_mgr/upnpavserver/enable /disk/syslogd_audit/index /network_mgr/ddns/domain /backup_mgr/time_machine/enable save /network_mgr/ddns/enable enable form /app_mgr/itunesserver/enable Register disable /syslog_server/enable lower success value block error security Transport 
+	Number of Para source files: 34
+API: 
+	Hits API count: 14
+	Hits API : 
+		goform image/png png Read text image getLan Auth Write Read/Write login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/100
+Strings count : 195
+Para + API count : 43
+Para: 
+	Hits Para count: 37
+	Hits Para : 
+		/mydlink/version /backup_mgr/rsyncd/enable /network_mgr/bonding/enable share /system_mgr/afp/enable /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /system_mgr/nfs/enable /usr/share/xt_ipp2p/appe_list before Status /download_mgr/p2p/enable ping current start /app_mgr/upnpavserver/enable version /app_mgr/itunesserver/enable dhcp /network_mgr/ddns/enable pppoe username enable /usr/share/xt_ipp2p/appo_web string /backup_mgr/time_machine/enable Register update Enable Error /syslog_server/enable password Delete /proc/version default error 
+	Number of Para source files: 31
+API: 
+	Hits API count: 6
+	Hits API : 
+		text image text/css css image/png png 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/49
+Strings count : 469
+Para + API count : 40
+Para: 
+	Hits Para count: 32
+	Hits Para : 
+		/mydlink/version Error share private Custom model/iges /etc/version /usr/share/xt_ipp2p/appe_list Status /usr/syno/etc/private/adsinfo custom current start version /usr/syno/etc/private/diagnose /usr/syno/etc/private/workgroup /usr/share/xt_ipp2p/appo_web form Register /private/ model/vrml active Login model /proc/version default wifi model/mesh /usr/syno/etc/private/domain_group /usr/syno/etc/private/domain_user error login 
+	Number of Para source files: 28
+API: 
+	Hits API count: 8
+	Hits API : 
+		text 50 login/Auth Auth TW login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/35
+Strings count : 384
+Para + API count : 33
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		/mydlink/version private static application/class /etc/version /usr/syno/etc/private/adsinfo detail current start version black /usr/syno/etc/private/diagnose white /usr/syno/etc/private/workgroup object string form normal Register /private/ class /proc/version value constructor callback /usr/syno/etc/private/domain_group /usr/syno/etc/private/domain_user error 
+	Number of Para source files: 30
+API: 
+	Hits API count: 5
+	Hits API : 
+		50 text text/css css TW 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/94
+Strings count : 269
+Para + API count : 51
+Para: 
+	Hits Para count: 34
+	Hits Para : 
+		restore /mydlink/version /backup_mgr/rsyncd/enable /network_mgr/bonding/enable share Start /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /system_mgr/nfs/enable /usr/share/xt_ipp2p/appe_list /download_mgr/p2p/enable guest reboot start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /usr/share/xt_ipp2p/appo_web power /app_mgr/itunesserver/enable Register /network_mgr/snmp/enable /syslog_server/enable admin manual default timeout /proc/version login backup 
+	Number of Para source files: 30
+API: 
+	Hits API count: 17
+	Hits API : 
+		cgi-bin restore upgrade Read text reboot goform Auth Write Read/Write /cgi-bin/upgrade uploadPolicy css login/Auth login text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/68
+Strings count : 339
+Para + API count : 27
+Para: 
+	Hits Para count: 19
+	Hits Para : 
+		index domain Enable string object country error value wifi Register start /disk/syslogd_audit/index /network_mgr/ddns/domain timeout Error Login password login settings 
+	Number of Para source files: 27
+API: 
+	Hits API count: 8
+	Hits API : 
+		text reboot goform Auth login/Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/38
+Strings count : 184
+Para + API count : 26
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		index lower error version /mydlink/version Register update start Error disable /disk/syslogd_audit/index Enable timeout RSSI dhcp /etc/version connected Disable channel /proc/version 
+	Number of Para source files: 29
+API: 
+	Hits API count: 6
+	Hits API : 
+		text login/Auth Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/82
+Strings count : 197
+Para + API count : 29
+Para: 
+	Hits Para count: 20
+	Hits Para : 
+		Status index /mydlink/version /proc/version string form message/rfc822 admin start Register value default float version /disk/syslogd_audit/index error message password /etc/version option 
+	Number of Para source files: 27
+API: 
+	Hits API count: 9
+	Hits API : 
+		Read text image text/css Write Read/Write css image/png png 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/11
+Strings count : 259
+Para + API count : 38
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		/mydlink/version /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /system_mgr/nfs/enable index /download_mgr/p2p/enable script reboot start /app_mgr/upnpavserver/enable /disk/syslogd_audit/index version /backup_mgr/time_machine/enable save /network_mgr/ddns/enable enable form /app_mgr/itunesserver/enable Register Enable /syslog_server/enable /proc/version settings wifi object error 
+	Number of Para source files: 33
+API: 
+	Hits API count: 8
+	Hits API : 
+		text getLan 50 goform reboot TW text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/99
+Strings count : 253
+Para + API count : 30
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		style Register form script default title error /mydlink/version start width version application/class Error dhcp /etc/version class /proc/version 
+	Number of Para source files: 32
+API: 
+	Hits API count: 13
+	Hits API : 
+		cgi-bin image/png upgrade png css TW image 50 /cgi-bin/upgrade uploadPolicy text text/css /cgi-bin/UploadCfg 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/45
+Strings count : 224
+Para + API count : 27
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		style Register success form script update error reboot object wifi start Error settings 
+	Number of Para source files: 25
+API: 
+	Hits API count: 14
+	Hits API : 
+		Read TW getLan 50 goform reboot Write Auth Read/Write login/Auth text login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/usr/bin/vmstat
+Strings count : 301
+Para + API count : 22
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		/mydlink/version error normal default required update Register switch version above /proc/version active Shared /etc/version start block 
+	Number of Para source files: 21
+API: 
+	Hits API count: 6
+	Hits API : 
+		Read text Write Read/Write text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/98
+Strings count : 249
+Para + API count : 38
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		/mydlink/version /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /system_mgr/nfs/enable /download_mgr/p2p/enable script reboot start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable save /network_mgr/ddns/enable enable form /app_mgr/itunesserver/enable Register Enable /syslog_server/enable /proc/version settings object error 
+	Number of Para source files: 31
+API: 
+	Hits API count: 11
+	Hits API : 
+		image/png text image getLan reboot goform 50 png TW text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/95
+Strings count : 270
+Para + API count : 26
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		username /mydlink/version /proc/version /usr/share/xt_ipp2p/appo_web guest success admin Register share account start version timeout error login /etc/version /usr/share/xt_ipp2p/appe_list 
+	Number of Para source files: 16
+API: 
+	Hits API count: 9
+	Hits API : 
+		Read text login/Auth Write Read/Write Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/93
+Strings count : 196
+Para + API count : 37
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		/mydlink/version /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/quota/enable /etc/version /system_mgr/nfs/enable style /download_mgr/p2p/enable script reboot start /app_mgr/upnpavserver/enable version /backup_mgr/time_machine/enable /network_mgr/ddns/enable enable form /app_mgr/itunesserver/enable Register update /network_mgr/snmp/enable /syslog_server/enable /proc/version object error 
+	Number of Para source files: 29
+API: 
+	Hits API count: 11
+	Hits API : 
+		image/png text image getLan reboot goform 50 png TW text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/90
+Strings count : 208
+Para + API count : 15
+Para: 
+	Hits Para count: 12
+	Hits Para : 
+		index wifi settings Register object start /disk/syslogd_audit/index static Static error dhcp save 
+	Number of Para source files: 20
+API: 
+	Hits API count: 3
+	Hits API : 
+		text text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/65
+Strings count : 263
+Para + API count : 24
+Para: 
+	Hits Para count: 16
+	Hits Para : 
+		model /mydlink/version /proc/version version model/vrml Register remove model/mesh start Disable Error model/iges hidden password /etc/version Delete 
+	Number of Para source files: 16
+API: 
+	Hits API count: 8
+	Hits API : 
+		Read text 50 Write Read/Write TW text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/usr/sbin/smbpasswd
+Strings count : 196
+Para + API count : 23
+Para: 
+	Hits Para count: 17
+	Hits Para : 
+		username option /usr/syno/etc/private/adsinfo message/rfc822 default Register value start /private/ private /usr/syno/etc/private/domain_user error /usr/syno/etc/private/diagnose message password /usr/syno/etc/private/workgroup /usr/syno/etc/private/domain_group 
+	Number of Para source files: 18
+API: 
+	Hits API count: 6
+	Hits API : 
+		Read text Write Read/Write text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/56
+Strings count : 232
+Para + API count : 21
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		username /mydlink/version /proc/version /usr/share/xt_ipp2p/appo_web success admin Register share start version timeout error login /etc/version /usr/share/xt_ipp2p/appe_list 
+	Number of Para source files: 15
+API: 
+	Hits API count: 6
+	Hits API : 
+		text login/Auth Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/4
+Strings count : 402
+Para + API count : 32
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		domain /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /mydlink/version /system_mgr/afp/enable /system_mgr/quota/enable /network_mgr/snmp/enable /etc/version /system_mgr/nfs/enable /download_mgr/p2p/enable start /app_mgr/upnpavserver/enable /network_mgr/ddns/domain version /backup_mgr/time_machine/enable save /network_mgr/ddns/enable enable option /app_mgr/itunesserver/enable Register disable /syslog_server/enable lower success /proc/version 
+	Number of Para source files: 22
+API: 
+	Hits API count: 6
+	Hits API : 
+		text login/Auth Auth login text/css css 
+	Number of API source files: 45
+
+Program name : /home/satc/DataCon/Tenda/G3/_US_G3V3.0br_V15.11.0.16(9024)_CN_TDC.bin.extracted/squashfs-root/bin/73
+Strings count : 203
+Para + API count : 17
+Para: 
+	Hits Para count: 11
+	Hits Para : 
+		Error Register index wifi object start switch /disk/syslogd_audit/index timeout error settings 
+	Number of Para source files: 14
+API: 
+	Hits API count: 6
+	Hits API : 
+		text login/Auth Auth login text/css css 
+	Number of API source files: 45
+

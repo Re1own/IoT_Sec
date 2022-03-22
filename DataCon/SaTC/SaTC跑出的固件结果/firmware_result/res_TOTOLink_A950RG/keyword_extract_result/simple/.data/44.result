@@ -1,1 +1,0 @@
-l2tpPassThru lanGateway comment object lanNetmask lanPriDns l2tpPass gateway static dhcpStart pptpPass static_gw pptpPassThru lanSecDns mask name mode enable dhcpLease lan_ip dhcpEnd ipsecPassThru staNum opmode vpnpass 

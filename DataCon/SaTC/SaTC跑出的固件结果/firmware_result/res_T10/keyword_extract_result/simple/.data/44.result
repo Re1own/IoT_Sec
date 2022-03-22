@@ -1,1 +1,0 @@
-dhcpEnd time lanNetmask static enable comment pptpPass opmode l2tpPass staNum pptpPassThru mask dhcpLease ipsecPassThru dhcpStart l2tpPassThru object lan_ip 

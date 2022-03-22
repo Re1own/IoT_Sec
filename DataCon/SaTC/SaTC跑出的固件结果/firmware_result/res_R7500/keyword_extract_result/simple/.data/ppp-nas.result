@@ -1,1 +1,0 @@
-stop restart enable enable_session2 pppoe session pppoe2_username pppoe2_password print default tr_l time user remote scan pppoe2_servicename 

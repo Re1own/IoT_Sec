@@ -1,0 +1,924 @@
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/22
+Strings count : 3840
+Para + API count : 131
+Para: 
+	Hits Para count: 112
+	Hits Para : 
+		dhcpLease pppoePass checkbox protocol /network_mgr/bonding/enable /system_mgr/afp/enable radio /system_mgr/nfs/enable /network_mgr/lan0/dns1 /download_mgr/p2p/enable staticMask menu wizard /app_mgr/ftp/setting/port Update pptpIp pptp_gw pptpUser opmode hidden lan_ip TKIPAES /backup_mgr/time_machine/enable WPAPSK band /network_mgr/lan0/dns2 password application/class success l2tpMode SHARED WPA2PSK/TKIPAES /data/log/syslog syslog static /backup_mgr/rsyncd/enable port SELECT l2tp_ip ssid /device/fresetwizard l2tpIp admuser /network_mgr/ddns/enable pptp_ip pppoeUser INPUT WPAPSK/TKIPAES macCloneMac dhcpStart dns2 dns1 upnpEnabled l2tp_server block comment rtsThreshold bssid dhcpEnd weekdays pptpPassThru actionType /system_mgr/quota/enable apply l2tpPassThru l2tpPass /network_mgr/snmp/enable checked service WPA2PSK width /app_mgr/upnpavserver/enable pptpPass WPAPSKWPA2PSK username enable dToPort fromPort /syslog_server/enable undefined language mac3 mac2 mac1 mask mask2 file staticIp l2tpUser pptpMode proto lanNetmask delRule pptp_server dFromPort pppoe channel week ipsecPassThru fragThreshold /app_mgr/itunesserver/enable time WPA1PSKWPA2PSK/TKIPAES Flags opMode device Login macCloneEnabled class center admpass Linux 
+	Number of Para source files: 45
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg style/ style FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/34
+Strings count : 4153
+Para + API count : 132
+Para: 
+	Hits Para count: 112
+	Hits Para : 
+		wepkey lanMac /network_mgr/bonding/enable wlanRx /system_mgr/afp/enable radio protocol /system_mgr/nfs/enable ddns_status /network_mgr/lan0/dns1 /download_mgr/p2p/enable menu wizard /app_mgr/ftp/setting/port Update pptpIp pptpUser opmode hidden productModel /backup_mgr/time_machine/enable band /network_mgr/lan0/dns2 password l2tpMtu wanRx success ddnsDomain SHARED PPPoE wanMac /data/log/syslog syslog static l2tpUser port l2tp_ip ssid /device/fresetwizard l2tpIp filename dtimPeriod /network_mgr/ddns/enable pptp_ip ddnsEnabled l2tpServerIp active language dns2 dns1 upnpEnabled checkbox l2tp_server Flags block rtsThreshold bssid hostName ntpServerIp1 ntpServerIp2 ddnsStatus easysetup /system_mgr/quota/enable apply ntpServerIp /network_mgr/snmp/enable /var/ddns/ddns_status service ddnsPassword weekdays submit width /app_mgr/upnpavserver/enable pptpPass username enable pptp_server pppConnect /syslog_server/enable disconnected wepkey2 wepkey3 display /network_mgr/ddns/timestamp l2tpPass application/class dmzEnabled file ascii /var/ddns_status /backup_mgr/rsyncd/enable proto timestamp pppoe channel week pptpServerIp fragThreshold /app_mgr/itunesserver/enable time lanRx connected opMode device Login class pptpMtu wan_port center mask Linux dhcpMtu 
+	Number of Para source files: 43
+API: 
+	Hits API count: 20
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg style/ style FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode major /wireless/ TKIP/AES WPA minor 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/21
+Strings count : 274547
+Para + API count : 114
+Para: 
+	Hits Para count: 93
+	Hits Para : 
+		checkbox lanMac /network_mgr/bonding/enable /system_mgr/afp/enable radio protocol /system_mgr/nfs/enable underline help wizard /app_mgr/ftp/setting/port Update hidden lan_ip Mobile timestamp band password success SHARED PPPoE view macAddress /data/log/syslog syslog lanCfg static /backup_mgr/rsyncd/enable port SELECT ssid /device/fresetwizard bottom hostTime filename /network_mgr/ddns/enable object active INPUT lanMask language Flags block comment upTime bssid hostName /system_mgr/quota/enable apply /network_mgr/snmp/enable checked service arpTable key_format weekdays submit width /app_mgr/upnpavserver/enable /network_mgr/ddns/timestamp enable port_link /syslog_server/enable center disconnected authList display username file mask1 auth_mode mask3 mask2 application/class ascii authMode /download_mgr/p2p/enable proto /backup_mgr/time_machine/enable pppoe channel week /app_mgr/itunesserver/enable time connected opMode device Login class undefined mobile mask Linux ipAddress 
+	Number of Para source files: 45
+API: 
+	Hits API count: 21
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg style/ style FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode major /wireless/ TKIP/AES WPA minor manufacturer 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/5
+Strings count : 3454
+Para + API count : 112
+Para: 
+	Hits Para count: 94
+	Hits Para : 
+		dhcpLease pppoePass protocol /network_mgr/bonding/enable band2 /system_mgr/afp/enable radio ssid1 /system_mgr/nfs/enable /download_mgr/p2p/enable portRange /app_mgr/ftp/setting/port Update pptpIp pptpUser opmode hidden lan_ip TKIPAES /backup_mgr/time_machine/enable WPAPSK band password success l2tpMode SHARED PPPoE /data/log/syslog syslog static /backup_mgr/rsyncd/enable port l2tp_ip ssid bottom l2tpIp admuser /network_mgr/ddns/enable scheduleDel pptp_ip pppoeUser active WPAPSK/TKIPAES macCloneMac dhcpStart upnpEnabled WPA2PSK/TKIPAES l2tp_server menu band5g comment bssid dhcpEnd /system_mgr/quota/enable apply mac2 /network_mgr/snmp/enable WPA2PSK submit width /app_mgr/upnpavserver/enable pptpPass WPAPSKWPA2PSK username enable dToPort /syslog_server/enable language l2tpPass file mask application/class staticIp l2tpUser pptpMode proto lanNetmask pptp_server encryp_type dFromPort pppoe channel week /app_mgr/itunesserver/enable WPA1PSKWPA2PSK/TKIPAES connected opMode Login macCloneEnabled class center admpass channel5g time 
+	Number of Para source files: 40
+API: 
+	Hits API count: 18
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg style/ style FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/91
+Strings count : 12706
+Para + API count : 116
+Para: 
+	Hits Para count: 94
+	Hits Para : 
+		wepkey protocol help band2 focus checkbox ssid2 file /system_mgr/nfs/enable /network_mgr/bonding/enable /network_mgr/lan0/dns1 menu wizard /app_mgr/ftp/setting/port Update opmode hidden lan_ip new_version Mobile timestamp band iPhone /network_mgr/lan0/dns2 password success /system_mgr/afp/enable radio PPPoE view static Android /backup_mgr/rsyncd/enable port l2tp_ip ssid /device/fresetwizard filename /network_mgr/ddns/enable pptp_ip active INPUT manufacturer Firefox language dns2 dns1 block comment bssid myip /etc/new_version /system_mgr/quota/enable apply /network_mgr/snmp/enable checked service ddnsStatus submit width /app_mgr/upnpavserver/enable /network_mgr/ddns/timestamp enable port_link /syslog_server/enable disconnected display username mac4 mac3 mac2 mac1 Chrome application/class ascii /download_mgr/p2p/enable proto /backup_mgr/time_machine/enable android pppoe channel week /app_mgr/itunesserver/enable Linux connected device Login class center mobile serialNumber mask time h_ssid 
+	Number of Para source files: 43
+API: 
+	Hits API count: 22
+	Hits API : 
+		AES major style/ style getDhcpCliList getStationMacByIp NTPSyncWithHost /wireless/ setting/RebootSystem setting minor getDMZCfg wireless setOpMode WPA/WPA2-PSK TKIP/AES manufacturer cgi-bin TKIP FirmwareUpgrade WPA WPA2-PSK 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/60
+Strings count : 4784
+Para + API count : 107
+Para: 
+	Hits Para count: 89
+	Hits Para : 
+		wepkey protocol /network_mgr/bonding/enable band1 /system_mgr/afp/enable radio ssid3 file ssid1 /system_mgr/nfs/enable wpakey ddns_status /network_mgr/lan0/dns1 wanMode menu wizard /app_mgr/ftp/setting/port /etc/new_version pptp_gw opmode wifi_ssid lan_ip new_version /backup_mgr/time_machine/enable band /network_mgr/lan0/dns2 password success ssid2 PPPoE /data/log/syslog wtime syslog static /backup_mgr/rsyncd/enable port ssid /device/fresetwizard bottom /network_mgr/ddns/enable active INPUT language dns2 dns1 checkbox l2tp_server block comment l2tp_gw bssid myip /system_mgr/quota/enable apply /network_mgr/snmp/enable checked mac1 service submit width /app_mgr/upnpavserver/enable username enable port_link /syslog_server/enable hidden disconnected display errmsg mac4 mac3 mac2 /var/ddns/ddns_status application/class /var/ddns_status /download_mgr/p2p/enable proto pptp_server pppoe channel /app_mgr/itunesserver/enable connected device class wan_port center mask time h_ssid 
+	Number of Para source files: 42
+API: 
+	Hits API count: 18
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg style/ style FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/18
+Strings count : 3859
+Para + API count : 103
+Para: 
+	Hits Para count: 85
+	Hits Para : 
+		comment username upTime wepkey /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog wanIp mask2 syslog /system_mgr/afp/enable radio wanMask application/class ssid1 /system_mgr/quota/enable protocol INPUT /system_mgr/nfs/enable port SELECT wanMac password /download_mgr/p2p/enable ssid service proto deviceList menu l2tpIp /app_mgr/ftp/setting/port /etc/new_version filename pptpIp /app_mgr/upnpavserver/enable device ddnsStatus /app_mgr/itunesserver/enable mac2 hostName android /network_mgr/ddns/enable pppoe channel /network_mgr/ddns/timestamp lan_ip file enable new_version staticIp ipend language /backup_mgr/time_machine/enable Linux loginUser connected band /network_mgr/snmp/enable wifi_ssid iPhone /network_mgr/lan0/dns2 /syslog_server/enable lanMask /network_mgr/lan0/dns1 class apply wepkey3 undefined ipstart ddnsDomain dns2 dns1 width mask success object cn_ss timestamp time static wepkey2 wanSpeed PPPoE block /device/fresetwizard 
+	Number of Para source files: 40
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade TKIP deviceList setting WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/36
+Strings count : 3885
+Para + API count : 103
+Para: 
+	Hits Para count: 85
+	Hits Para : 
+		comment username upTime wepkey /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog wanIp mask2 syslog /system_mgr/afp/enable radio wanMask application/class ssid1 /system_mgr/quota/enable protocol INPUT /system_mgr/nfs/enable port SELECT wanMac password /download_mgr/p2p/enable ssid service proto deviceList menu l2tpIp /app_mgr/ftp/setting/port /etc/new_version filename pptpIp /app_mgr/upnpavserver/enable device ddnsStatus /app_mgr/itunesserver/enable mac2 hostName android /network_mgr/ddns/enable pppoe channel /network_mgr/ddns/timestamp lan_ip file enable new_version staticIp ipend language /backup_mgr/time_machine/enable Linux loginUser connected band /network_mgr/snmp/enable wifi_ssid iPhone /network_mgr/lan0/dns2 /syslog_server/enable lanMask /network_mgr/lan0/dns1 class apply wepkey3 undefined ipstart ddnsDomain dns2 dns1 width mask success object cn_ss timestamp time static wepkey2 wanSpeed PPPoE block /device/fresetwizard 
+	Number of Para source files: 40
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade TKIP deviceList setting WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/77
+Strings count : 6656
+Para + API count : 99
+Para: 
+	Hits Para count: 80
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /var/ddns/ddns_status /data/log/syslog mask1 Update syslog /system_mgr/afp/enable static ssid3 application/class ssid1 /system_mgr/quota/enable protocol /system_mgr/nfs/enable ascii port help l2tp_ip /download_mgr/p2p/enable ssid service proto wizard /app_mgr/ftp/setting/port WPA2PSK submit filename ddns_ip width bssid /app_mgr/upnpavserver/enable device /app_mgr/itunesserver/enable hidden manufacturer /network_mgr/ddns/enable pppoe channel pptp_ip week lan_ip file enable PPPoE pptp_server ddns_status /backup_mgr/time_machine/enable class object block radio band /network_mgr/snmp/enable connected active /syslog_server/enable Login password wan_port apply undefined Flags /var/ddns_status Firefox /device/fresetwizard language mask success display l2tp_server ssid2 time SHARED bssid4 bssid3 bssid2 bssid1 
+	Number of Para source files: 37
+API: 
+	Hits API count: 19
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ major FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA minor manufacturer 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/75
+Strings count : 19585
+Para + API count : 98
+Para: 
+	Hits Para count: 78
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable bssid /data/log/syslog eventSubURL auth_mode Update syslog /system_mgr/afp/enable actionType timestamp application/class INPUT /system_mgr/quota/enable protocol /system_mgr/nfs/enable ascii port SELECT help /download_mgr/p2p/enable checked ssid service proto file /app_mgr/ftp/setting/port WPA2PSK filename controlURL width static /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable wifi_ssid manufacturer /network_mgr/ddns/enable channel /network_mgr/ddns/timestamp lan_ip serviceType enable /app_mgr/itunesserver/enable WPAPSK undefined block focus radio band /network_mgr/snmp/enable connected SCPDURL device /syslog_server/enable Login password active class apply center hidden disconnected language mask success object PPPoE lanCfg week /device/fresetwizard time SHARED ipAddress display errmsg view 
+	Number of Para source files: 41
+API: 
+	Hits API count: 20
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ major FirmwareUpgrade TKIP setting presentationURL WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA minor manufacturer 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/10
+Strings count : 3124
+Para + API count : 91
+Para: 
+	Hits Para count: 75
+	Hits Para : 
+		comment mac6 mac5 wepkey mac3 /network_mgr/bonding/enable mac1 eventSubURL weekdays active /system_mgr/afp/enable static submit application/class apply /system_mgr/quota/enable /network_mgr/snmp/enable Android /backup_mgr/rsyncd/enable ascii port mac2 /system_mgr/nfs/enable password modelName /download_mgr/p2p/enable ssid service proto file /app_mgr/ftp/setting/port Update protocol filename controlURL width /app_mgr/upnpavserver/enable deviceType /backup_mgr/time_machine/enable mac4 /network_mgr/ddns/enable pppoe channel week lan_ip serviceType enable /app_mgr/itunesserver/enable WPAPSK time startMinute band serviceId connected iPhone SCPDURL device /syslog_server/enable Login /network_mgr/lan0/dns1 class startHour WEP64 success language dns1 serialNumber mask WEP128 username Linux h_ssid PPPoE block /device/fresetwizard 
+	Number of Para source files: 37
+API: 
+	Hits API count: 16
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg UDN FirmwareUpgrade wireless setting deviceType modelName WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/54
+Strings count : 2819
+Para + API count : 90
+Para: 
+	Hits Para count: 74
+	Hits Para : 
+		comment mac6 mac5 wepkey mac3 /network_mgr/bonding/enable mac1 eventSubURL hostName active /system_mgr/afp/enable static application/class checked /system_mgr/quota/enable /network_mgr/snmp/enable /backup_mgr/rsyncd/enable ascii port mac2 /system_mgr/nfs/enable password modelName /download_mgr/p2p/enable ssid service proto file /app_mgr/ftp/setting/port Update protocol filename controlURL width bssid /app_mgr/upnpavserver/enable deviceType /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe channel week lan_ip serviceType enable /app_mgr/itunesserver/enable WPAPSK time startMinute band serviceId connected SCPDURL device /syslog_server/enable Login /network_mgr/lan0/dns1 class productName startHour WEP64 success language dns1 serialNumber mask WEP128 username Linux apply mac4 PPPoE block /device/fresetwizard 
+	Number of Para source files: 38
+API: 
+	Hits API count: 16
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg UDN FirmwareUpgrade wireless setting deviceType modelName WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/25
+Strings count : 2619
+Para + API count : 88
+Para: 
+	Hits Para count: 72
+	Hits Para : 
+		comment mac6 mac5 wepkey mac3 /network_mgr/bonding/enable mac1 eventSubURL weekdays active /system_mgr/afp/enable static application/class apply /system_mgr/quota/enable /network_mgr/snmp/enable /backup_mgr/rsyncd/enable ascii port mac2 /system_mgr/nfs/enable password modelName /download_mgr/p2p/enable ssid service proto file /app_mgr/ftp/setting/port Update protocol filename controlURL width /app_mgr/upnpavserver/enable deviceType /backup_mgr/time_machine/enable mac4 /network_mgr/ddns/enable pppoe channel week lan_ip serviceType enable /app_mgr/itunesserver/enable WPAPSK time startMinute band serviceId connected SCPDURL device /syslog_server/enable Login /network_mgr/lan0/dns1 class startHour WEP64 success language dns1 serialNumber mask WEP128 username Linux h_ssid PPPoE block /device/fresetwizard 
+	Number of Para source files: 37
+API: 
+	Hits API count: 16
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg UDN FirmwareUpgrade wireless setting deviceType modelName WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/40
+Strings count : 7012
+Para + API count : 94
+Para: 
+	Hits Para count: 76
+	Hits Para : 
+		comment week /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /var/ddns/ddns_status /data/log/syslog band3 band1 auth_mode Update active /system_mgr/afp/enable radio application/class INPUT /system_mgr/quota/enable mac3 Android /system_mgr/nfs/enable ascii port ddns_status password /download_mgr/p2p/enable ssid service proto apply /app_mgr/ftp/setting/port weekdays protocol ddns_ip width bssid /app_mgr/upnpavserver/enable device opmode /backup_mgr/time_machine/enable android manufacturer /network_mgr/ddns/enable pppoe channel /network_mgr/ddns/timestamp lan_ip file enable pptp_server /var/ddns_status Mobile /app_mgr/itunesserver/enable object band /network_mgr/snmp/enable connected /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 class disconnected wan_port center success syslog dns2 dns1 currentTime mask WEP128 username timestamp /device/fresetwizard time static block band5g 
+	Number of Para source files: 40
+API: 
+	Hits API count: 18
+	Hits API : 
+		cgi-bin wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA manufacturer 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/76
+Strings count : 3256
+Para + API count : 90
+Para: 
+	Hits Para count: 75
+	Hits Para : 
+		comment username upTime wepkey /backup_mgr/rsyncd/enable /network_mgr/bonding/enable Linux /data/log/syslog hostName syslog /system_mgr/afp/enable static wanMask application/class ssid1 /system_mgr/quota/enable protocol /system_mgr/nfs/enable port SELECT wanMac password /download_mgr/p2p/enable ssid timestamp proto apply /app_mgr/ftp/setting/port /etc/new_version filename width /app_mgr/upnpavserver/enable device /app_mgr/itunesserver/enable wanIp android /network_mgr/ddns/enable pppoe channel /network_mgr/ddns/timestamp lan_ip file enable new_version staticIp ipend /backup_mgr/time_machine/enable loginUser band /network_mgr/snmp/enable connected iPhone /network_mgr/lan0/dns2 /syslog_server/enable lanMask /network_mgr/lan0/dns1 class undefined wepkey3 language ipstart ddnsDomain dns2 dns1 mask success object cn_ss time radio wepkey2 wanSpeed PPPoE block /device/fresetwizard 
+	Number of Para source files: 37
+API: 
+	Hits API count: 15
+	Hits API : 
+		cgi-bin AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/48
+Strings count : 3382
+Para + API count : 84
+Para: 
+	Hits Para count: 69
+	Hits Para : 
+		wepkey protocol /network_mgr/bonding/enable mac1 wtime device /system_mgr/afp/enable static application/class INPUT /system_mgr/quota/enable l2tp_gw /backup_mgr/rsyncd/enable port l2tpPass /system_mgr/nfs/enable l2tp_ip l2tpUser /download_mgr/p2p/enable ssid service proto apply /app_mgr/ftp/setting/port Update filename width pptp_gw /app_mgr/upnpavserver/enable pptpUser opmode /backup_mgr/time_machine/enable hidden /network_mgr/ddns/enable pppoe channel pptp_ip username lan_ip file enable pptp_server ipend language /app_mgr/itunesserver/enable pptpPass band /network_mgr/lan0/dns1 /network_mgr/snmp/enable connected opMode /network_mgr/lan0/dns2 /syslog_server/enable password active class center pptp_mask ipstart dns2 dns1 mask l2tp_server time radio h_ssid PPPoE block /device/fresetwizard 
+	Number of Para source files: 38
+API: 
+	Hits API count: 15
+	Hits API : 
+		style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade wireless setting WPA2-PSK WPA/WPA2-PSK setOpMode style/ WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/24
+Strings count : 4325
+Para + API count : 84
+Para: 
+	Hits Para count: 65
+	Hits Para : 
+		comment username wepkey /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /var/ddns/ddns_status /data/log/syslog syslog /system_mgr/afp/enable radio application/class apply /system_mgr/quota/enable protocol /system_mgr/nfs/enable ascii port l2tp_ip /download_mgr/p2p/enable ssid service proto wizard /app_mgr/ftp/setting/port Update filename ddns_ip width static /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable manufacturer /network_mgr/ddns/enable pppoe channel pptp_ip week lan_ip file enable pptp_server ddns_status /app_mgr/itunesserver/enable band /network_mgr/snmp/enable connected device /syslog_server/enable Login password class disconnected Flags /var/ddns_status wan_port /device/fresetwizard language mask success PPPoE l2tp_server time SHARED display block 
+	Number of Para source files: 36
+API: 
+	Hits API count: 19
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ major FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA minor manufacturer 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/33
+Strings count : 2411
+Para + API count : 75
+Para: 
+	Hits Para count: 62
+	Hits Para : 
+		comment macAddress pppoePass wepkey /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /var/ddns/ddns_status /data/log/syslog wtime /etc/new_version syslog /system_mgr/afp/enable static file INPUT /system_mgr/quota/enable /system_mgr/nfs/enable ascii port help ddns_status password /download_mgr/p2p/enable checked ssid service menu wizard /app_mgr/ftp/setting/port Update filename width /app_mgr/upnpavserver/enable device /backup_mgr/time_machine/enable wifi_ssid /network_mgr/ddns/enable pppoe channel username lan_ip enable new_version /var/ddns_status /app_mgr/itunesserver/enable /network_mgr/snmp/enable /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 wpakey hidden center language dns2 dns1 mask checkbox time h_ssid PPPoE block /device/fresetwizard 
+	Number of Para source files: 40
+API: 
+	Hits API count: 13
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade wireless setting WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/9
+Strings count : 7092
+Para + API count : 66
+Para: 
+	Hits Para count: 55
+	Hits Para : 
+		macAddress upTime /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog Update syslog /system_mgr/afp/enable static application/class apply /system_mgr/quota/enable protocol /system_mgr/nfs/enable port mac2 /download_mgr/p2p/enable service proto /app_mgr/ftp/setting/port weekdays width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable channel /network_mgr/ddns/timestamp file enable /app_mgr/itunesserver/enable port_link band /network_mgr/snmp/enable connected device /syslog_server/enable Login password active class manufacturer mask2 disconnected success currentTime mask timestamp week /device/fresetwizard authList time lanMask Flags block view 
+	Number of Para source files: 37
+API: 
+	Hits API count: 11
+	Hits API : 
+		style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode style/ manufacturer 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/55
+Strings count : 4261
+Para + API count : 63
+Para: 
+	Hits Para count: 53
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog mask1 syslog /system_mgr/afp/enable static application/class /system_mgr/quota/enable protocol /system_mgr/nfs/enable port help aplist password /download_mgr/p2p/enable ssid service proto /app_mgr/ftp/setting/port Update submit filename width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable android /network_mgr/ddns/enable pppoe channel username lan_ip file enable staticIp /app_mgr/itunesserver/enable band /network_mgr/snmp/enable connected /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 class language mobile dns2 dns1 mask channel5g time PPPoE block 
+	Number of Para source files: 35
+API: 
+	Hits API count: 10
+	Hits API : 
+		wireless AES TKIP/AES style TKIP WPA/WPA2-PSK WPA2-PSK /wireless/ WPA style/ 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/12
+Strings count : 497
+Para + API count : 62
+Para: 
+	Hits Para count: 48
+	Hits Para : 
+		comment week /backup_mgr/rsyncd/enable /network_mgr/bonding/enable bssid mask dhcpEnd /system_mgr/afp/enable ssid2 INPUT /system_mgr/quota/enable /network_mgr/snmp/enable /download_mgr/p2p/enable password /system_mgr/nfs/enable ssid lanNetmask WPA2PSK submit /app_mgr/upnpavserver/enable opmode /backup_mgr/time_machine/enable wifi_ssid WPAPSKWPA2PSK /network_mgr/ddns/enable pppoe channel username lan_ip enable /app_mgr/itunesserver/enable WPAPSK object macCloneMac ssid5g /network_mgr/lan0/dns2 /syslog_server/enable Login /network_mgr/lan0/dns1 macCloneEnabled ntpEnabled dhcpStart dns2 dns1 upnpEnabled admpass time static 
+	Number of Para source files: 26
+API: 
+	Hits API count: 14
+	Hits API : 
+		AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/43
+Strings count : 7808
+Para + API count : 68
+Para: 
+	Hits Para count: 49
+	Hits Para : 
+		en_mo /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog device /system_mgr/afp/enable static application/class apply /system_mgr/quota/enable protocol Android /system_mgr/nfs/enable port SELECT password /download_mgr/p2p/enable ssid /device/fresetwizard proto wizard /app_mgr/ftp/setting/port Update width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe week file enable /app_mgr/itunesserver/enable Linux /network_mgr/snmp/enable connected /network_mgr/lan0/dns2 /syslog_server/enable Login /network_mgr/lan0/dns1 class success language syslog dns2 dns1 mask username time PPPoE 
+	Number of Para source files: 34
+API: 
+	Hits API count: 19
+	Hits API : 
+		cgi-bin wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg style/ style FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode /wireless/ TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/70
+Strings count : 1782
+Para + API count : 45
+Para: 
+	Hits Para count: 45
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable bssid /data/log/syslog syslog /system_mgr/afp/enable static application/class /system_mgr/quota/enable apply /system_mgr/nfs/enable port /download_mgr/p2p/enable ssid service proto /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable android /network_mgr/ddns/enable pppoe username file enable /app_mgr/itunesserver/enable loginUser /network_mgr/snmp/enable connected device /syslog_server/enable Login password class /device/fresetwizard success mobile mask object time PPPoE block 
+	Number of Para source files: 33
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/59
+Strings count : 2336
+Para + API count : 50
+Para: 
+	Hits Para count: 43
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable mask2 /system_mgr/afp/enable static application/class INPUT /system_mgr/quota/enable protocol /system_mgr/nfs/enable ascii port mac2 /download_mgr/p2p/enable ssid /device/fresetwizard proto /app_mgr/ftp/setting/port Update submit filename width /app_mgr/upnpavserver/enable opmode /backup_mgr/time_machine/enable /network_mgr/ddns/enable channel file enable /app_mgr/itunesserver/enable band /network_mgr/snmp/enable Flags device /syslog_server/enable class wan_port mask wan_port_n time display block 
+	Number of Para source files: 31
+API: 
+	Hits API count: 7
+	Hits API : 
+		cgi-bin wireless major /wireless/ AES TKIP TKIP/AES 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/81
+Strings count : 5082
+Para + API count : 51
+Para: 
+	Hits Para count: 43
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable static file /system_mgr/quota/enable protocol /system_mgr/nfs/enable ascii port /download_mgr/p2p/enable service proto /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe /network_mgr/ddns/timestamp enable /app_mgr/itunesserver/enable object /network_mgr/snmp/enable connected device /syslog_server/enable password /device/fresetwizard success serialNumber mask timestamp block time SHARED errmsg view 
+	Number of Para source files: 33
+API: 
+	Hits API count: 8
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/47
+Strings count : 653
+Para + API count : 44
+Para: 
+	Hits Para count: 38
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog Update syslog /system_mgr/afp/enable static file /system_mgr/quota/enable /system_mgr/nfs/enable port help /download_mgr/p2p/enable ssid /device/fresetwizard menu /app_mgr/ftp/setting/port weekdays filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable channel week enable /app_mgr/itunesserver/enable WPAPSK object band /network_mgr/snmp/enable connected device /syslog_server/enable password txPower time 
+	Number of Para source files: 31
+API: 
+	Hits API count: 6
+	Hits API : 
+		AES TKIP WPA/WPA2-PSK WPA2-PSK TKIP/AES WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/96
+Strings count : 688
+Para + API count : 51
+Para: 
+	Hits Para count: 42
+	Hits Para : 
+		comment username checkbox /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /var/ddns/ddns_status device /system_mgr/afp/enable static application/class /system_mgr/quota/enable protocol /system_mgr/nfs/enable port ddns_status password /download_mgr/p2p/enable checked service wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable /network_mgr/ddns/timestamp file enable /var/ddns_status /app_mgr/itunesserver/enable /network_mgr/snmp/enable /network_mgr/lan0/dns2 /syslog_server/enable /network_mgr/lan0/dns1 class center dns2 dns1 mask timestamp time block /device/fresetwizard 
+	Number of Para source files: 28
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/88
+Strings count : 645
+Para + API count : 38
+Para: 
+	Hits Para count: 34
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable service /app_mgr/ftp/setting/port filename width /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable Mobile /backup_mgr/time_machine/enable band /network_mgr/snmp/enable /syslog_server/enable Login password center success mobile mask time block view 
+	Number of Para source files: 35
+API: 
+	Hits API count: 4
+	Hits API : 
+		wireless style/ style /wireless/ 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/42
+Strings count : 862
+Para + API count : 48
+Para: 
+	Hits Para count: 37
+	Hits Para : 
+		comment checkbox /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable application/class /system_mgr/quota/enable /system_mgr/nfs/enable port password /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable hidden /network_mgr/ddns/enable username file enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable /network_mgr/lan0/dns1 class service center dns2 dns1 time /network_mgr/lan0/dns2 display 
+	Number of Para source files: 26
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin style getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem style/ 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/19
+Strings count : 509
+Para + API count : 34
+Para: 
+	Hits Para count: 34
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog weekdays syslog /system_mgr/afp/enable static file /system_mgr/quota/enable /system_mgr/nfs/enable port help /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable pppoe week enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable connected device /syslog_server/enable password mask time 
+	Number of Para source files: 24
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/44
+Strings count : 400
+Para + API count : 38
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		comment dhcpLease /backup_mgr/rsyncd/enable /network_mgr/bonding/enable dhcpEnd /system_mgr/afp/enable static /system_mgr/quota/enable /system_mgr/nfs/enable l2tpPass /download_mgr/p2p/enable lanNetmask /app_mgr/upnpavserver/enable opmode /app_mgr/itunesserver/enable /network_mgr/ddns/enable ipsecPassThru lan_ip enable /backup_mgr/time_machine/enable pptpPass /network_mgr/snmp/enable pptpPassThru /syslog_server/enable l2tpPassThru dhcpStart mask object staNum time 
+	Number of Para source files: 22
+API: 
+	Hits API count: 8
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/87
+Strings count : 473
+Para + API count : 46
+Para: 
+	Hits Para count: 36
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /var/ddns/ddns_status /data/log/syslog /network_mgr/lan0/dns2 /system_mgr/afp/enable file /system_mgr/quota/enable /download_mgr/p2p/enable port ddns_status /system_mgr/nfs/enable service wizard /app_mgr/ftp/setting/port center /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable username enable /var/ddns_status /app_mgr/itunesserver/enable Linux /network_mgr/snmp/enable device /syslog_server/enable /network_mgr/lan0/dns1 manufacturer /device/fresetwizard syslog dns2 dns1 mask time 
+	Number of Para source files: 25
+API: 
+	Hits API count: 10
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem manufacturer 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/85
+Strings count : 1013
+Para + API count : 45
+Para: 
+	Hits Para count: 32
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable help /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /network_mgr/bonding/enable /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable device /syslog_server/enable Login password service success time errmsg 
+	Number of Para source files: 24
+API: 
+	Hits API count: 13
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade TKIP setting setOpMode TKIP/AES 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/72
+Strings count : 735
+Para + API count : 40
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port SELECT /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable password service center time block view 
+	Number of Para source files: 26
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/29
+Strings count : 957
+Para + API count : 40
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable week enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable password center service success time block 
+	Number of Para source files: 27
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/8
+Strings count : 902
+Para + API count : 39
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable help /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /download_mgr/p2p/enable port /network_mgr/bonding/enable /system_mgr/nfs/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable device /syslog_server/enable Login password service success time block 
+	Number of Para source files: 25
+API: 
+	Hits API count: 8
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/14
+Strings count : 1144
+Para + API count : 39
+Para: 
+	Hits Para count: 31
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable help /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /download_mgr/p2p/enable port /network_mgr/bonding/enable /system_mgr/nfs/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable device /syslog_server/enable Login password service success time 
+	Number of Para source files: 24
+API: 
+	Hits API count: 8
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/66
+Strings count : 1032
+Para + API count : 39
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable Android /system_mgr/nfs/enable ascii port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port Update /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable password active service success time block 
+	Number of Para source files: 27
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/30
+Strings count : 1072
+Para + API count : 40
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable help /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /download_mgr/p2p/enable port /network_mgr/bonding/enable /system_mgr/nfs/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable device /syslog_server/enable Login password service success time 
+	Number of Para source files: 24
+API: 
+	Hits API count: 10
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade wireless setting setOpMode /wireless/ 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/17
+Strings count : 469
+Para + API count : 36
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		comment protocol /network_mgr/bonding/enable /backup_mgr/rsyncd/enable /system_mgr/afp/enable INPUT /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable proto /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable delRule /app_mgr/itunesserver/enable dFromPort lan_ip enable /backup_mgr/time_machine/enable object fromPort /network_mgr/snmp/enable /syslog_server/enable success /network_mgr/ddns/enable mask time block 
+	Number of Para source files: 22
+API: 
+	Hits API count: 8
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/32
+Strings count : 1037
+Para + API count : 38
+Para: 
+	Hits Para count: 30
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable help /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /download_mgr/p2p/enable port /network_mgr/bonding/enable /system_mgr/nfs/enable /device/fresetwizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable device /syslog_server/enable Login password service success time 
+	Number of Para source files: 24
+API: 
+	Hits API count: 8
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/62
+Strings count : 980
+Para + API count : 39
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable Android /system_mgr/nfs/enable ascii port /download_mgr/p2p/enable service wizard /app_mgr/ftp/setting/port Update filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable center /device/fresetwizard time 
+	Number of Para source files: 23
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin style getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem style/ 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/78
+Strings count : 272
+Para + API count : 39
+Para: 
+	Hits Para count: 29
+	Hits Para : 
+		/backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable application/class /system_mgr/quota/enable apply /system_mgr/nfs/enable port /download_mgr/p2p/enable menu /app_mgr/ftp/setting/port Update filename width /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable pppoe lan_ip file enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable /syslog_server/enable class center display 
+	Number of Para source files: 24
+API: 
+	Hits API count: 10
+	Hits API : 
+		style getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode style/ 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/92
+Strings count : 669
+Para + API count : 29
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable help /system_mgr/afp/enable application/class /system_mgr/quota/enable /download_mgr/p2p/enable port SELECT /network_mgr/bonding/enable /system_mgr/nfs/enable /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username file enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable /syslog_server/enable Login password class language success time 
+	Number of Para source files: 25
+API: 
+	Hits API count: 1
+	Hits API : 
+		cgi-bin 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/69
+Strings count : 638
+Para + API count : 36
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable week enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable password service center time block 
+	Number of Para source files: 22
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/84
+Strings count : 690
+Para + API count : 37
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /network_mgr/lan0/dns2 /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable /download_mgr/p2p/enable service menu filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable /network_mgr/lan0/dns1 center success dns2 dns1 time block /device/fresetwizard 
+	Number of Para source files: 25
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/71
+Strings count : 773
+Para + API count : 37
+Para: 
+	Hits Para count: 28
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable week enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable password center success time 
+	Number of Para source files: 25
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/39
+Strings count : 447
+Para + API count : 41
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable bssid /system_mgr/afp/enable /system_mgr/quota/enable /system_mgr/nfs/enable /download_mgr/p2p/enable ssid WPA2PSK width /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable hidden /network_mgr/ddns/enable channel lan_ip enable /app_mgr/itunesserver/enable WPAPSK object band /network_mgr/snmp/enable /syslog_server/enable time 
+	Number of Para source files: 22
+API: 
+	Hits API count: 16
+	Hits API : 
+		wireless AES getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg /wireless/ FirmwareUpgrade TKIP setting WPA2-PSK WPA/WPA2-PSK setOpMode TKIP/AES WPA 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/53
+Strings count : 508
+Para + API count : 37
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		comment username /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable week enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable service center time block 
+	Number of Para source files: 21
+API: 
+	Hits API count: 11
+	Hits API : 
+		cgi-bin style getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem style/ 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/63
+Strings count : 817
+Para + API count : 35
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable service center time block 
+	Number of Para source files: 21
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/7
+Strings count : 524
+Para + API count : 35
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable service wizard /app_mgr/ftp/setting/port width /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable band /network_mgr/snmp/enable device /syslog_server/enable center /device/fresetwizard time 
+	Number of Para source files: 24
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/80
+Strings count : 728
+Para + API count : 36
+Para: 
+	Hits Para count: 27
+	Hits Para : 
+		comment /network_mgr/ddns/timestamp /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable service wizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable center /device/fresetwizard timestamp time 
+	Number of Para source files: 21
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/51
+Strings count : 406
+Para + API count : 34
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		/backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable service menu /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable enable /backup_mgr/time_machine/enable object /network_mgr/snmp/enable device /syslog_server/enable password /device/fresetwizard language time view 
+	Number of Para source files: 22
+API: 
+	Hits API count: 8
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/86
+Strings count : 295
+Para + API count : 17
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		comment username /device/fresetwizard success wizard /app_mgr/ftp/setting/port service file time device Login password port ssid 
+	Number of Para source files: 23
+API: 
+	Hits API count: 3
+	Hits API : 
+		cgi-bin wireless /wireless/ 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/46
+Strings count : 796
+Para + API count : 19
+Para: 
+	Hits Para count: 13
+	Hits Para : 
+		username comment service success loginPass /app_mgr/ftp/setting/port file time SHARED Login password port view 
+	Number of Para source files: 23
+API: 
+	Hits API count: 6
+	Hits API : 
+		AES TKIP WPA/WPA2-PSK WPA2-PSK TKIP/AES WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/38
+Strings count : 184
+Para + API count : 21
+Para: 
+	Hits Para count: 15
+	Hits Para : 
+		comment lan_ip /device/fresetwizard /data/log/syslog WPAPSK /app_mgr/ftp/setting/port Update WPA2PSK syslog connected time device WPAPSKWPA2PSK port channel 
+	Number of Para source files: 21
+API: 
+	Hits API count: 6
+	Hits API : 
+		AES TKIP WPA/WPA2-PSK WPA2-PSK TKIP/AES WPA 
+	Number of API source files: 49
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/58
+Strings count : 515
+Para + API count : 35
+Para: 
+	Hits Para count: 26
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /data/log/syslog syslog /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable center service time 
+	Number of Para source files: 20
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/79
+Strings count : 394
+Para + API count : 34
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		comment checkbox /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable center service time 
+	Number of Para source files: 20
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/61
+Strings count : 519
+Para + API count : 34
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable service wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable hidden /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable center /device/fresetwizard time 
+	Number of Para source files: 20
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/97
+Strings count : 535
+Para + API count : 34
+Para: 
+	Hits Para count: 25
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable service wizard /app_mgr/ftp/setting/port filename /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable center /device/fresetwizard time 
+	Number of Para source files: 19
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/41
+Strings count : 705
+Para + API count : 19
+Para: 
+	Hits Para count: 14
+	Hits Para : 
+		comment file protocol help proto /data/log/syslog /app_mgr/ftp/setting/port class syslog application/class time filename port block 
+	Number of Para source files: 19
+API: 
+	Hits API count: 5
+	Hits API : 
+		TKIP style/ AES TKIP/AES style 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/67
+Strings count : 405
+Para + API count : 33
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable service wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable center /device/fresetwizard time 
+	Number of Para source files: 19
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/28
+Strings count : 307
+Para + API count : 33
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable /device/fresetwizard wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable service center time block 
+	Number of Para source files: 19
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/6
+Strings count : 391
+Para + API count : 33
+Para: 
+	Hits Para count: 24
+	Hits Para : 
+		comment /backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable port /download_mgr/p2p/enable service wizard /app_mgr/ftp/setting/port /app_mgr/upnpavserver/enable /app_mgr/itunesserver/enable /network_mgr/ddns/enable username enable /backup_mgr/time_machine/enable /network_mgr/snmp/enable device /syslog_server/enable center /device/fresetwizard time 
+	Number of Para source files: 19
+API: 
+	Hits API count: 9
+	Hits API : 
+		cgi-bin getDhcpCliList getStationMacByIp NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode setting/RebootSystem 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/68
+Strings count : 339
+Para + API count : 18
+Para: 
+	Hits Para count: 10
+	Hits Para : 
+		week comment object protocol proto wizard lan_ip time Login password 
+	Number of Para source files: 17
+API: 
+	Hits API count: 8
+	Hits API : 
+		getDhcpCliList getStationMacByIp setting/RebootSystem NTPSyncWithHost getDMZCfg FirmwareUpgrade setting setOpMode 
+	Number of API source files: 52
+
+Program name : /home/satc/DataCon/TOTOLink/T10/_TOTOLINK_CS185R_T10_IP04336_8197F_SPI_16M64M_V5.9c.1485_B20180122_ALL.web.extracted/squashfs-root/bin/100
+Strings count : 195
+Para + API count : 23
+Para: 
+	Hits Para count: 23
+	Hits Para : 
+		/backup_mgr/rsyncd/enable /network_mgr/bonding/enable /system_mgr/afp/enable file /system_mgr/quota/enable /system_mgr/nfs/enable /download_mgr/p2p/enable checked proto Update filename /app_mgr/upnpavserver/enable /backup_mgr/time_machine/enable /network_mgr/ddns/enable pppoe username enable /app_mgr/itunesserver/enable /network_mgr/lan0/dns1 /network_mgr/snmp/enable /syslog_server/enable password dns1 
+	Number of Para source files: 17
+API: 
+	Hits API count: 0
+	Hits API : 
+		
+	Number of API source files: 0
+

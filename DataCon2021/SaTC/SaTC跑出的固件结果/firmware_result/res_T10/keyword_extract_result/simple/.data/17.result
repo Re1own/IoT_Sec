@@ -1,0 +1,1 @@
+time port enable protocol comment dFromPort fromPort success delRule INPUT proto object mask block lan_ip 

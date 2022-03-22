@@ -1,2 +1,0 @@
-[Param "enable"(0x00483958), Referenced at FUN_00407848 : 0x0040788c] >> 0x004078d8 >> FUN_00407230 >> 0x00407394 -> system
-[Param "enable"(0x00483958), Referenced at FUN_00407848 : 0x0040788c] >> 0x004078d8 >> FUN_00407230 >> 0x0040746c -> system

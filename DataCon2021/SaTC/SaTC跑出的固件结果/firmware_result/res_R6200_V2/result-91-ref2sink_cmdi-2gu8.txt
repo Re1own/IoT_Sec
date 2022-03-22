@@ -1,0 +1,7 @@
+binary: /home/satc/DataCon/_R6200v2-V1.0.3.12_10.1.11.chk.extracted/squashfs-root/bin/91
+configfile: /home/satc/DataCon/res5_R6200_V2/ghidra_extract_result/91/91_ref2sink_cmdi.result-alter2
+0xc8dda 0x13960   not found
+0x113aae 0x5b60c   not found
+0x118555 0x63eb4   not found
+0x106acb 0x5c328   not found
+0x105bfd 0x5d224   not found

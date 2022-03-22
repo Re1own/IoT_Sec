@@ -1,0 +1,1 @@
+stop enable_sta_mode pptp_serv_ip wan_netmask warning status l2tp_serv_ip wan_proto access main protocol name Connect ap_mode Register bridge_interface sta_mode wan_ipaddr enable_ap_mode enable_ap enable Status interface 
